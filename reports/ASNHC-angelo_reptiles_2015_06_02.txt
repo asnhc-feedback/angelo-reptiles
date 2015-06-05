@@ -1,0 +1,249 @@
+Report for Institution Code ASNHC, Resource angelo_reptiles
+Usage stats for May, 2015, generated on 2015/06/02
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 116
+Number of records retrieved in searches: 822
+Number of different countries where searches have been originated: 8
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Argentina ; Times: 1
+	Country: Australia ; Times: 2
+	Country: Chile ; Times: 1
+	Country: India ; Times: 2
+	Country: Mexico ; Times: 7
+	Country: United Kingdom ; Times: 2
+	Country: United States ; Times: 95
+	Country: Unknown ; Times: 6
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-05-05 ; Times: 1
+	Date: 2015-05-06 ; Times: 8
+	Date: 2015-05-07 ; Times: 5
+	Date: 2015-05-08 ; Times: 3
+	Date: 2015-05-09 ; Times: 8
+	Date: 2015-05-10 ; Times: 3
+	Date: 2015-05-11 ; Times: 1
+	Date: 2015-05-12 ; Times: 1
+	Date: 2015-05-14 ; Times: 1
+	Date: 2015-05-15 ; Times: 2
+	Date: 2015-05-16 ; Times: 6
+	Date: 2015-05-17 ; Times: 3
+	Date: 2015-05-18 ; Times: 2
+	Date: 2015-05-19 ; Times: 4
+	Date: 2015-05-20 ; Times: 4
+	Date: 2015-05-21 ; Times: 6
+	Date: 2015-05-22 ; Times: 20
+	Date: 2015-05-23 ; Times: 6
+	Date: 2015-05-25 ; Times: 1
+	Date: 2015-05-26 ; Times: 7
+	Date: 2015-05-27 ; Times: 6
+	Date: 2015-05-28 ; Times: 6
+	Date: 2015-05-29 ; Times: 9
+	Date: 2015-05-30 ; Times: 2
+	Date: 2015-05-31 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "country:"Mexico" specificepithet:atrox} genus:Crotalus" ; Times: 1
+	Query: "country:"Mexico" specificepithet:atrox genus:crotalus year <= 2015 mappable:1" ; Times: 1
+	Query: "hylactophryne stateprovince:"texas"" ; Times: 1
+	Query: "northern leopard frog" ; Times: 1
+	Query: "11092" ; Times: 1
+	Query: "10270" ; Times: 1
+	Query: "county:"val verde" stateprovince:"texas" (gerrhonotus) year <= 2015" ; Times: 1
+	Query: "country:"Mexico" genus:Arizona mappable:1" ; Times: 1
+	Query: "Eumeces dugesii" ; Times: 4
+	Query: "stateprovince:"Texas" country:"United States" specificepithet:lepidus genus:crotalus" ; Times: 1
+	Query: "class:Reptilia distance(location,geopoint(30.13721055991247,-102.4090576171875))<9174" ; Times: 1
+	Query: "Phrynosoma mcallii" ; Times: 1
+	Query: ""hurterii" stateprovince:"Texas"" ; Times: 1
+	Query: "python molurus" ; Times: 1
+	Query: ""lepidus" stateprovince:"Texas"" ; Times: 1
+	Query: "county:"upton" stateprovince:"Texas" country:"United States" genus:crotalus" ; Times: 1
+	Query: "county:"Hill" stateprovince:"Texas"" ; Times: 1
+	Query: "specificepithet:lacerata genus:Holbrookia" ; Times: 6
+	Query: ""molossus" stateprovince:"Texas"" ; Times: 1
+	Query: "Charina bottae" ; Times: 1
+	Query: "country:"Mexico" genus:crotalus year <= 2015 mappable:1" ; Times: 1
+	Query: "distance(location,geopoint(30.13721055991247,-102.4090576171875))<15652" ; Times: 1
+	Query: "crotalus lepidus" ; Times: 2
+	Query: "Anolis pentaprion" ; Times: 2
+	Query: "11093" ; Times: 1
+	Query: "eunectes murinus" ; Times: 2
+	Query: "pentaprion" ; Times: 1
+	Query: "Liolaemus magellanicus country:"Chile" mappable:1" ; Times: 1
+	Query: "country:"Mexico" specificepithet:atrox genus:Crotalus" ; Times: 1
+	Query: "sceloporus goldmani" ; Times: 1
+	Query: "browni arizona" ; Times: 2
+	Query: ""Gastrophryne olivacea" county:"Travis" stateprovince:"Texas"" ; Times: 1
+	Query: "kinosternon county:"mason" stateprovince:"Texas"" ; Times: 1
+	Query: "Xantusia vigilis riverside" ; Times: 1
+	Query: "Crotalus mitchellii" ; Times: 1
+	Query: "genus:charina" ; Times: 1
+	Query: "crotalus pricei arizona" ; Times: 1
+	Query: "coleonyx sonora" ; Times: 1
+	Query: "charina bottae" ; Times: 1
+	Query: ""horridus" stateprovince:"Texas"" ; Times: 1
+	Query: "graptemys stateprovince:"Texas"" ; Times: 3
+	Query: "Leptotyphlops dulcis New Mexico" ; Times: 2
+	Query: "henshawi class:reptilia" ; Times: 2
+	Query: "specificepithet:lacerata genus:Holbrookia year >= 1995 year <= 2015" ; Times: 1
+	Query: "country:"Mexico" genus:Rhinocheilus mappable:1" ; Times: 3
+	Query: "Lampropeltis zonata county:"Los Angeles"" ; Times: 1
+	Query: "gregg county texas" ; Times: 1
+	Query: "slender glass lizard" ; Times: 1
+	Query: "western fence lizard" ; Times: 1
+	Query: "snake country:"Mexico" class:Reptilia year <= 2015 mappable:1" ; Times: 1
+	Query: "bufo alvarius" ; Times: 6
+	Query: "specificepithet:mexicana genus:Lampropeltis" ; Times: 1
+	Query: "Rana berlandieri class:Amphibia AND (NOT group NOT x NOT forreri)" ; Times: 1
+	Query: ""Gastrophryne olivacea" county:"Burnet" stateprovince:"Texas"" ; Times: 1
+	Query: "crotaphytus wislizenii" ; Times: 1
+	Query: "bothriechis marchi" ; Times: 1
+	Query: "county:"Kerr" stateprovince:"Texas" country:"United States" class:Reptilia" ; Times: 1
+	Query: "Western terrestrial garter snake" ; Times: 1
+	Query: "crotalus scutulatus" ; Times: 7
+	Query: ""catenatus" stateprovince:"Texas"" ; Times: 1
+	Query: "class:Amphibia distance(location,geopoint(30.13721055991247,-102.4090576171875))<9174" ; Times: 1
+	Query: "county:"val verde" stateprovince:"Texas" country:"United States" class:Reptilia year >= 2000 year <= 2015" ; Times: 1
+	Query: "Graptemys stateprovince:"Texas"" ; Times: 1
+	Query: "gerrhonotus stateprovince:"texas"" ; Times: 6
+	Query: "county:"Hill" stateprovince:"Texas" class:Reptilia year <= 2015" ; Times: 1
+	Query: "Leptotyphlops New Mexico" ; Times: 4
+	Query: ""Gastrophryne olivacea" county:"Llano" stateprovince:"Texas"" ; Times: 1
+	Query: "stateprovince:"Texas" country:"United States" specificepithet:alterna genus:Lampropeltis" ; Times: 1
+	Query: "phrynosoma pima county" ; Times: 1
+	Query: "mcallii" ; Times: 1
+	Query: "county:"irion" stateprovince:"Texas" country:"United States" genus:crotalus" ; Times: 1
+	Query: "Xantusia henshawi" ; Times: 1
+	Query: "zonata" ; Times: 1
+	Query: "sceloporus variabilis tamaulipas" ; Times: 1
+	Query: "county:"val verde" stateprovince:"Texas" country:"United States" genus:crotalus" ; Times: 1
+	Query: "Shockley" ; Times: 2
+	Query: "henshawi county:"Riverside" class:reptilia" ; Times: 1
+	Query: ""fasciata" stateprovince:"Texas"" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 75 (out of 976 download events in this period)
+Total number of records downloaded: 3381 (out of 7910366 records downloaded for all resources in this period)
+Total number of unique records downloaded: 2822
+Number of different countries: 4
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Chile ; Times: 1
+	Country: Mexico ; Times: 12
+	Country: United States ; Times: 61
+	Country: Unknown ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-05-05 ; Times: 1
+	Date: 2015-05-06 ; Times: 5
+	Date: 2015-05-07 ; Times: 11
+	Date: 2015-05-09 ; Times: 3
+	Date: 2015-05-11 ; Times: 2
+	Date: 2015-05-12 ; Times: 1
+	Date: 2015-05-15 ; Times: 1
+	Date: 2015-05-18 ; Times: 2
+	Date: 2015-05-19 ; Times: 3
+	Date: 2015-05-20 ; Times: 4
+	Date: 2015-05-21 ; Times: 23
+	Date: 2015-05-22 ; Times: 2
+	Date: 2015-05-23 ; Times: 1
+	Date: 2015-05-24 ; Times: 2
+	Date: 2015-05-25 ; Times: 2
+	Date: 2015-05-26 ; Times: 4
+	Date: 2015-05-27 ; Times: 2
+	Date: 2015-05-28 ; Times: 2
+	Date: 2015-05-29 ; Times: 3
+	Date: 2015-05-30 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "country:"Mexico" specificepithet:atrox genus:crotalus year <= 2015 mappable:1" ; Times: 1
+	Query: "Xantusia henshawi" ; Times: 1
+	Query: "mcallii" ; Times: 1
+	Query: "rana catesbeiana" ; Times: 1
+	Query: "bufo terrestris" ; Times: 1
+	Query: "slender glass lizard" ; Times: 1
+	Query: "python molurus" ; Times: 1
+	Query: "bufo cognatus" ; Times: 1
+	Query: "rhinocheilus lecontei" ; Times: 1
+	Query: "hyla squirella" ; Times: 1
+	Query: "cave stateprovince:"Tennessee" year >= 1700 year <= 2015" ; Times: 1
+	Query: "Charina bottae" ; Times: 2
+	Query: "squamata (durango OR coahuila OR zacatecas OR chihuahua) mappable:1" ; Times: 1
+	Query: "elapidae" ; Times: 3
+	Query: "coleonyx brevis" ; Times: 1
+	Query: "rana sphenocephala" ; Times: 1
+	Query: "Bufo alvarius" ; Times: 1
+	Query: "elapidae mappable:1" ; Times: 1
+	Query: "scaphiopus couchii" ; Times: 1
+	Query: "Underwood" ; Times: 1
+	Query: "Anolis carolinensis" ; Times: 1
+	Query: "Desmognathus quadramaculatus distance(location,geopoint(34.72024392588885,-82.3919677734375))<46308.89841014607" ; Times: 1
+	Query: "crotaphytus collaris" ; Times: 1
+	Query: "country:"Mexico" specificepithet:atrox genus:Crotalus" ; Times: 1
+	Query: "phrynosoma platyrhinos" ; Times: 1
+	Query: "country:"Mexico"" ; Times: 1
+	Query: "cnemidophorus tigris" ; Times: 1
+	Query: "stateprovince:"Queretaro" country:"Mexico" class:reptilia" ; Times: 1
+	Query: "Cryptobranchus alleganiensis" ; Times: 1
+	Query: "charina bottae" ; Times: 2
+	Query: "graptemys stateprovince:"Texas"" ; Times: 1
+	Query: "hyla arenicolor" ; Times: 1
+	Query: "Eumeces" ; Times: 1
+	Query: "subocularis" ; Times: 1
+	Query: "bufo alvarius" ; Times: 2
+	Query: "Desmognathus fuscus" ; Times: 1
+	Query: "coleonyx variegatus" ; Times: 1
+	Query: "crotalus cerastes" ; Times: 1
+	Query: "hyla cinerea" ; Times: 1
+	Query: "Rana berlandieri class:Amphibia AND (NOT group NOT x NOT forreri)" ; Times: 1
+	Query: "stateprovince:"Sonora" country:"Mexico" class:amphibia" ; Times: 1
+	Query: "Shockley" ; Times: 3
+	Query: "crotaphytus wislizenii" ; Times: 1
+	Query: "masticophis flagellum" ; Times: 1
+	Query: "gambelia wislizenii" ; Times: 1
+	Query: "crotalus scutulatus" ; Times: 2
+	Query: "eunectes murinus" ; Times: 1
+	Query: "Liolaemus magellanicus country:"Chile" mappable:1" ; Times: 1
+	Query: "genus:crotalus class:reptilia" ; Times: 1
+	Query: "sceloporus magister" ; Times: 1
+	Query: "bufo punctatus" ; Times: 1
+	Query: "ambystoma" ; Times: 1
+	Query: "Hyla arenicolor mappable:1" ; Times: 1
+	Query: "multivirgatus" ; Times: 1
+	Query: "stateprovince:"Sonora" country:"Mexico" class:reptilia" ; Times: 1
+	Query: "salvadora hexalepis" ; Times: 1
+	Query: "arizona elegans" ; Times: 1
+	Query: "thamnophis sirtalis" ; Times: 1
+	Query: "Charina" ; Times: 1
+	Query: "callisaurus draconoides" ; Times: 1
+	Query: "callisaurus draconoides country:"Mexico"" ; Times: 1
+	Query: "cave stateprovince:"Alabama" year >= 1700 year <= 2015" ; Times: 1
+	Query: "ambystoma maculatum" ; Times: 1
+	Query: "sceloporus variabilis tamaulipas" ; Times: 1
+	Query: "W. B. Richardson" ; Times: 1
+	Query: "crotalus atrox" ; Times: 1
+	Query: "thamnophis cyrtopsis" ; Times: 1
+
+CUMULATIVE VALUES FOR THIS YEAR:
+
+Number of search events that retrieved data from the resource: 146
+Total number of records retrieved from searches: 1159
+Number of download events that retrieved data from the resource: 90
+Total number of records downloaded: 4970
+
+CUMULATIVE VALUES SINCE THE BEGINNING:
+
+Number of search events that retrieved data from the resource: 146
+Total number of records retrieved from searches: 1159
+Number of download events that retrieved data from the resource: 90
+Total number of records downloaded: 4970
+
+
+End of report.
+
+
+Please visit http://www.vertnet.org/resources/usagereportingguide.html to see a complete list, with explanations, of these metrics.
