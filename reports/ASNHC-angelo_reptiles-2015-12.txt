@@ -1,0 +1,113 @@
+Report for Institution Code ASNHC, Resource angelo_reptiles
+Usage stats for December 2015, generated on 2016/02/03
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 48
+Number of records retrieved in searches: 617
+Number of different countries where searches have been originated: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 40
+	Country: Switzerland ; Times: 2
+	Country: Mexico ; Times: 6
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-12-14 ; Times: 6
+	Date: 2015-12-03 ; Times: 1
+	Date: 2015-12-07 ; Times: 1
+	Date: 2015-12-06 ; Times: 3
+	Date: 2015-12-04 ; Times: 4
+	Date: 2015-12-21 ; Times: 1
+	Date: 2015-12-15 ; Times: 3
+	Date: 2015-12-16 ; Times: 3
+	Date: 2015-12-17 ; Times: 6
+	Date: 2015-12-11 ; Times: 1
+	Date: 2015-12-13 ; Times: 4
+	Date: 2015-12-18 ; Times: 12
+	Date: 2015-12-24 ; Times: 3
+
+List of queries that retrieved data from the resource: 
+	Query: "ambystoma tigrinum (Alabama OR ALABAMA OR AL OR Al)" ; Times: 1
+	Query: "drymarchon stateprovince:&#34;florida&#34;" ; Times: 1
+	Query: "specificepithet:lacerata genus:Holbrookia" ; Times: 1
+	Query: "Sceloporus arenicolus" ; Times: 1
+	Query: "sonoran mud turtle" ; Times: 1
+	Query: "gyalopion" ; Times: 1
+	Query: "class:Amphibia county:&#34;Montgomery&#34; stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "sceloporus asper" ; Times: 1
+	Query: "Tantilla nigriceps" ; Times: 1
+	Query: "class:reptilia county:&#34;Bowie&#34; stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "marmoreus" ; Times: 1
+	Query: "stateprovince:&#34;New Mexico&#34; (blind snake)" ; Times: 1
+	Query: "catalognumber:1017" ; Times: 3
+	Query: "genus:Rana specificepithet:areolata" ; Times: 1
+	Query: "rana montezumae" ; Times: 1
+	Query: "Bothriechis marchi" ; Times: 1
+	Query: "bufo marmoreus" ; Times: 1
+	Query: "Holbrookia lacerata Texas" ; Times: 1
+	Query: "Phrynosoma platyrhinos Pima" ; Times: 1
+	Query: "Phrynosoma douglassii" ; Times: 1
+	Query: "masticophis schotti" ; Times: 1
+	Query: "drymarchon county:&#34;Miami&#34; stateprovince:&#34;florida&#34;" ; Times: 1
+	Query: "Anolis auratus" ; Times: 10
+	Query: "tropidoclonion lineatum" ; Times: 1
+	Query: "louisiana lake bistineau" ; Times: 1
+	Query: "class:amphibia county:&#34;Bowie&#34; stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "Kinosternon sonoriense" ; Times: 2
+	Query: "hellbender" ; Times: 1
+	Query: "crotalus pricei" ; Times: 1
+	Query: "seguin texas" ; Times: 1
+	Query: "lampropeltis mexicana" ; Times: 1
+	Query: "Leptotyphlops New Mexico" ; Times: 2
+	Query: "phyllorhynchus browni arizona" ; Times: 3
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 28 (out of 889 download events in this period)
+Total number of records downloaded: 1614
+Number of different countries: 2
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 24
+	Country: Mexico ; Times: 4
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-12-09 ; Times: 1
+	Date: 2015-12-03 ; Times: 4
+	Date: 2015-12-01 ; Times: 3
+	Date: 2015-12-07 ; Times: 1
+	Date: 2015-12-17 ; Times: 6
+	Date: 2015-12-10 ; Times: 3
+	Date: 2015-12-24 ; Times: 1
+	Date: 2015-12-18 ; Times: 9
+
+List of queries that retrieved data from the resource: 
+	Query: "Phrynosoma douglassii" ; Times: 1
+	Query: "specificepithet:catenatus genus:Sistrurus class:Reptilia mappable:1" ; Times: 1
+	Query: "Phrynosoma mcallii" ; Times: 1
+	Query: "Sceloporus arenicolus" ; Times: 1
+	Query: "Lampropeltis getulus" ; Times: 1
+	Query: "Bufo boreas" ; Times: 1
+	Query: "cane toad" ; Times: 3
+	Query: "Sceloporus serrifer" ; Times: 1
+	Query: "Nerodia fasciata" ; Times: 1
+	Query: "Masticophis flagellum" ; Times: 1
+	Query: "spea" ; Times: 1
+	Query: "rana montezumae" ; Times: 1
+	Query: "Kinosternon" ; Times: 1
+	Query: "Nerodia taxispilota" ; Times: 1
+	Query: "ambystoma tigrinum" ; Times: 1
+	Query: "bufo compactilis" ; Times: 2
+	Query: "Sceloporus gadoviae" ; Times: 1
+	Query: "Masticophis taeniatus" ; Times: 1
+	Query: "Sceloporus orcutti" ; Times: 1
+	Query: "scaphiopus" ; Times: 1
+	Query: "Nerodia rhombifer" ; Times: 1
+	Query: "Lampropeltis getula" ; Times: 1
+	Query: "Trachemys scripta" ; Times: 1
+	Query: "Sceloporus undulatus" ; Times: 1
+	Query: "sceloporus variabilis" ; Times: 1
+
+
+End of report.
