@@ -1,0 +1,206 @@
+Report for Institution Code ASNHC, Resource angelo_reptiles
+Usage stats for September 2015, generated on 2016/02/03
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 99
+Number of records retrieved in searches: 816
+Number of different countries where searches have been originated: 4
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 86
+	Country: Brazil ; Times: 1
+	Country: Germany ; Times: 4
+	Country: Mexico ; Times: 8
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-09-09 ; Times: 6
+	Date: 2015-09-10 ; Times: 6
+	Date: 2015-09-13 ; Times: 1
+	Date: 2015-09-14 ; Times: 1
+	Date: 2015-09-17 ; Times: 1
+	Date: 2015-09-18 ; Times: 2
+	Date: 2015-09-19 ; Times: 5
+	Date: 2015-09-08 ; Times: 8
+	Date: 2015-09-30 ; Times: 28
+	Date: 2015-09-29 ; Times: 1
+	Date: 2015-09-07 ; Times: 1
+	Date: 2015-09-06 ; Times: 1
+	Date: 2015-09-05 ; Times: 4
+	Date: 2015-09-04 ; Times: 12
+	Date: 2015-09-03 ; Times: 1
+	Date: 2015-09-02 ; Times: 3
+	Date: 2015-09-01 ; Times: 2
+	Date: 2015-09-25 ; Times: 2
+	Date: 2015-09-24 ; Times: 1
+	Date: 2015-09-27 ; Times: 2
+	Date: 2015-09-26 ; Times: 6
+	Date: 2015-09-21 ; Times: 1
+	Date: 2015-09-20 ; Times: 2
+	Date: 2015-09-23 ; Times: 1
+	Date: 2015-09-22 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "distance(location,geopoint(24.3802369569,-109.949505705))&lt;15000" ; Times: 1
+	Query: "black-tailed rattlesnake" ; Times: 3
+	Query: "distance(location,geopoint(27.4802369569,-111.949505705))&lt;15000" ; Times: 1
+	Query: "chelydra serpentina stateprovince:&#34;Texas&#34; mappable:1" ; Times: 1
+	Query: "Sistrurus catenatus" ; Times: 7
+	Query: "distance(location,geopoint(24.2802369569,-109.649505705))&lt;15000" ; Times: 1
+	Query: "Dipsosaurus (Baja)" ; Times: 1
+	Query: "distance(location,geopoint(27.8802369569,-110.749505705))&lt;15000" ; Times: 1
+	Query: "catalognumber:12073" ; Times: 1
+	Query: "distance(location,geopoint(27.8802369569,-111.049505705))&lt;10000" ; Times: 1
+	Query: "corytophanes hernandezii" ; Times: 1
+	Query: "distance(location,geopoint(27.3802369569,-111.849505705))&lt;15000" ; Times: 1
+	Query: "Sceloporus asper" ; Times: 1
+	Query: "notophthalmus meridionalis" ; Times: 3
+	Query: "python molurus" ; Times: 1
+	Query: "micrurus fulvius" ; Times: 1
+	Query: "distance(location,geopoint(24.1802369569,-109.749505705))&lt;15000" ; Times: 1
+	Query: "genus:Urosaurus (Throats OR throat OR yellow OR green OR orange OR red OR blue)" ; Times: 1
+	Query: "blue bellied lizard" ; Times: 1
+	Query: "specificepithet:barkeri class:Reptilia" ; Times: 1
+	Query: "distance(location,geopoint(27.9802369569,-111.349505705))&lt;15000" ; Times: 1
+	Query: "distance(location,geopoint(27.3802369569,-112.149505705))&lt;15000" ; Times: 1
+	Query: "chelydra serpentina texas mappable:1" ; Times: 3
+	Query: "distance(location,geopoint(23.1802369569,-106.449505705))&lt;15000" ; Times: 1
+	Query: "distance(location,geopoint(27.4802369569,-112.049505705))&lt;15000" ; Times: 1
+	Query: "contortrix stateprovince:&#34;texas&#34;" ; Times: 1
+	Query: "distance(location,geopoint(24.2802369569,-109.749505705))&lt;15000" ; Times: 1
+	Query: "stateprovince:&#34;alabama&#34; genus:Hyla" ; Times: 1
+	Query: "sceloporus asper" ; Times: 1
+	Query: "anolis auratus panama" ; Times: 1
+	Query: "lampropeltis alterna" ; Times: 1
+	Query: "distance(location,geopoint(24.0802369569,-109.849505705))&lt;15000" ; Times: 1
+	Query: "sceloporus arenicolus" ; Times: 1
+	Query: "county:&#34;Cameron&#34; stateprovince:&#34;Texas&#34; country:&#34;United States&#34; class:amphibia mappable:1" ; Times: 1
+	Query: "short horned lizard" ; Times: 1
+	Query: "specificepithet:maculata genus:Holbrookia stateprovince:&#34;Texas&#34; institutioncode:ASNHC" ; Times: 1
+	Query: "distance(location,geopoint(27.9802369569,-110.849505705))&lt;10000" ; Times: 1
+	Query: "distance(location,geopoint(27.8802369569,-111.049505705))&lt;15000" ; Times: 1
+	Query: "Python molurus" ; Times: 1
+	Query: "Louisiana genus:Terrapene" ; Times: 1
+	Query: "distance(location,geopoint(24.3802369569,-109.849505705))&lt;15000" ; Times: 1
+	Query: "anolis limifrons panama" ; Times: 1
+	Query: "Python florida" ; Times: 1
+	Query: "Lampropeltis mexicana" ; Times: 2
+	Query: "distance(location,geopoint(23.2802369569,-106.549505705))&lt;15000" ; Times: 1
+	Query: "distance(location,geopoint(22.9802369569,-106.249505705))&lt;15000" ; Times: 1
+	Query: "lampropeltis zonata stateprovince:&#34;California&#34;" ; Times: 2
+	Query: "county:&#34;San Bernardino&#34; stateprovince:&#34;California&#34; genus:Sauromalus" ; Times: 1
+	Query: "distance(location,geopoint(27.3802369569,-111.949505705))&lt;15000" ; Times: 1
+	Query: "sceloporus serrifer" ; Times: 1
+	Query: "stateprovince:&#34;Nevada&#34; genus:Xantusia" ; Times: 1
+	Query: "class:Reptilia kino" ; Times: 2
+	Query: "anolis auratus" ; Times: 2
+	Query: "distance(location,geopoint(23.0802369569,-106.349505705))&lt;15000" ; Times: 1
+	Query: "distance(location,geopoint(27.4802369569,-111.849505705))&lt;15000" ; Times: 1
+	Query: "rhinophrynus dorsalis" ; Times: 2
+	Query: "eunectes murinus" ; Times: 1
+	Query: "catalognumber:5861" ; Times: 1
+	Query: "distance(location,geopoint(23.1802369569,-106.349505705))&lt;10000" ; Times: 1
+	Query: "distance(location,geopoint(27.8802369569,-110.849505705))&lt;15000" ; Times: 1
+	Query: "crotalus pricei" ; Times: 1
+	Query: "specificepithet:dulcis stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "catalognumber:6141" ; Times: 1
+	Query: "specificepithet:imperialis genus:Coniophanes" ; Times: 1
+	Query: "tailed frog" ; Times: 2
+	Query: "reptilia stateprovince:&#34;texas&#34; (palo duro)" ; Times: 1
+	Query: "distance(location,geopoint(28.7802369569,-111.949505705))&lt;10000" ; Times: 1
+	Query: "distance(location,geopoint(28.8802369569,-112.049505705))&lt;10000" ; Times: 1
+	Query: "class:Amphibia stateprovince:&#34;Louisiana&#34; year &gt;= 2000 year &lt;= 2009" ; Times: 1
+	Query: "chelydra serpentina texas" ; Times: 1
+	Query: "Night snake" ; Times: 2
+	Query: "specificepithet:mexicana genus:Lampropeltis" ; Times: 1
+	Query: "coleonyx sonora" ; Times: 1
+	Query: "distance(location,geopoint(24.2802369569,-109.849505705))&lt;15000" ; Times: 1
+	Query: "distance(location,geopoint(24.2802369569,-109.949505705))&lt;15000" ; Times: 1
+	Query: "distance(location,geopoint(24.2802369569,-110.049505705))&lt;15000" ; Times: 1
+	Query: "stateprovince:&#34;Michoacan&#34; country:&#34;Mexico&#34; class:Amphibia" ; Times: 1
+	Query: "stateprovince:&#34;Texas&#34; specificepithet:woodhousii genus:Bufo" ; Times: 1
+	Query: "distance(location,geopoint(27.3802369569,-112.049505705))&lt;15000" ; Times: 1
+	Query: "distance(location,geopoint(24.2802369569,-109.849505705))&lt;10000" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 53 (out of 1045 download events in this period)
+Total number of records downloaded: 7119
+Number of different countries: 5
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 41
+	Country: Brazil ; Times: 1
+	Country: France ; Times: 1
+	Country: India ; Times: 1
+	Country: Mexico ; Times: 9
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-09-25 ; Times: 5
+	Date: 2015-09-03 ; Times: 4
+	Date: 2015-09-22 ; Times: 7
+	Date: 2015-09-20 ; Times: 1
+	Date: 2015-09-10 ; Times: 5
+	Date: 2015-09-06 ; Times: 1
+	Date: 2015-09-05 ; Times: 2
+	Date: 2015-09-04 ; Times: 2
+	Date: 2015-09-29 ; Times: 3
+	Date: 2015-09-28 ; Times: 1
+	Date: 2015-09-01 ; Times: 3
+	Date: 2015-09-19 ; Times: 4
+	Date: 2015-09-18 ; Times: 2
+	Date: 2015-09-24 ; Times: 1
+	Date: 2015-09-27 ; Times: 2
+	Date: 2015-09-08 ; Times: 2
+	Date: 2015-09-15 ; Times: 2
+	Date: 2015-09-30 ; Times: 4
+	Date: 2015-09-02 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "Rana berlandieri" ; Times: 1
+	Query: "rana catesbeiana" ; Times: 1
+	Query: "viperidae" ; Times: 1
+	Query: "Scaphiopus couchii" ; Times: 3
+	Query: "Lampropeltis calligaster" ; Times: 1
+	Query: "python molurus" ; Times: 1
+	Query: "Spea" ; Times: 2
+	Query: "Necturus" ; Times: 1
+	Query: "Rana pipiens" ; Times: 1
+	Query: "genus:Hemidactylus" ; Times: 1
+	Query: "eunectes murinus" ; Times: 1
+	Query: "sinaloa" ; Times: 1
+	Query: "Trachemys" ; Times: 1
+	Query: "Bothrops mexico" ; Times: 1
+	Query: "sceloporus occidentalis" ; Times: 1
+	Query: "Ambystoma tigrinum" ; Times: 1
+	Query: "anolis auratus panama" ; Times: 1
+	Query: "corytophanes" ; Times: 1
+	Query: "Spea type:specimen" ; Times: 1
+	Query: "Louisiana genus:Terrapene" ; Times: 2
+	Query: "anolis limifrons panama" ; Times: 1
+	Query: "grammicus" ; Times: 1
+	Query: "anolis lemurinus" ; Times: 1
+	Query: "Phrynosoma" ; Times: 1
+	Query: "tigrinum" ; Times: 1
+	Query: "hyla chrysoscelis" ; Times: 1
+	Query: "sceloporus variabilis" ; Times: 1
+	Query: "sceloporus serrifer" ; Times: 1
+	Query: "Scaphiopus" ; Times: 3
+	Query: "bufo marinus" ; Times: 1
+	Query: "ascaphus" ; Times: 2
+	Query: "Elaphe obsoleta" ; Times: 2
+	Query: "spea bombifrons" ; Times: 1
+	Query: "bufo houstonensis texas" ; Times: 1
+	Query: "phrynosoma" ; Times: 1
+	Query: "stateprovince:&#34;Texas&#34; specificepithet:woodhousii genus:Bufo" ; Times: 1
+	Query: "urosaurus ornatus" ; Times: 1
+	Query: "Chrysemys" ; Times: 1
+	Query: "sceloporus dugesii" ; Times: 1
+	Query: "Python molurus" ; Times: 2
+	Query: "anolis auratus" ; Times: 1
+	Query: "Rana blairi" ; Times: 1
+	Query: "sceloporus scalaris" ; Times: 1
+	Query: "Callisaurus draconoides" ; Times: 1
+
+
+End of report.
