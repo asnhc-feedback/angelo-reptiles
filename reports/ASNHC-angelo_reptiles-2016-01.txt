@@ -1,0 +1,114 @@
+Report for Institution Code ASNHC, Resource angelo_reptiles
+Usage stats for January 2016, generated on 2016/02/04
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 59
+Number of records retrieved in searches: 288
+Number of different countries where searches have been originated: 2
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 57
+	Country: Mexico ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-01-31 ; Times: 1
+	Date: 2016-01-30 ; Times: 1
+	Date: 2016-01-20 ; Times: 6
+	Date: 2016-01-21 ; Times: 3
+	Date: 2016-01-26 ; Times: 1
+	Date: 2016-01-01 ; Times: 1
+	Date: 2016-01-02 ; Times: 6
+	Date: 2016-01-04 ; Times: 1
+	Date: 2016-01-28 ; Times: 2
+	Date: 2016-01-29 ; Times: 12
+	Date: 2016-01-08 ; Times: 3
+	Date: 2016-01-09 ; Times: 1
+	Date: 2016-01-22 ; Times: 1
+	Date: 2016-01-18 ; Times: 1
+	Date: 2016-01-07 ; Times: 3
+	Date: 2016-01-25 ; Times: 9
+	Date: 2016-01-24 ; Times: 2
+	Date: 2016-01-03 ; Times: 2
+	Date: 2016-01-11 ; Times: 2
+	Date: 2016-01-14 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "coniophanes imperialis" ; Times: 1
+	Query: "ficimia texas" ; Times: 1
+	Query: "Bufo Mexico locality:Mexico" ; Times: 1
+	Query: "eurycea pterophila" ; Times: 2
+	Query: "class:reptilia county:&#34;brewster&#34; stateprovince:&#34;texas&#34; AND (NOT cnemidophorus NOT flagellum NOT atrox NOT crotaphytus NOT aspidoscelis NOT uta NOT urosaurus NOT tantilla NOT undulatus NOT cophosaurus) year &gt;= 1970 month &gt;= 2 month &lt;= 3" ; Times: 1
+	Query: "distance(location,geopoint(23.819036,-105.367516))&lt;15000" ; Times: 1
+	Query: "Tantilla planiceps" ; Times: 2
+	Query: "Timber Rattlesnake" ; Times: 1
+	Query: "Kickapoo class:Reptilia stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "ornate box turtle" ; Times: 2
+	Query: "eurycea lucifuga illinois" ; Times: 1
+	Query: "drymarchon texas" ; Times: 1
+	Query: "12113" ; Times: 1
+	Query: "Anolis pentaprion" ; Times: 1
+	Query: "Eurycea Pterophila" ; Times: 2
+	Query: "class:reptilia county:&#34;brewster&#34; stateprovince:&#34;texas&#34; year &gt;= 1970 month &gt;= 2 month &lt;= 4" ; Times: 1
+	Query: "catalognumber:14382 institutioncode:ASNHC" ; Times: 1
+	Query: "catalognumber:7902 institutioncode:ASNHC" ; Times: 1
+	Query: "class:reptilia county:&#34;brewster&#34; stateprovince:&#34;texas&#34; AND (NOT cnemidophorus NOT flagellum NOT atrox NOT crotaphytus NOT aspidoscelis NOT uta NOT urosaurus NOT tantilla NOT sceloporus NOT undulatus NOT cophosaurus) year &gt;= 1970 month &gt;= 2 month &lt;= 3" ; Times: 1
+	Query: "type:specimen specificepithet:emoryi genus:elaphe" ; Times: 1
+	Query: "Xantusia vigilis Nevada" ; Times: 1
+	Query: "class:reptilia county:&#34;brewster&#34; stateprovince:&#34;texas&#34; AND (NOT cnemidophoris NOT flagellum NOT atrox NOT crotaphytus NOT aspidoscelis NOT uta NOT urosaurus NOT tantilla NOT cophosaurus) year &gt;= 1970 month &gt;= 2 month &lt;= 3" ; Times: 1
+	Query: "catalognumber:7903 institutioncode:ASNHC" ; Times: 1
+	Query: "ctenosaura defensor" ; Times: 1
+	Query: "1111 class:Reptilia stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "class:reptilia county:&#34;brewster&#34; stateprovince:&#34;texas&#34; AND (NOT cnemidophoris NOT flagellum NOT atrox NOT crotaphytus NOT aspidoscelis NOT uta NOT urosaurus NOT tantilla NOT cophosaurus) year &gt;= 1970 month &gt;= 2 month &lt;= 4" ; Times: 1
+	Query: "distance(location,geopoint(26.879036,-109.277516))&lt;15000" ; Times: 1
+	Query: "class:reptilia county:&#34;brewster&#34; stateprovince:&#34;texas&#34; AND (NOT cnemidophora NOT flagellum NOT atrox NOT crotaphytus NOT aspidoscelis NOT uta NOT urosaurus NOT tantilla) year &gt;= 1970 month &gt;= 2 month &lt;= 4" ; Times: 1
+	Query: "Farancia abacura" ; Times: 4
+	Query: "166 county:&#34;Jeff Davis&#34;" ; Times: 1
+	Query: "ornate box turtle year &gt;= 2002 year &lt;= 2016" ; Times: 1
+	Query: "Pseudemys texana" ; Times: 5
+	Query: "type:specimen specificepithet:subocularis genus:elaphe" ; Times: 1
+	Query: "ambystoma texanum louisiana" ; Times: 1
+	Query: "Farancia abacura Texas" ; Times: 1
+	Query: "2185 stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "Tantilla nigriceps" ; Times: 1
+	Query: "catalognumber:7904 institutioncode:ASNHC" ; Times: 1
+	Query: "hellbender" ; Times: 1
+	Query: "Rhinocheilus lecontei Texas" ; Times: 1
+	Query: "class:Reptilia distance(location,geopoint(29.162555018601683,-100.31890869140625))&lt;50875" ; Times: 2
+	Query: "Sistrurus miliarius miliarius" ; Times: 1
+	Query: "concinna texas" ; Times: 1
+	Query: "genus:Notophthalmus specificepithet:meridionalis" ; Times: 1
+	Query: "class:reptilia county:&#34;brewster&#34; stateprovince:&#34;texas&#34; AND (NOT cnemidophorus NOT flagellum NOT atrox NOT crotaphytus NOT aspidoscelis NOT uta NOT urosaurus NOT tantilla NOT cophosaurus) year &gt;= 1970 month &gt;= 2 month &lt;= 4" ; Times: 1
+	Query: "Notophthalmus meridionalis" ; Times: 1
+	Query: "class:reptilia county:&#34;brewster&#34; stateprovince:&#34;texas&#34; month &gt;= 2 month &lt;= 4" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 10 (out of 507 download events in this period)
+Total number of records downloaded: 1570
+Number of different countries: 2
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 9
+	Country: Mexico ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-01-22 ; Times: 1
+	Date: 2016-01-26 ; Times: 1
+	Date: 2016-01-27 ; Times: 2
+	Date: 2016-01-02 ; Times: 1
+	Date: 2016-01-28 ; Times: 2
+	Date: 2016-01-29 ; Times: 2
+	Date: 2016-01-19 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "class:Reptilia stateprovince:&#34;Texas&#34; distance(location,geopoint(29.162555018601683,-100.31890869140625))&lt;50875" ; Times: 1
+	Query: "spea hammondii" ; Times: 1
+	Query: "order:CAudata country:&#34;United States&#34;" ; Times: 4
+	Query: "Nerodia fasciata" ; Times: 1
+	Query: "Cryptobranchus alleganiensis" ; Times: 1
+	Query: "order:caudata continent:north america" ; Times: 1
+	Query: "Notophthalmus meridionalis" ; Times: 1
+
+
+End of report.
