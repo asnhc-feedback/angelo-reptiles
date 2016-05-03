@@ -1,0 +1,229 @@
+Report for Institution Code ASNHC, Resource angelo_reptiles
+Usage stats for April 2016, generated on 2016/05/03
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 170
+Number of records retrieved in searches: 1129
+Number of different countries where searches have been originated: 4
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 88
+	Country: Unknown ; Times: 70
+	Country: Colombia ; Times: 6
+	Country: Mexico ; Times: 6
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-04-29 ; Times: 25
+	Date: 2016-04-02 ; Times: 3
+	Date: 2016-04-07 ; Times: 1
+	Date: 2016-04-06 ; Times: 9
+	Date: 2016-04-05 ; Times: 3
+	Date: 2016-04-04 ; Times: 4
+	Date: 2016-04-21 ; Times: 6
+	Date: 2016-04-20 ; Times: 4
+	Date: 2016-04-23 ; Times: 4
+	Date: 2016-04-22 ; Times: 2
+	Date: 2016-04-25 ; Times: 12
+	Date: 2016-04-27 ; Times: 41
+	Date: 2016-04-26 ; Times: 7
+	Date: 2016-04-08 ; Times: 8
+	Date: 2016-04-18 ; Times: 3
+	Date: 2016-04-19 ; Times: 6
+	Date: 2016-04-14 ; Times: 7
+	Date: 2016-04-15 ; Times: 10
+	Date: 2016-04-17 ; Times: 3
+	Date: 2016-04-10 ; Times: 1
+	Date: 2016-04-11 ; Times: 1
+	Date: 2016-04-12 ; Times: 1
+	Date: 2016-04-13 ; Times: 1
+	Date: 2016-04-03 ; Times: 3
+	Date: 2016-04-28 ; Times: 5
+
+List of queries that retrieved data from the resource: 
+	Query: "coniophanes imperialis" ; Times: 1
+	Query: "hemidactylus stateprovince:&#34;texas&#34;" ; Times: 1
+	Query: "distance(location,geopoint(31.809036,-105.877516))&lt;15000" ; Times: 1
+	Query: "specificepithet:intermedia genus:siren stateprovince:&#34;texas&#34;" ; Times: 2
+	Query: "distance(location,geopoint(32.149036,-111.997516))&lt;15000" ; Times: 2
+	Query: "genus:Micrurus county:&#34;Terrell&#34;" ; Times: 3
+	Query: "distance(location,geopoint(32.149036,-106.727516))&lt;15000" ; Times: 1
+	Query: "distance(location,geopoint(32.149036,-110.467516))&lt;15000" ; Times: 1
+	Query: "musk turtle" ; Times: 2
+	Query: "distance(location,geopoint(31.979036,-108.937516))&lt;15000" ; Times: 1
+	Query: "coluber nebraska" ; Times: 1
+	Query: "distance(location,geopoint(31.979036,-110.977516))&lt;15000" ; Times: 1
+	Query: "Hemidactylus stateprovince:&#34;texas&#34;" ; Times: 1
+	Query: "distance(location,geopoint(31.639036,-109.107516))&lt;15000" ; Times: 1
+	Query: "distance(location,geopoint(30.789036,-110.807516))&lt;15000" ; Times: 1
+	Query: "distance(location,geopoint(28.919036,-112.507516))&lt;15000" ; Times: 1
+	Query: "distance(location,geopoint(32.149036,-109.277516))&lt;15000" ; Times: 1
+	Query: "class:Reptilia county:&#34;dona ana&#34; stateprovince:&#34;New mexico&#34; year &gt;= 1968 year &lt;= 1968" ; Times: 1
+	Query: "genus:sistrurus stateprovince:&#34;texas&#34;" ; Times: 1
+	Query: "genus:sistrurus order:squamata stateprovince:&#34;texas&#34;" ; Times: 2
+	Query: "genus:Crotalus stateprovince:&#34;Utah&#34;" ; Times: 1
+	Query: "distance(location,geopoint(31.299036,-110.807516))&lt;15000" ; Times: 1
+	Query: "Sceloporus magister Sinaloa" ; Times: 1
+	Query: "desert iguana" ; Times: 1
+	Query: "distance(location,geopoint(31.639036,-106.047516))&lt;15000" ; Times: 1
+	Query: "distance(location,geopoint(24.329036,-109.787516))&lt;15000" ; Times: 1
+	Query: "Holbrookia lacerata" ; Times: 2
+	Query: "crotalus pricei" ; Times: 1
+	Query: "acris gryllus alabama" ; Times: 1
+	Query: "elaphe obsoleta houston" ; Times: 1
+	Query: "specificepithet:catenatus genus:Sistrurus stateprovince:&#34;texas&#34;" ; Times: 1
+	Query: "order:squamata county:&#34;lee&#34; stateprovince:&#34;texas&#34;" ; Times: 4
+	Query: "lampropeltis mexicana" ; Times: 1
+	Query: "genus:Cemophora stateprovince:&#34;Texas&#34;" ; Times: 4
+	Query: "distance(location,geopoint(31.979036,-111.827516))&lt;15000" ; Times: 1
+	Query: "distance(location,geopoint(31.809036,-108.427516))&lt;15000" ; Times: 1
+	Query: "distance(location,geopoint(31.469036,-108.257516))&lt;15000" ; Times: 1
+	Query: "distance(location,geopoint(30.789036,-110.977516))&lt;15000" ; Times: 1
+	Query: "distance(location,geopoint(23.819036,-105.367516))&lt;15000" ; Times: 1
+	Query: "distance(location,geopoint(23.139036,-106.387516))&lt;15000" ; Times: 1
+	Query: "siren texas" ; Times: 1
+	Query: "Hemidactylus turcicus stateprovince:&#34;Texas&#34; country:&#34;United States&#34;" ; Times: 1
+	Query: "Anolis humilis (Panama) mappable:1" ; Times: 1
+	Query: "Anolis lemurinus mappable:1 distance(location,geopoint(9.665738395188692,-82.33154296875))&lt;469780" ; Times: 1
+	Query: "Anolis lemurinus mappable:1 distance(location,geopoint(4.302591077119676,-76.09130859375))&lt;731486.7245476027" ; Times: 1
+	Query: "constrictor nebraska" ; Times: 1
+	Query: "distance(location,geopoint(32.149036,-109.107516))&lt;15000" ; Times: 1
+	Query: "elaphe subocularis" ; Times: 1
+	Query: "genus:Siren stateprovince:&#34;Texas&#34;" ; Times: 2
+	Query: "box turtle" ; Times: 2
+	Query: "distance(location,geopoint(32.149036,-112.677516))&lt;15000" ; Times: 2
+	Query: "arroyo toad" ; Times: 1
+	Query: "lampropeltis alterna" ; Times: 1
+	Query: "class:Reptilia county:&#34;dona ana&#34; stateprovince:&#34;New mexico&#34; year &gt;= 1968 year &lt;= 1968 month &gt;= 6 month &lt;= 8" ; Times: 1
+	Query: "Anolis lemurinus mappable:1 distance(location,geopoint(9.318990192397917,-79.73876953125))&lt;367055.51721340994" ; Times: 1
+	Query: "distance(location,geopoint(32.149036,-109.957516))&lt;15000" ; Times: 2
+	Query: "family:sirenidae stateprovince:&#34;texas&#34;" ; Times: 1
+	Query: "type:specimen catalognumber:14199" ; Times: 1
+	Query: "siren stateprovince:&#34;texas&#34;" ; Times: 6
+	Query: "hellbender" ; Times: 3
+	Query: "distance(location,geopoint(32.149036,-112.507516))&lt;15000" ; Times: 1
+	Query: "distance(location,geopoint(28.749036,-111.997516))&lt;15000" ; Times: 1
+	Query: "distance(location,geopoint(31.639036,-108.257516))&lt;15000" ; Times: 1
+	Query: "distance(location,geopoint(31.639036,-108.427516))&lt;15000" ; Times: 1
+	Query: "distance(location,geopoint(30.959036,-110.977516))&lt;15000" ; Times: 1
+	Query: "distance(location,geopoint(31.469036,-109.447516))&lt;15000" ; Times: 1
+	Query: "Dactyloidae" ; Times: 1
+	Query: "elaphe emoryi" ; Times: 1
+	Query: "distance(location,geopoint(30.619036,-110.977516))&lt;15000" ; Times: 1
+	Query: "distance(location,geopoint(31.299036,-108.257516))&lt;15000" ; Times: 1
+	Query: "bothriechis marchi" ; Times: 7
+	Query: "Holbrookia maculata Sinaloa" ; Times: 1
+	Query: "distance(location,geopoint(24.159036,-109.787516))&lt;15000" ; Times: 2
+	Query: "distance(location,geopoint(32.149036,-112.167516))&lt;15000" ; Times: 1
+	Query: "11221" ; Times: 1
+	Query: "gyalopion" ; Times: 2
+	Query: "EURYCEA GUTTOLINEATA ALABAMA" ; Times: 1
+	Query: "distance(location,geopoint(32.149036,-106.557516))&lt;15000" ; Times: 1
+	Query: "distance(location,geopoint(24.329036,-109.957516))&lt;15000" ; Times: 2
+	Query: "distance(location,geopoint(31.809036,-106.217516))&lt;15000" ; Times: 1
+	Query: "distance(location,geopoint(23.139036,-106.217516))&lt;15000" ; Times: 1
+	Query: "distance(location,geopoint(32.149036,-110.637516))&lt;15000" ; Times: 1
+	Query: "Cnemidophorus sexlineatus texas" ; Times: 3
+	Query: "boeleni" ; Times: 2
+	Query: "type:specimen specificepithet:turcicus genus:Hemidactylus stateprovince:&#34;Texas&#34; country:&#34;United States&#34;" ; Times: 1
+	Query: "genus:siren stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "eurycea spelaea" ; Times: 3
+	Query: "distance(location,geopoint(24.159036,-109.957516))&lt;15000" ; Times: 1
+	Query: "distance(location,geopoint(23.989036,-105.367516))&lt;15000" ; Times: 1
+	Query: "stateprovince:&#34;Arizona&#34; (lepidus)" ; Times: 1
+	Query: "distance(location,geopoint(31.469036,-109.617516))&lt;15000" ; Times: 1
+	Query: "massasauga" ; Times: 1
+	Query: "distance(location,geopoint(30.959036,-110.807516))&lt;15000" ; Times: 1
+	Query: "distance(location,geopoint(31.469036,-110.127516))&lt;15000" ; Times: 1
+	Query: "Lampropeltis zonata" ; Times: 1
+	Query: "distance(location,geopoint(28.749036,-112.677516))&lt;15000" ; Times: 1
+	Query: "distance(location,geopoint(31.809036,-108.257516))&lt;15000" ; Times: 1
+	Query: "distance(location,geopoint(32.149036,-109.787516))&lt;15000" ; Times: 1
+	Query: "specificepithet:turcicus genus:Hemidactylus stateprovince:&#34;Texas&#34; country:&#34;United States&#34;" ; Times: 2
+	Query: "slender glass lizard" ; Times: 1
+	Query: "Chuckwalla pinal county" ; Times: 1
+	Query: "type:specimen specificepithet:turcicus genus:Hemidactylus stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "specificepithet:turcicus genus:Hemidactylus stateprovince:&#34;Texas&#34;" ; Times: 2
+	Query: "distance(location,geopoint(31.809036,-111.997516))&lt;15000" ; Times: 1
+	Query: "distance(location,geopoint(31.809036,-108.937516))&lt;15000" ; Times: 1
+	Query: "distance(location,geopoint(22.799036,-105.707516))&lt;15000" ; Times: 1
+	Query: "Pseudacris (Collin County)" ; Times: 1
+	Query: "Anolis lemurinus mappable:1 distance(location,geopoint(9.318990192397917,-79.73876953125))&lt;731487" ; Times: 1
+	Query: "12216" ; Times: 3
+	Query: "distance(location,geopoint(22.799036,-105.877516))&lt;15000" ; Times: 1
+	Query: "Hemidactylus turcicus type:specimen stateprovince:&#34;Texas&#34; country:&#34;United States&#34;" ; Times: 1
+	Query: "Cochise county lampropeltis" ; Times: 1
+	Query: "distance(location,geopoint(31.979036,-108.767516))&lt;15000" ; Times: 1
+	Query: "distance(location,geopoint(31.299036,-110.977516))&lt;15000" ; Times: 1
+	Query: "distance(location,geopoint(31.639036,-109.957516))&lt;15000" ; Times: 1
+	Query: "Coniophanes imperialis" ; Times: 1
+	Query: "distance(location,geopoint(31.299036,-108.427516))&lt;15000" ; Times: 1
+	Query: "specificepithet:triangulum genus:lampropeltis order:squamata stateprovince:&#34;texas&#34;" ; Times: 1
+	Query: "genus:siren stateprovince:&#34;texas&#34;" ; Times: 3
+	Query: "distance(location,geopoint(32.149036,-108.937516))&lt;15000" ; Times: 1
+	Query: "distance(location,geopoint(23.309036,-106.387516))&lt;15000" ; Times: 1
+	Query: "distance(location,geopoint(31.639036,-106.387516))&lt;15000" ; Times: 1
+	Query: "distance(location,geopoint(22.969036,-105.707516))&lt;15000" ; Times: 1
+	Query: "distance(location,geopoint(31.979036,-111.997516))&lt;15000" ; Times: 1
+	Query: "squamata order:squamata county:&#34;lee&#34; stateprovince:&#34;texas&#34;" ; Times: 1
+	Query: "genus:Notophthalmus specificepithet:meridionalis" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 24 (out of 1312 download events in this period)
+Total number of records downloaded: 5950
+Number of different countries: 4
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 14
+	Country: Unknown ; Times: 1
+	Country: Colombia ; Times: 3
+	Country: Mexico ; Times: 6
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-04-21 ; Times: 1
+	Date: 2016-04-08 ; Times: 3
+	Date: 2016-04-12 ; Times: 2
+	Date: 2016-04-13 ; Times: 2
+	Date: 2016-04-29 ; Times: 1
+	Date: 2016-04-28 ; Times: 1
+	Date: 2016-04-06 ; Times: 1
+	Date: 2016-04-05 ; Times: 1
+	Date: 2016-04-04 ; Times: 1
+	Date: 2016-04-14 ; Times: 1
+	Date: 2016-04-15 ; Times: 1
+	Date: 2016-04-16 ; Times: 1
+	Date: 2016-04-17 ; Times: 2
+	Date: 2016-04-25 ; Times: 2
+	Date: 2016-04-11 ; Times: 1
+	Date: 2016-04-27 ; Times: 1
+	Date: 2016-04-26 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "R. catesbeiana" ; Times: 1
+	Query: "Anolis limifrons mappable:1" ; Times: 1
+	Query: "Anolis humilis (Panama) mappable:1" ; Times: 1
+	Query: "Sistrurus" ; Times: 1
+	Query: "Ascaphus truei" ; Times: 1
+	Query: "Tropidoclonion lineatum" ; Times: 1
+	Query: "Crotalus cerastes" ; Times: 1
+	Query: "farancia (North Carolina)" ; Times: 1
+	Query: "genus:Smilisca specificepithet:baudinii" ; Times: 1
+	Query: "reptiles santa fe" ; Times: 1
+	Query: "Crotalus atrox" ; Times: 1
+	Query: "crotalus cerastes" ; Times: 1
+	Query: "siren stateprovince:&#34;texas&#34;" ; Times: 1
+	Query: "Ophisaurus attenuatus" ; Times: 1
+	Query: "desert iguana" ; Times: 1
+	Query: "ambystoma" ; Times: 1
+	Query: "Crotalus molossus" ; Times: 1
+	Query: "specificepithet:atrox genus:Crotalus country:&#34;United States&#34; year &gt;= 1950 year &lt;= 2016" ; Times: 1
+	Query: "Anolis lemurinus mappable:1 distance(location,geopoint(12.039320557540586,-86.396486375))&lt;1279526.3944158978" ; Times: 1
+	Query: "urosaurus ornatus" ; Times: 1
+	Query: "genus:Ambystoma opacum" ; Times: 1
+	Query: "dipsosaurus dorsalis mappable:1" ; Times: 1
+	Query: "class:Amphibia country:&#34;United States&#34;" ; Times: 1
+	Query: "arroyo toad" ; Times: 1
+
+
+End of report.
