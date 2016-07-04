@@ -1,0 +1,237 @@
+Report for Institution Code ASNHC, Resource angelo_reptiles
+Usage stats for June 2016, generated on 2016/07/04
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 170
+Number of records retrieved in searches: 766
+Number of different countries where searches have been originated: 6
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 1
+	Country: United States ; Times: 123
+	Country: Portugal ; Times: 6
+	Country: Mexico ; Times: 38
+	Country: United Kingdom ; Times: 1
+	Country: Colombia ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-06-04 ; Times: 1
+	Date: 2016-06-24 ; Times: 31
+	Date: 2016-06-23 ; Times: 8
+	Date: 2016-06-22 ; Times: 13
+	Date: 2016-06-21 ; Times: 2
+	Date: 2016-06-20 ; Times: 5
+	Date: 2016-06-16 ; Times: 8
+	Date: 2016-06-01 ; Times: 10
+	Date: 2016-06-14 ; Times: 16
+	Date: 2016-06-06 ; Times: 7
+	Date: 2016-06-12 ; Times: 7
+	Date: 2016-06-13 ; Times: 5
+	Date: 2016-06-03 ; Times: 18
+	Date: 2016-06-02 ; Times: 24
+	Date: 2016-06-05 ; Times: 4
+	Date: 2016-06-17 ; Times: 1
+	Date: 2016-06-09 ; Times: 1
+	Date: 2016-06-11 ; Times: 4
+	Date: 2016-06-07 ; Times: 4
+	Date: 2016-06-08 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Amphibia institutioncode:ASNHC" ; Times: 1
+	Query: "Cochise county sistrurus" ; Times: 1
+	Query: "class:Reptilia county:&#34;San Augustine&#34; stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "catalognumber:167 institutioncode:ASNHC" ; Times: 1
+	Query: "specificepithet:bairdi class:Reptilia stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "class:Reptilia county:&#34;Tuscaloosa&#34;" ; Times: 2
+	Query: "catalognumber:12143 institutioncode:ASNHC" ; Times: 2
+	Query: "iguana" ; Times: 1
+	Query: "asnhc 7187" ; Times: 1
+	Query: "Bufo marmoreus mappable:1" ; Times: 1
+	Query: "catalognumber:12145 institutioncode:ASNHC" ; Times: 1
+	Query: "asnhc 7188" ; Times: 1
+	Query: "Reptilia 4058" ; Times: 2
+	Query: "genus:Sistrurus stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "Sistrurus Texas" ; Times: 1
+	Query: "13164" ; Times: 1
+	Query: "14352" ; Times: 1
+	Query: "Hellbender" ; Times: 1
+	Query: "genus:thamnophis class:Reptilia county:&#34;travis&#34; stateprovince:&#34;texas&#34;" ; Times: 1
+	Query: "Reptilia 6124" ; Times: 1
+	Query: "genus:Micrurus class:Reptilia stateprovince:&#34;texas&#34;" ; Times: 1
+	Query: "genus:phrynosoma class:Reptilia county:&#34;travis&#34; stateprovince:&#34;texas&#34;" ; Times: 1
+	Query: "Reptilia 6606" ; Times: 1
+	Query: "Aneides hardii" ; Times: 2
+	Query: "Crotalus atrox stateprovince:&#34;New Mexico&#34; mappable:1" ; Times: 2
+	Query: "13164 reptilia" ; Times: 1
+	Query: "Reptilia institutioncode:ASNHC" ; Times: 1
+	Query: "Phrynosoma platyrhinos Arizona" ; Times: 1
+	Query: "Trachemys scripta 1" ; Times: 2
+	Query: "tantilla nigriceps" ; Times: 1
+	Query: "Holbrookia maculata stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "Barking frog" ; Times: 1
+	Query: "Spea bombifrons OR Scaphiopus bombifrons stateprovince:&#34;New Mexico&#34; year &gt;= 1966 year &lt;= 1975" ; Times: 1
+	Query: "crotalus atrox year &gt;= 2000 year &lt;= 2005" ; Times: 1
+	Query: "Micrurus fulvius year &gt;= 1950 year &lt;= 2000" ; Times: 1
+	Query: "Lampropeltis alterna" ; Times: 1
+	Query: "11139" ; Times: 4
+	Query: "Gerrhonotus liocephalus" ; Times: 1
+	Query: "catalognumber:5004 institutioncode:ASNHC" ; Times: 2
+	Query: "Reptilia 1003" ; Times: 1
+	Query: "(Micrurus coral)" ; Times: 1
+	Query: "crotalus lepidus" ; Times: 1
+	Query: "catalognumber:12144 institutioncode:ASNHC" ; Times: 1
+	Query: "genus:Crotalus distance(location,geopoint(33.823842925513866,-110.97084045410156))&lt;100000" ; Times: 1
+	Query: "Phyllodactylus homolepidurus" ; Times: 2
+	Query: "catalognumber:12132 institutioncode:ASNHC" ; Times: 1
+	Query: "Reptilia 1794" ; Times: 2
+	Query: "specificepithet:septentrionalis family:Scincidae class:Reptilia stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "ASNHC Lampropeltis alterna" ; Times: 1
+	Query: "11899" ; Times: 1
+	Query: "siren stateprovince:&#34;texas&#34;" ; Times: 6
+	Query: "catalognumber:163 institutioncode:ASNHC" ; Times: 1
+	Query: "hellbender" ; Times: 4
+	Query: "Reptilia 3447" ; Times: 1
+	Query: "Pseudemys concinna 1" ; Times: 4
+	Query: "Spea bombifrons OR Scaphiopus bombifrons year &gt;= 1996 year &lt;= 2005" ; Times: 1
+	Query: "sistrurus miliarius Texas" ; Times: 1
+	Query: "Gopherus berlandieri" ; Times: 2
+	Query: "(Sistrurus miliarius texas)" ; Times: 1
+	Query: "asnhc 3014" ; Times: 3
+	Query: "Spea bombifrons OR Scaphiopus bombifrons year &gt;= 2001 year &lt;= 2016" ; Times: 1
+	Query: "genus:sistrurus county:&#34;concho&#34; stateprovince:&#34;texas&#34;" ; Times: 1
+	Query: "catalognumber:12139 institutioncode:ASNHC" ; Times: 1
+	Query: "catalognumber:12147 institutioncode:ASNHC" ; Times: 1
+	Query: "order:Squamata class:Reptilia county:&#34;Tuscaloosa&#34;" ; Times: 1
+	Query: "anolis lemurinus panama" ; Times: 1
+	Query: "leptotyphlops hidalgo" ; Times: 1
+	Query: "type:specimen catalognumber:1062" ; Times: 1
+	Query: "ASNHC Lampropeltis triangulum" ; Times: 1
+	Query: "catalognumber:7690" ; Times: 1
+	Query: "class:Reptilia county:&#34;Loving&#34; stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "Reptilia 13523" ; Times: 1
+	Query: "anolis lemurinus distance(location,geopoint(9.384032109601689,-79.595947265625))&lt;100000" ; Times: 1
+	Query: "Spea bombifrons OR Scaphiopus bombifrons year &gt;= 1986 year &lt;= 1995" ; Times: 1
+	Query: "Crotalus pricei stateprovince:&#34;Arizona&#34;" ; Times: 1
+	Query: "Reptilia 11091" ; Times: 1
+	Query: "asnhc 7173" ; Times: 2
+	Query: "catalognumber:12493 institutioncode:ASNHC" ; Times: 2
+	Query: "(sistrurus miliarius texas)" ; Times: 1
+	Query: "crotalus pricei" ; Times: 1
+	Query: "catalognumber:8894" ; Times: 1
+	Query: "anolis lemurinus distance(location,geopoint(9.384032109601689,-79.595947265625))&lt;231521" ; Times: 2
+	Query: "Reptilia 3460" ; Times: 1
+	Query: "Reptilia 3462" ; Times: 1
+	Query: "Varanus exanthematicus" ; Times: 1
+	Query: "specificepithet:augusti stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "Crotalus lepidus stateprovince:&#34;Arizona&#34;" ; Times: 1
+	Query: "catalognumber:12495 institutioncode:ASNHC" ; Times: 1
+	Query: "Reptilia 14694" ; Times: 1
+	Query: "Sistrurus miliarius Texas" ; Times: 1
+	Query: "asnhc 6273" ; Times: 1
+	Query: "asnhc 2764" ; Times: 1
+	Query: "genus:Micrurus class:Reptilia stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "Python molurus " ; Times: 2
+	Query: "class:Reptilia county:&#34;Glasscock&#34; stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "Reptilia 14056" ; Times: 2
+	Query: "specificepithet:lacerata genus:Holbrookia class:Reptilia stateprovince:&#34;Texas&#34;" ; Times: 2
+	Query: "Reptilia 8516" ; Times: 1
+	Query: "catalognumber:168 institutioncode:ASNHC" ; Times: 2
+	Query: "Crotalus atrox hidalgo" ; Times: 1
+	Query: "ctenosaura defensor" ; Times: 19
+	Query: "Massasauga" ; Times: 2
+	Query: "Crotalus atrox stateprovince:&#34;New Mexico&#34; mappable:1 distance(location,geopoint(32.697362236182066,-105.018310546875))&lt;126133" ; Times: 1
+	Query: "11714" ; Times: 2
+	Query: "class:Amphibia county:&#34;San Augustine&#34; stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "catalognumber:12146 institutioncode:ASNHC" ; Times: 1
+	Query: "elaphe subocularis" ; Times: 1
+	Query: "asnhc 7194" ; Times: 1
+	Query: "asnhc 7195" ; Times: 1
+	Query: "Reptilia 12883" ; Times: 1
+	Query: "micrurus fulvius" ; Times: 1
+	Query: "micrurus fulvius year &gt;= 1950 year &lt;= 2000" ; Times: 1
+	Query: "catalognumber:12141 institutioncode:ASNHC" ; Times: 1
+	Query: "Notophthalmus meridionalis" ; Times: 1
+	Query: "anolis lemurinus distance(location,geopoint(9.384032109601689,-79.595947265625))&lt;265306" ; Times: 1
+	Query: "crotalus mitchellii county:&#34;san bernardino&#34; stateprovince:&#34;california&#34;" ; Times: 1
+	Query: "Reptilia 12882" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 47 (out of 1052 download events in this period)
+Total number of records downloaded: 2388
+Number of different countries: 4
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 30
+	Country: Canada ; Times: 1
+	Country: Colombia ; Times: 5
+	Country: Mexico ; Times: 11
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-06-06 ; Times: 9
+	Date: 2016-06-23 ; Times: 1
+	Date: 2016-06-18 ; Times: 1
+	Date: 2016-06-21 ; Times: 3
+	Date: 2016-06-20 ; Times: 1
+	Date: 2016-06-16 ; Times: 5
+	Date: 2016-06-17 ; Times: 3
+	Date: 2016-06-14 ; Times: 2
+	Date: 2016-06-15 ; Times: 2
+	Date: 2016-06-01 ; Times: 1
+	Date: 2016-06-13 ; Times: 2
+	Date: 2016-06-03 ; Times: 7
+	Date: 2016-06-02 ; Times: 4
+	Date: 2016-06-12 ; Times: 3
+	Date: 2016-06-11 ; Times: 2
+	Date: 2016-06-07 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Holbrookia maculata stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "specificepithet:augusti stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "Bothriechis" ; Times: 1
+	Query: "Spea bombifrons OR Scaphiopus bombifrons stateprovince:&#34;New Mexico&#34; year &gt;= 1966 year &lt;= 1975" ; Times: 1
+	Query: "Spea bombifrons OR Scaphiopus bombifrons year &gt;= 2001 year &lt;= 2016" ; Times: 1
+	Query: "Sceloporus scalaris" ; Times: 1
+	Query: "crotalus atrox year &gt;= 2000 year &lt;= 2005" ; Times: 1
+	Query: "bufo bufo" ; Times: 1
+	Query: "crotalus (county: san bernardino)" ; Times: 1
+	Query: "Graptemys" ; Times: 1
+	Query: "Spea bombifrons OR Scaphiopus bombifrons year &gt;= 1996 year &lt;= 2005" ; Times: 1
+	Query: "Spea bombifrons OR Scaphiopus bombifrons year &gt;= 1966 year &lt;= 1975" ; Times: 1
+	Query: "iguana" ; Times: 1
+	Query: "Gerrhonotus liocephalus" ; Times: 1
+	Query: "Bufo marmoreus mappable:1" ; Times: 1
+	Query: "crotalus (San Bernardino)" ; Times: 1
+	Query: "crotalus (county:riverside)" ; Times: 1
+	Query: "crotalus molossus" ; Times: 1
+	Query: "Iguana iguana AND (NOT California NOT Fiji NOT Florida NOT Arizona NOT Nevada NOT Sinaloa )" ; Times: 1
+	Query: "trimorphodon" ; Times: 1
+	Query: "Terrapene ornata" ; Times: 1
+	Query: "Cryptobranchus alleganiensis" ; Times: 1
+	Query: "Chelydra" ; Times: 1
+	Query: "genus:Nerodia mappable:1" ; Times: 1
+	Query: "Trachemys" ; Times: 1
+	Query: "Pseudemys" ; Times: 1
+	Query: "iguana iguana" ; Times: 1
+	Query: "Spea bombifrons OR Scaphiopus bombifrons year &gt;= 1986 year &lt;= 1995" ; Times: 1
+	Query: "specificepithet:wislizenii genus:gambelia mappable:1" ; Times: 1
+	Query: "Cryptobranchus" ; Times: 1
+	Query: "aspidoscelis" ; Times: 2
+	Query: "type:specimen genus:Anolis" ; Times: 1
+	Query: "Bufo canaliferus mappable:1" ; Times: 1
+	Query: "Spea bombifrons OR Scaphiopus bombifrons year &gt;= 1956 year &lt;= 1965" ; Times: 1
+	Query: "Sceloporus variabilis" ; Times: 1
+	Query: "micrurus fulvius year &gt;= 1950 year &lt;= 2000" ; Times: 1
+	Query: "Spea bombifrons OR Scaphiopus bombifrons year &gt;= 1976 year &lt;= 2000" ; Times: 1
+	Query: "Phrynosoma platyrhinos Arizona" ; Times: 1
+	Query: "sceloporus horridus" ; Times: 2
+	Query: "Gopherus" ; Times: 1
+	Query: "Spea bombifrons OR Scaphiopus bombifrons year &gt;= 1951 year &lt;= 1975" ; Times: 1
+	Query: "Chrysemys" ; Times: 1
+	Query: "crotalus atrox year &gt;= 2005 year &lt;= 2010" ; Times: 1
+	Query: "genus:Eurycea specificepithet:nana stateprovince:&#34;Texas&#34; country:&#34;United States&#34; continent:North America mappable:1" ; Times: 1
+	Query: "Varanus exanthematicus" ; Times: 1
+
+
+End of report.
