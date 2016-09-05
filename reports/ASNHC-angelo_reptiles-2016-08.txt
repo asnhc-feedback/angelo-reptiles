@@ -1,0 +1,128 @@
+Report for Institution Code ASNHC, Resource angelo_reptiles
+Usage stats for August 2016, generated on 2016/09/05
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 63
+Number of records retrieved in searches: 502
+Number of different countries where searches have been originated: 4
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 55
+	Country: Australia ; Times: 1
+	Country: Mexico ; Times: 6
+	Country: France ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-08-10 ; Times: 4
+	Date: 2016-08-11 ; Times: 2
+	Date: 2016-08-12 ; Times: 1
+	Date: 2016-08-13 ; Times: 1
+	Date: 2016-08-29 ; Times: 4
+	Date: 2016-08-15 ; Times: 1
+	Date: 2016-08-16 ; Times: 7
+	Date: 2016-08-18 ; Times: 5
+	Date: 2016-08-24 ; Times: 1
+	Date: 2016-08-27 ; Times: 2
+	Date: 2016-08-21 ; Times: 25
+	Date: 2016-08-20 ; Times: 4
+	Date: 2016-08-30 ; Times: 3
+	Date: 2016-08-22 ; Times: 2
+	Date: 2016-08-31 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "anolis pentaprion" ; Times: 1
+	Query: "Tantilla planiceps" ; Times: 4
+	Query: "specificepithet:planiceps genus:Tantilla" ; Times: 1
+	Query: "Amphibia stateprovince:&#34;Louisiana&#34; institutioncode:ASNHC" ; Times: 1
+	Query: "Uta nolascensis" ; Times: 1
+	Query: "ornate box turtle" ; Times: 1
+	Query: "tantilla planiceps" ; Times: 22
+	Query: "catenatus arizona" ; Times: 1
+	Query: "specificepithet:berlandieri genus:Rana" ; Times: 1
+	Query: "bufo woodhousii new mexico" ; Times: 1
+	Query: "arroyo toad" ; Times: 1
+	Query: "catalognumber:1 institutioncode:ASNHC" ; Times: 1
+	Query: "Nerodia harteri stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "Yellow mud turtle" ; Times: 1
+	Query: "catalognumber:1726" ; Times: 1
+	Query: "specificepithet:catesbeiana genus:Rana" ; Times: 4
+	Query: "13787" ; Times: 1
+	Query: "Gerrhonotus liocephalus" ; Times: 3
+	Query: "black-headed snake" ; Times: 2
+	Query: "gerrhonotus liocephalus" ; Times: 1
+	Query: "order:Squamata county:&#34;Garland&#34; stateprovince:&#34;Arkansas&#34;" ; Times: 1
+	Query: "desmognathus stateprovince:&#34;texas&#34; (desmognathus )" ; Times: 1
+	Query: "Scaphiopus hammondi" ; Times: 1
+	Query: "ficimia" ; Times: 1
+	Query: "Reptilia stateprovince:&#34;Louisiana&#34; institutioncode:ASNHC" ; Times: 1
+	Query: "10923" ; Times: 3
+	Query: "Gopherus berlandieri" ; Times: 1
+	Query: "Snake Spring" ; Times: 1
+	Query: "specificepithet:zonata genus:Lampropeltis class:Reptilia county:&#34;Los Angeles&#34; stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "sistrurus miliarius" ; Times: 1
+	Query: "10929" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 34 (out of 924 download events in this period)
+Total number of records downloaded: 5570
+Number of different countries: 2
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 26
+	Country: Mexico ; Times: 8
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-08-10 ; Times: 1
+	Date: 2016-08-11 ; Times: 1
+	Date: 2016-08-29 ; Times: 2
+	Date: 2016-08-28 ; Times: 1
+	Date: 2016-08-16 ; Times: 1
+	Date: 2016-08-17 ; Times: 1
+	Date: 2016-08-18 ; Times: 3
+	Date: 2016-08-24 ; Times: 4
+	Date: 2016-08-27 ; Times: 3
+	Date: 2016-08-26 ; Times: 1
+	Date: 2016-08-21 ; Times: 2
+	Date: 2016-08-30 ; Times: 10
+	Date: 2016-08-31 ; Times: 2
+	Date: 2016-08-19 ; Times: 1
+	Date: 2016-08-22 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "anolis pentaprion" ; Times: 1
+	Query: "anolis humilis" ; Times: 1
+	Query: "Anolis" ; Times: 1
+	Query: "crotalus" ; Times: 1
+	Query: "type:specimen (anaxyrus)" ; Times: 1
+	Query: "ambystoma tigrinum" ; Times: 1
+	Query: "Phrynosoma mcallii" ; Times: 1
+	Query: "Charina bottae" ; Times: 1
+	Query: "Gerrhonotus liocephalus" ; Times: 1
+	Query: "spea multiplicata" ; Times: 1
+	Query: "Arizona elegans" ; Times: 1
+	Query: "bufo" ; Times: 1
+	Query: "Pituophis catenifer" ; Times: 2
+	Query: "Pseudemys" ; Times: 1
+	Query: "bufo cognatus new mexico" ; Times: 1
+	Query: "anolis lemurinus" ; Times: 1
+	Query: "anolis carolinensis" ; Times: 1
+	Query: "Crotalus country:&#34;Mexico&#34;" ; Times: 1
+	Query: "Ambystoma tigrinum tigrinum AND (NOT mavortium) mappable:1" ; Times: 1
+	Query: "Phrynosoma coronatum" ; Times: 2
+	Query: "Coluber constrictor" ; Times: 1
+	Query: "type:specimen genus:Urosaurus country:&#34;United States&#34; year &gt;= 1950 year &lt;= 2015" ; Times: 1
+	Query: "anolis limifrons" ; Times: 1
+	Query: "ambystoma" ; Times: 1
+	Query: "Spea hammondii" ; Times: 1
+	Query: "county:&#34;Carroll&#34; stateprovince:&#34;Georgia&#34;" ; Times: 1
+	Query: "Scaphiopus hammondi" ; Times: 1
+	Query: "Mexico" ; Times: 1
+	Query: "type:specimen genus:Sceloporus country:&#34;United States&#34; year &gt;= 1950 year &lt;= 2015" ; Times: 1
+	Query: "phrynosoma" ; Times: 1
+	Query: "Lampropeltis zonata" ; Times: 1
+	Query: "Snake Spring" ; Times: 1
+
+
+End of report.
