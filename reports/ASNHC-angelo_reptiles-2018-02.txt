@@ -1,0 +1,224 @@
+Report for Institution Code ASNHC, Resource angelo_reptiles
+Usage stats for February 2018, generated on 2018/10/10
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 193
+Number of records retrieved in searches: 2091
+Number of different countries where searches have been originated: 6
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 34
+	Country: United States ; Times: 113
+	Country: Portugal ; Times: 15
+	Country: Mexico ; Times: 29
+	Country: United Kingdom ; Times: 1
+	Country: Dominican Republic ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-02-09 ; Times: 1
+	Date: 2018-02-08 ; Times: 1
+	Date: 2018-02-02 ; Times: 2
+	Date: 2018-02-01 ; Times: 11
+	Date: 2018-02-07 ; Times: 4
+	Date: 2018-02-06 ; Times: 6
+	Date: 2018-02-05 ; Times: 7
+	Date: 2018-02-21 ; Times: 5
+	Date: 2018-02-20 ; Times: 13
+	Date: 2018-02-23 ; Times: 28
+	Date: 2018-02-22 ; Times: 1
+	Date: 2018-02-25 ; Times: 6
+	Date: 2018-02-24 ; Times: 9
+	Date: 2018-02-27 ; Times: 40
+	Date: 2018-02-26 ; Times: 13
+	Date: 2018-02-28 ; Times: 8
+	Date: 2018-02-14 ; Times: 2
+	Date: 2018-02-15 ; Times: 5
+	Date: 2018-02-16 ; Times: 3
+	Date: 2018-02-17 ; Times: 2
+	Date: 2018-02-10 ; Times: 4
+	Date: 2018-02-11 ; Times: 3
+	Date: 2018-02-12 ; Times: 2
+	Date: 2018-02-13 ; Times: 10
+	Date: 2018-02-18 ; Times: 4
+	Date: 2018-02-19 ; Times: 3
+
+List of queries that retrieved data from the resource: 
+	Query: "catalognumber:5917" ; Times: 1
+	Query: "genus:Crotaphytus country:&#34;Mexico&#34;" ; Times: 1
+	Query: "Uta nolascensis sonora" ; Times: 1
+	Query: "catalognumber:1639" ; Times: 1
+	Query: "specificepithet:areolata genus:Rana stateprovince:&#34;Illinois&#34;" ; Times: 1
+	Query: "county:&#34;Hill&#34; stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "&#34;Rana catesbeiana&#34; OR &#34;Lithobates catesbeianus&#34; vntype:specimen hastissue:1" ; Times: 1
+	Query: "catalognumber:13829" ; Times: 1
+	Query: "Phrynosoma solare sonora" ; Times: 2
+	Query: "Bufo alvarius" ; Times: 4
+	Query: "specificepithet:valliceps stateprovince:&#34;Texas&#34;" ; Times: 2
+	Query: "stateprovince:&#34;Arizona&#34; (Sceloporus Scalaris )" ; Times: 2
+	Query: "Chrysemys scripta mappable:1" ; Times: 4
+	Query: "distance(location,geopoint(26.42121702,-98.911099544))&lt;20391" ; Times: 1
+	Query: "family:crotaphytidae distance(location,geopoint(32.0639555946604,-103.150634765625))&lt;100000" ; Times: 1
+	Query: "Elaphe guttata mappable:1" ; Times: 2
+	Query: "order:squamata county:&#34;andrews&#34; stateprovince:&#34;texas&#34;" ; Times: 1
+	Query: "catalognumber:13221 institutioncode:ASNHC" ; Times: 2
+	Query: "specificepithet:tuberculosus genus:phyllodactylus hastissue:1" ; Times: 1
+	Query: "haldea striatula" ; Times: 2
+	Query: "catalognumber:1508" ; Times: 1
+	Query: "Bill frog" ; Times: 1
+	Query: "Crotalus ASU" ; Times: 1
+	Query: "Eleutherodactylus augusti" ; Times: 1
+	Query: "&#34;Rana catesbeiana&#34; OR &#34;Lithobates catesbeianus&#34; hastissue:1" ; Times: 23
+	Query: "Little brown skink" ; Times: 2
+	Query: "catalognumber:13300 institutioncode:ASNHC" ; Times: 1
+	Query: "holbrookia lacerata" ; Times: 1
+	Query: "crotalus lepidus arizona" ; Times: 4
+	Query: "vntype:specimen specificepithet:arenicolus genus:sceloporus county:&#34;chaves&#34; stateprovince:&#34;New Mexico&#34; (sceloporus arenicolus)" ; Times: 1
+	Query: "uta stansburiana sonora" ; Times: 2
+	Query: "catalognumber:13374 institutioncode:ASNHC" ; Times: 2
+	Query: "Dipsosaurus dorsalis Sonora" ; Times: 1
+	Query: "hale genus:rana" ; Times: 1
+	Query: "distance(location,geopoint(38.65875276895,-91.2511227055))&lt;55931" ; Times: 4
+	Query: "Graptemys pseudogeographica mappable:1" ; Times: 4
+	Query: "Holbrookia elegans sonora" ; Times: 2
+	Query: "Tantilla rubra" ; Times: 1
+	Query: "uta palmeri sonora" ; Times: 2
+	Query: "distance(location,geopoint(26.219201413,-98.5266965236825))&lt;20217" ; Times: 2
+	Query: "specificepithet:areolata genus:Rana stateprovince:&#34;texas&#34; country:&#34;united states&#34;" ; Times: 1
+	Query: "hemidactylus turcicus texas" ; Times: 1
+	Query: "california kingsnake" ; Times: 2
+	Query: "genus:Diadophis country:&#34;Mexico&#34;" ; Times: 3
+	Query: "sternotherus odoratus texas" ; Times: 1
+	Query: "Sceloporus horridus sonora" ; Times: 1
+	Query: "Heterodon nasicus stateprovince:&#34;New Mexico&#34;" ; Times: 1
+	Query: "distance(location,geopoint(26.327607579,-98.6873090154999))&lt;17422" ; Times: 1
+	Query: "catalognumber:6604" ; Times: 2
+	Query: "Rhinocheilus lecontei Sonora" ; Times: 1
+	Query: "Rana pustulosa sonora" ; Times: 1
+	Query: "catalognumber:7902" ; Times: 1
+	Query: "catalognumber:4152" ; Times: 1
+	Query: "western banded gecko" ; Times: 2
+	Query: "sceloporus scalaris vntype:specimen stateprovince:&#34;Arizona&#34; country:&#34;united states&#34;" ; Times: 1
+	Query: "Coleonyx variegatus Sonora" ; Times: 2
+	Query: "Python molurus" ; Times: 1
+	Query: "Holbrookia maculata sonora" ; Times: 1
+	Query: "Sceloporus undulatus sonora" ; Times: 1
+	Query: "distance(location,geopoint(34.1738458175001,-96.6470341709999))&lt;8152" ; Times: 1
+	Query: "Reptilia Arizona barfoot" ; Times: 2
+	Query: "mediterranean house gecko" ; Times: 1
+	Query: "Uta palmeri sonora" ; Times: 1
+	Query: "Tantilla planiceps" ; Times: 1
+	Query: "dunes sagebrush lizard" ; Times: 1
+	Query: "genus:elaphe year &gt;= 1980 hastissue:1" ; Times: 1
+	Query: "crotaphytus collaris distance(location,geopoint(32.0639555946604,-103.150634765625))&lt;100000" ; Times: 1
+	Query: "catalognumber:13558 institutioncode:ASNHC" ; Times: 1
+	Query: "Cnemidophorus hyperythrus beldingi" ; Times: 1
+	Query: "Sonora semiannulata Sonora mexico" ; Times: 1
+	Query: "Bothriechis marchi" ; Times: 1
+	Query: "sceloporus arenicolus" ; Times: 3
+	Query: "genus:Cnemidophorus year &gt;= 1995" ; Times: 1
+	Query: "Sceloporus poinsettii san luis potosi" ; Times: 1
+	Query: "Sceloporus magister sonora" ; Times: 1
+	Query: "distance(location,geopoint(26.110795247,-98.2710711635))&lt;13014" ; Times: 2
+	Query: "specificepithet:maculata genus:Holbrookia hastissue:1" ; Times: 1
+	Query: "indigo snake" ; Times: 2
+	Query: "specificepithet:marnockii stateprovince:&#34;Texas&#34;" ; Times: 6
+	Query: "class:reptilia county:&#34;val verde&#34; stateprovince:&#34;texas&#34; year &gt;= 1985 month &gt;= 3 month &lt;= 3" ; Times: 1
+	Query: "Pseudemys texana" ; Times: 2
+	Query: "crotalus pricei" ; Times: 6
+	Query: "vntype:specimen county:&#34;chaves&#34; stateprovince:&#34;New Mexico&#34; (sceloporus arenicolus)" ; Times: 1
+	Query: "vntype:specimen stateprovince:&#34;New Mexico&#34; (sceloporus arenicolus)" ; Times: 1
+	Query: "catalognumber:6020" ; Times: 1
+	Query: "Rana catesbeiana hastissue:1" ; Times: 1
+	Query: "specificepithet:rubra genus:tantilla year &gt;= 1990" ; Times: 1
+	Query: "Sceloporus poinsettii sonora" ; Times: 1
+	Query: "anolis pentaprion" ; Times: 1
+	Query: "Phyllodactylus homolepidurus sonora" ; Times: 1
+	Query: "distance(location,geopoint(46.8583067090001,-96.349728037))&lt;28673" ; Times: 4
+	Query: "vntype:specimen specificepithet:arenicolus genus:sceloporus stateprovince:&#34;New Mexico&#34; (sceloporus arenicolus)" ; Times: 1
+	Query: "class:reptilia county:&#34;jeff davis&#34; stateprovince:&#34;texas&#34; year &gt;= 1985 month &gt;= 3 month &lt;= 3" ; Times: 1
+	Query: "Crotalus atrox Sonora" ; Times: 2
+	Query: "Sceloporus clarkii sonora" ; Times: 1
+	Query: "genus:Coluber year &gt;= 1980 hastissue:1" ; Times: 1
+	Query: "specificepithet:elegans genus:Holbrookia hastissue:1" ; Times: 1
+	Query: "catalognumber:2201" ; Times: 1
+	Query: "specificepithet:Areolata genus:Rana stateprovince:&#34;Texas&#34; country:&#34;United States&#34;" ; Times: 1
+	Query: "Masticophis flagellum Sonora" ; Times: 1
+	Query: "Trionyx sinensis mappable:1" ; Times: 5
+	Query: "arizona night lizard" ; Times: 1
+	Query: "specificepithet:atriceps genus:Tantilla stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "class:reptilia county:&#34;brewster&#34; stateprovince:&#34;texas&#34; month &gt;= 3 month &lt;= 3" ; Times: 2
+	Query: "genus:tantilla hastissue:1" ; Times: 2
+	Query: "class:reptilia county:&#34;brewster&#34; stateprovince:&#34;texas&#34; year &gt;= 1985 month &gt;= 3 month &lt;= 3" ; Times: 1
+	Query: "distance(location,geopoint(26.4004249545,-97.741822877))&lt;19845" ; Times: 1
+	Query: "Tailed frog" ; Times: 1
+	Query: "Callisaurus draconoides sonora" ; Times: 1
+	Query: "catalognumber:7780" ; Times: 1
+	Query: "catalognumber:10378" ; Times: 1
+	Query: "specificepithet:rubra genus:Tantilla year &gt;= 1990" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 31 (out of 1892 download events in this period)
+Total number of records downloaded: 912
+Number of different countries: 4
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 22
+	Country: Brazil ; Times: 1
+	Country: Canada ; Times: 2
+	Country: Mexico ; Times: 6
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-02-14 ; Times: 4
+	Date: 2018-02-21 ; Times: 1
+	Date: 2018-02-16 ; Times: 2
+	Date: 2018-02-25 ; Times: 1
+	Date: 2018-02-24 ; Times: 1
+	Date: 2018-02-12 ; Times: 1
+	Date: 2018-02-26 ; Times: 2
+	Date: 2018-02-28 ; Times: 1
+	Date: 2018-02-23 ; Times: 3
+	Date: 2018-02-09 ; Times: 2
+	Date: 2018-02-08 ; Times: 1
+	Date: 2018-02-03 ; Times: 3
+	Date: 2018-02-02 ; Times: 1
+	Date: 2018-02-01 ; Times: 1
+	Date: 2018-02-27 ; Times: 4
+	Date: 2018-02-06 ; Times: 1
+	Date: 2018-02-05 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "Sceloporus graciosus graciosus" ; Times: 1
+	Query: "Sceloporus scalaris" ; Times: 1
+	Query: "Phrynosoma platyrhinos" ; Times: 1
+	Query: "sceloporus scalaris vntype:specimen stateprovince:&#34;Arizona&#34; country:&#34;united states&#34;" ; Times: 1
+	Query: "notophthalmus viridescens" ; Times: 1
+	Query: "Cnemidophorus hyperythrus beldingi" ; Times: 1
+	Query: "plethodon" ; Times: 1
+	Query: "Storeria dekayi" ; Times: 1
+	Query: "sceloporus scalaris" ; Times: 1
+	Query: "specificepithet:valliceps stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "Cnemidophorus hyperythrus" ; Times: 1
+	Query: "stateprovince:&#34;Arizona&#34; (Sceloporus Scalaris )" ; Times: 1
+	Query: "Cryptobranchus alleganiensis" ; Times: 1
+	Query: "Uma scoparia" ; Times: 1
+	Query: "Python molurus" ; Times: 1
+	Query: "sternotherus odoratus texas" ; Times: 1
+	Query: "specificepithet:tuberculosus genus:phyllodactylus hastissue:1" ; Times: 2
+	Query: "specificepithet:cerastes genus:crotalus" ; Times: 1
+	Query: "haldea striatula" ; Times: 1
+	Query: "ambystoma texanum" ; Times: 1
+	Query: "specificepithet:marnockii stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "genus:Phrynosoma family:Phrynosomatidae country:&#34;Mexico&#34; mappable:1" ; Times: 1
+	Query: "aspidoscelis gularis" ; Times: 1
+	Query: "specificepithet:nebulifer stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "Sceloporus grammicus" ; Times: 1
+	Query: "plethodon glutinosus" ; Times: 1
+	Query: "genus:Arizona" ; Times: 1
+	Query: "rana areolata" ; Times: 1
+	Query: "ambystoma maculatum" ; Times: 1
+	Query: "Heterodon nasicus stateprovince:&#34;New Mexico&#34;" ; Times: 1
+
+
+End of report.
