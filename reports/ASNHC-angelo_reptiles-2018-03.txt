@@ -1,0 +1,251 @@
+Report for Institution Code ASNHC, Resource angelo_reptiles
+Usage stats for March 2018, generated on 2018/10/11
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 289
+Number of records retrieved in searches: 4548
+Number of different countries where searches have been originated: 7
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 4
+	Country: Netherlands ; Times: 1
+	Country: Mexico ; Times: 9
+	Country: Unknown ; Times: 2
+	Country: United States ; Times: 269
+	Country: Sweden ; Times: 1
+	Country: Colombia ; Times: 3
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-03-08 ; Times: 14
+	Date: 2018-03-28 ; Times: 18
+	Date: 2018-03-29 ; Times: 22
+	Date: 2018-03-17 ; Times: 8
+	Date: 2018-03-16 ; Times: 3
+	Date: 2018-03-15 ; Times: 5
+	Date: 2018-03-14 ; Times: 7
+	Date: 2018-03-12 ; Times: 2
+	Date: 2018-03-27 ; Times: 14
+	Date: 2018-03-31 ; Times: 2
+	Date: 2018-03-30 ; Times: 18
+	Date: 2018-03-19 ; Times: 13
+	Date: 2018-03-01 ; Times: 12
+	Date: 2018-03-02 ; Times: 4
+	Date: 2018-03-03 ; Times: 6
+	Date: 2018-03-04 ; Times: 2
+	Date: 2018-03-05 ; Times: 14
+	Date: 2018-03-06 ; Times: 22
+	Date: 2018-03-07 ; Times: 7
+	Date: 2018-03-26 ; Times: 26
+	Date: 2018-03-09 ; Times: 6
+	Date: 2018-03-24 ; Times: 6
+	Date: 2018-03-25 ; Times: 2
+	Date: 2018-03-22 ; Times: 5
+	Date: 2018-03-23 ; Times: 22
+	Date: 2018-03-20 ; Times: 13
+	Date: 2018-03-21 ; Times: 16
+
+List of queries that retrieved data from the resource: 
+	Query: "California mountain kingsnake" ; Times: 1
+	Query: "catalognumber:12766 institutioncode:ASNHC" ; Times: 2
+	Query: "Micrurus texas" ; Times: 1
+	Query: "catalognumber:13557 institutioncode:ASNHC" ; Times: 1
+	Query: "genus:Siren specificepithet:intermedia" ; Times: 2
+	Query: "genus:Sauromalus specificepithet:obesus" ; Times: 3
+	Query: "python molurus" ; Times: 1
+	Query: "genus:Phyllodactylus hastissue:1" ; Times: 2
+	Query: "Sceloporus arenicolus" ; Times: 6
+	Query: "catalognumber:7849 institutioncode:ASNHC" ; Times: 1
+	Query: "genus:Tantilla specificepithet:atriceps" ; Times: 5
+	Query: "specificepithet:viridis genus:Crotalus hastissue:1" ; Times: 2
+	Query: "Northern Leopard Frog" ; Times: 2
+	Query: "specificepithet:cornutum genus:Phrynosoma stateprovince:&#34;New Mexico&#34; institutioncode:ASNHC hastissue:1" ; Times: 1
+	Query: "Crotalus stateprovince:&#34;Nevada&#34; year &gt;= 2000 year &lt;= 2017" ; Times: 1
+	Query: "catalognumber:13370 institutioncode:ASNHC" ; Times: 2
+	Query: "genus:Sistrurus stateprovince:&#34;Texas&#34;" ; Times: 2
+	Query: "county:&#34;Ocampo&#34; stateprovince:&#34;Coahuila&#34; country:&#34;Mexico&#34;" ; Times: 2
+	Query: "genus:Salvadora specificepithet:hexalepis" ; Times: 2
+	Query: "catalognumber:11771 institutioncode:ASNHC" ; Times: 2
+	Query: "specificepithet:Zonata genus:Lampropeltis county:&#34;Santa Cruz&#34; stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "catalognumber:7360" ; Times: 1
+	Query: "class:Reptilia stateprovince:&#34;Panama&#34; country:&#34;Panama&#34;" ; Times: 1
+	Query: "catalognumber:11769 institutioncode:ASNHC" ; Times: 2
+	Query: "specificepithet:lacerata genus:holbrookia stateprovince:&#34;texas&#34;" ; Times: 3
+	Query: "82 class:Reptilia county:&#34;Cochise&#34;" ; Times: 1
+	Query: "specificepithet:maculata genus:Holbrookia county:&#34;Andrews&#34; stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "catalognumber:13833 institutioncode:ASNHC" ; Times: 1
+	Query: "class:Reptilia county:&#34;Scurry&#34; stateprovince:&#34;Texas&#34;" ; Times: 2
+	Query: "kimble reptilia" ; Times: 1
+	Query: "catalognumber:14586 institutioncode:ASNHC" ; Times: 2
+	Query: "catalognumber:5477" ; Times: 1
+	Query: "vntype:specimen order:Anura institutioncode:ASNHC" ; Times: 1
+	Query: "genus:Notophthalmus specificepithet:meridionalis" ; Times: 6
+	Query: "genus:Tantilla specificepithet:hobartsmithi" ; Times: 5
+	Query: "holbrookia lacerata" ; Times: 1
+	Query: "genus:Masticophis specificepithet:lateralis" ; Times: 2
+	Query: "Ornate Box Turtle" ; Times: 2
+	Query: "reptiles sinaloa" ; Times: 1
+	Query: "catalognumber:13378 institutioncode:ASNHC" ; Times: 1
+	Query: "specificepithet:arenicolus genus:sceloporus stateprovince:&#34;texas&#34;" ; Times: 1
+	Query: "catalognumber:13556 institutioncode:ASNHC" ; Times: 1
+	Query: "catalognumber:11770 institutioncode:ASNHC" ; Times: 2
+	Query: "specificepithet:scutulatus county:&#34;San Bernardino&#34;" ; Times: 1
+	Query: "Drymarchon stateprovince:&#34;Texas&#34;" ; Times: 7
+	Query: "genus:Eunectes specificepithet:murinus" ; Times: 5
+	Query: "12594 R" ; Times: 1
+	Query: "Massasauga" ; Times: 1
+	Query: "catalognumber:13839 institutioncode:ASNHC" ; Times: 3
+	Query: "specificepithet:calligaster genus:Lampropeltis stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "genus:Gyalopion specificepithet:canum" ; Times: 5
+	Query: "sagebrush lizard" ; Times: 1
+	Query: "genus:Crotalus specificepithet:molossus" ; Times: 5
+	Query: "genus:Drymarchon specificepithet:corais" ; Times: 5
+	Query: "county:&#34;Acuna&#34; stateprovince:&#34;Coahuila&#34; country:&#34;Mexico&#34;" ; Times: 1
+	Query: "catalognumber:10967 institutioncode:ASNHC" ; Times: 2
+	Query: "Crotalus horridus stateprovince:&#34;Texas&#34; year &gt;= 1970 year &lt;= 2018" ; Times: 1
+	Query: "specificepithet:cornutum genus:Phrynosoma stateprovince:&#34;New Mexico&#34; hastissue:1" ; Times: 2
+	Query: "catalognumber:13003 institutioncode:ASNHC" ; Times: 2
+	Query: "catalognumber:14609 institutioncode:ASNHC" ; Times: 1
+	Query: "specificepithet:catenatus genus:Sistrurus stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "Natrix hastissue:1" ; Times: 1
+	Query: "desert horned lizard" ; Times: 1
+	Query: "catalognumber:12765 institutioncode:ASNHC" ; Times: 2
+	Query: "specificepithet:areolata genus:Rana stateprovince:&#34;Texas&#34; country:&#34;United States&#34;" ; Times: 1
+	Query: "genus:Uma scoparia specificepithet:scoparia" ; Times: 3
+	Query: "genus:Charina specificepithet:bottae" ; Times: 2
+	Query: "genus:Desmognathus county:&#34;Tuscaloosa&#34;" ; Times: 1
+	Query: "genus:Coniophanes specificepithet:imperialis" ; Times: 5
+	Query: "catalognumber:12764 institutioncode:ASNHC" ; Times: 3
+	Query: "Python molurus" ; Times: 1
+	Query: "Reptilia Texas gray county" ; Times: 1
+	Query: "spot-tailed earless lizard" ; Times: 2
+	Query: "pigmy rattlesnake" ; Times: 2
+	Query: "genus:rana stateprovince:&#34;michoacan&#34;" ; Times: 1
+	Query: "Lined Snake" ; Times: 1
+	Query: "specificepithet:scutulatus stateprovince:&#34;california&#34;" ; Times: 1
+	Query: "genus:Sceloporus stateprovince:&#34;Coahuila&#34; country:&#34;Mexico&#34;" ; Times: 1
+	Query: "genus:Thecadactylus specificepithet:rapicauda" ; Times: 5
+	Query: "specificepithet:miliarius genus:Sistrurus stateprovince:&#34;Texas&#34;" ; Times: 2
+	Query: "specificepithet:maculata genus:Holbrookia county:&#34;Gaines&#34; stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "genus:rana stateprovince:&#34;colima&#34;" ; Times: 1
+	Query: "catalognumber:7512 institutioncode:ASNHC" ; Times: 4
+	Query: "specificepithet:cornutum genus:Phrynosoma stateprovince:&#34;Texas&#34; hastissue:1" ; Times: 3
+	Query: "specificepithet:horridus genus:Crotalus stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "catalognumber:9638 institutioncode:ASNHC" ; Times: 2
+	Query: "rana montezumae" ; Times: 2
+	Query: "snake country:&#34;mexico&#34;" ; Times: 1
+	Query: "genus:hypsiglena stateprovince:&#34;California&#34; year &gt;= 1931 year &lt;= 1975" ; Times: 1
+	Query: "catalognumber:10969 institutioncode:ASNHC" ; Times: 2
+	Query: "catalognumber:14646 institutioncode:ASNHC" ; Times: 1
+	Query: "Cemophora texas" ; Times: 1
+	Query: "genus:Masticophis specificepithet:taeniatus" ; Times: 2
+	Query: "specificepithet:punctatus genus:Bufo institutioncode:ASNHC" ; Times: 1
+	Query: "catalognumber:13515" ; Times: 1
+	Query: "genus:agkistrodon stateprovince:&#34;illinois&#34;" ; Times: 1
+	Query: "catalognumber:9700 institutioncode:ASNHC" ; Times: 4
+	Query: "specificepithet:cornutum genus:Phrynosoma institutioncode:ASNHC hastissue:1" ; Times: 2
+	Query: "McAllen" ; Times: 1
+	Query: "class:Reptilia county:&#34;Borden&#34; stateprovince:&#34;Texas&#34;" ; Times: 2
+	Query: "genus:Sceloporus stateprovince:&#34;Coahuila&#34;" ; Times: 1
+	Query: "crotalus pricei" ; Times: 3
+	Query: "bufo compactilis sonora" ; Times: 1
+	Query: "specificepithet:maculata genus:Holbrookia county:&#34;Lubbock&#34; stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "catalognumber:13463 hastissue:1" ; Times: 1
+	Query: "genus:Farancia specificepithet:abacura" ; Times: 2
+	Query: "specificepithet:catenatus genus:Sistrurus stateprovince:(texas)" ; Times: 1
+	Query: "specificepithet:vigilis genus:Xantusia county:&#34;Riverside&#34; stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "specificepithet:exsanguis county:&#34;Cochise&#34;" ; Times: 1
+	Query: "specificepithet:catenatus genus:sistrurus stateprovince:&#34;texas&#34;" ; Times: 2
+	Query: "specificepithet:couchii distance(location,geopoint(27.371767300523047,-102.392578125))&lt;100000" ; Times: 1
+	Query: "family:Colubridae county:&#34;Anderson&#34; stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "Eunectes murinus" ; Times: 3
+	Query: "genus:Tantilla specificepithet:nigriceps" ; Times: 5
+	Query: "genus:Hemidactylus specificepithet:turcicus" ; Times: 1
+	Query: "specificepithet:cornutum genus:Phrynosoma stateprovince:&#34;Texas&#34; institutioncode:ASNHC hastissue:1" ; Times: 8
+	Query: "specificepithet:arenicolus genus:Sceloporus stateprovince:(texas)" ; Times: 1
+	Query: "bufo compactilis state of sonora mexico" ; Times: 1
+	Query: "genus:Graptemys hastissue:1" ; Times: 2
+	Query: "catalognumber:14587 institutioncode:ASNHC" ; Times: 2
+	Query: "ornate box turtle" ; Times: 1
+	Query: "specificepithet:lacerata genus:Holbrookia stateprovince:(texas)" ; Times: 2
+	Query: "specificepithet:maculata genus:Holbrookia county:&#34;Lea&#34; stateprovince:&#34;New Mexico&#34;" ; Times: 1
+	Query: "Cerastes hastissue:1" ; Times: 1
+	Query: "snake country:&#34;Mexico&#34;" ; Times: 3
+	Query: "genus:Cryptobranchus specificepithet:alleganiensis" ; Times: 2
+	Query: "genus:Bothrops specificepithet:atrox" ; Times: 2
+	Query: "catalognumber:10968 institutioncode:ASNHC" ; Times: 1
+	Query: "sceloporus cyanogenys" ; Times: 2
+	Query: "catalognumber:11767 institutioncode:ASNHC" ; Times: 4
+	Query: "catalognumber:11819 institutioncode:ASNHC" ; Times: 2
+	Query: "specificepithet:atriceps genus:tantilla mappable:1" ; Times: 1
+	Query: "genus:Spea specificepithet:multiplicata" ; Times: 2
+	Query: "genus:Rhinophrynus specificepithet:dorsalis" ; Times: 2
+	Query: "specificepithet:maculata genus:Holbrookia stateprovince:&#34;Texas&#34;" ; Times: 4
+	Query: "Lampropeltis mexicana" ; Times: 1
+	Query: "catalognumber:13555 institutioncode:ASNHC" ; Times: 2
+	Query: "class:Reptilia county:&#34;Dawson&#34; stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "genus:sauromalus country:&#34;Mexico&#34; mappable:1" ; Times: 1
+	Query: "specificepithet:cornutum genus:Phrynosoma hastissue:1" ; Times: 6
+	Query: "county:&#34;Muzquiz&#34; stateprovince:&#34;Coahuila&#34; country:&#34;Mexico&#34;" ; Times: 1
+	Query: "Triangulum texas" ; Times: 1
+	Query: "locality:Boquillas stateprovince:&#34;Coahuila&#34; country:&#34;Mexico&#34;" ; Times: 2
+	Query: "genus:Crotalus specificepithet:ruber" ; Times: 6
+	Query: "catalognumber:9735 institutioncode:ASNHC" ; Times: 3
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 34 (out of 1284 download events in this period)
+Total number of records downloaded: 6811
+Number of different countries: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 24
+	Country: Unknown ; Times: 2
+	Country: Mexico ; Times: 8
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-03-04 ; Times: 1
+	Date: 2018-03-01 ; Times: 5
+	Date: 2018-03-15 ; Times: 2
+	Date: 2018-03-14 ; Times: 1
+	Date: 2018-03-13 ; Times: 1
+	Date: 2018-03-19 ; Times: 4
+	Date: 2018-03-28 ; Times: 3
+	Date: 2018-03-29 ; Times: 4
+	Date: 2018-03-08 ; Times: 1
+	Date: 2018-03-09 ; Times: 1
+	Date: 2018-03-25 ; Times: 5
+	Date: 2018-03-26 ; Times: 2
+	Date: 2018-03-30 ; Times: 1
+	Date: 2018-03-20 ; Times: 2
+	Date: 2018-03-21 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "stateprovince:&#34;Chihuahua&#34; country:&#34;Mexico&#34;" ; Times: 2
+	Query: "spot-tailed earless lizard" ; Times: 1
+	Query: "genus:rana stateprovince:&#34;michoacan&#34;" ; Times: 1
+	Query: "ambystoma texanum" ; Times: 1
+	Query: "Sceloporus arenicolus" ; Times: 1
+	Query: "specificepithet:turcicus genus:Hemidactylus country:&#34;United States&#34; mappable:1" ; Times: 1
+	Query: "specificepithet:viridis genus:Crotalus hastissue:1" ; Times: 1
+	Query: "crotalus lepidus" ; Times: 2
+	Query: "sceloporus scalaris" ; Times: 1
+	Query: "genus:rana stateprovince:&#34;colima&#34;" ; Times: 1
+	Query: "county:&#34;Acuna&#34; stateprovince:&#34;Coahuila&#34; country:&#34;Mexico&#34;" ; Times: 1
+	Query: "county:&#34;Ocampo&#34; stateprovince:&#34;Coahuila&#34; country:&#34;Mexico&#34;" ; Times: 1
+	Query: "specificepithet:cornutum genus:Phrynosoma stateprovince:&#34;New Mexico&#34; hastissue:1" ; Times: 1
+	Query: "rana montezumae" ; Times: 2
+	Query: "phrynosoma cornutum" ; Times: 1
+	Query: "specificepithet:lacerata genus:holbrookia stateprovince:&#34;texas&#34;" ; Times: 2
+	Query: "specificepithet:amoenus genus:Carphophis mappable:1" ; Times: 4
+	Query: "specificepithet:cornutum genus:Phrynosoma institutioncode:ASNHC hastissue:1" ; Times: 1
+	Query: "crotalus pricei" ; Times: 1
+	Query: "specificepithet:cornutum genus:Phrynosoma hastissue:1" ; Times: 2
+	Query: "vntype:specimen order:Anura institutioncode:ASNHC" ; Times: 1
+	Query: "locality:Watauga stateprovince:&#34;North Carolina&#34;" ; Times: 1
+	Query: "county:&#34;Muzquiz&#34; stateprovince:&#34;Coahuila&#34; country:&#34;Mexico&#34;" ; Times: 1
+	Query: "locality:Boquillas stateprovince:&#34;Coahuila&#34; country:&#34;Mexico&#34;" ; Times: 2
+	Query: "ambystoma maculatum" ; Times: 1
+
+
+End of report.
