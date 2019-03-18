@@ -1,0 +1,153 @@
+Report for Institution Code ASNHC, Resource angelo_reptiles
+Usage stats for February 2019, generated on 2019/03/18
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 110
+Number of records retrieved in searches: 722
+Number of different countries where searches have been originated: 9
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 2
+	Country: Israel ; Times: 2
+	Country: Netherlands ; Times: 1
+	Country: Mexico ; Times: 5
+	Country: Unknown ; Times: 2
+	Country: United States ; Times: 69
+	Country: Sweden ; Times: 25
+	Country: Germany ; Times: 3
+	Country: Ireland ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-02-22 ; Times: 3
+	Date: 2019-02-10 ; Times: 5
+	Date: 2019-02-13 ; Times: 5
+	Date: 2019-02-12 ; Times: 5
+	Date: 2019-02-15 ; Times: 11
+	Date: 2019-02-14 ; Times: 1
+	Date: 2019-02-17 ; Times: 6
+	Date: 2019-02-19 ; Times: 10
+	Date: 2019-02-18 ; Times: 4
+	Date: 2019-02-02 ; Times: 2
+	Date: 2019-02-25 ; Times: 10
+	Date: 2019-02-26 ; Times: 2
+	Date: 2019-02-27 ; Times: 2
+	Date: 2019-02-20 ; Times: 11
+	Date: 2019-02-21 ; Times: 10
+	Date: 2019-02-04 ; Times: 4
+	Date: 2019-02-05 ; Times: 3
+	Date: 2019-02-09 ; Times: 1
+	Date: 2019-02-03 ; Times: 5
+	Date: 2019-02-01 ; Times: 1
+	Date: 2019-02-06 ; Times: 1
+	Date: 2019-02-07 ; Times: 8
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:scutulatus genus:Crotalus hastissue:1" ; Times: 2
+	Query: "specificepithet:pricei genus:Crotalus" ; Times: 1
+	Query: "catalognumber:1688" ; Times: 2
+	Query: "specificepithet:atrox genus:Crotalus county:&#34;Presidio&#34; stateprovince:&#34;Texas&#34; institutioncode:ASNHC basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "stateprovince:&#34;california&#34; recordedby:haynes" ; Times: 2
+	Query: "Iguana iguana sonora" ; Times: 1
+	Query: "genus:thamnophis county:&#34;travis&#34; stateprovince:&#34;texas&#34;" ; Times: 1
+	Query: "specificepithet:liocephalus genus:gerrhonotus" ; Times: 1
+	Query: "grotto salamander" ; Times: 1
+	Query: "Amphiuma tridactylum" ; Times: 1
+	Query: "specificepithet:Holbrookii genus:Scaphiopus hastissue:1" ; Times: 2
+	Query: "genus:Ambystoma stateprovince:&#34;Arkansas&#34;" ; Times: 1
+	Query: "specificepithet:atrox genus:Crotalus county:&#34;Travis&#34; stateprovince:&#34;Texas&#34; institutioncode:ASNHC basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "genus:Crotalus county:&#34;Travis&#34; stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "timber rattlesnake" ; Times: 2
+	Query: "specificepithet:atrox genus:Crotalus county:&#34;Pecos&#34; stateprovince:&#34;Texas&#34; institutioncode:ASNHC basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Rhinophrynus dorsalis vntype:specimen country:&#34;mexico&#34;" ; Times: 1
+	Query: "Agkistrodon conanti" ; Times: 2
+	Query: "amphiuma tridactylum" ; Times: 4
+	Query: "genus:siren stateprovince:&#34;texas&#34; hastissue:1" ; Times: 1
+	Query: "specificepithet:atrox genus:Crotalus county:&#34;Val Verde&#34; stateprovince:&#34;Texas&#34; institutioncode:ASNHC basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Bufo marmoreus" ; Times: 1
+	Query: "genus:Pseudemys stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "recordedby:Joel Brant" ; Times: 1
+	Query: "genus:Salvadora hastissue:1" ; Times: 2
+	Query: "arroyo toad" ; Times: 1
+	Query: "specificepithet:atrox genus:Crotalus county:&#34;Tom Green&#34; stateprovince:&#34;Texas&#34; institutioncode:ASNHC basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "specificepithet:atrox genus:Crotalus county:&#34;Pecos&#34; stateprovince:&#34;Texas&#34; basisofrecord:PreservedSpecimen" ; Times: 2
+	Query: "Eurycea lucifuga mappable:1" ; Times: 4
+	Query: "specificepithet:atrox genus:Crotalus county:&#34;Winkler&#34; stateprovince:&#34;Texas&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "specificepithet:atrox genus:Crotalus county:&#34;Upton&#34; stateprovince:&#34;Texas&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "gopher tortoise" ; Times: 1
+	Query: "alligator lizard" ; Times: 4
+	Query: "Sceloporus goldman" ; Times: 1
+	Query: "boeleni" ; Times: 1
+	Query: "stateprovince:&#34;texas&#34; (crane)" ; Times: 2
+	Query: "ASU 1789" ; Times: 1
+	Query: "genus:Crotalus county:&#34;real&#34; stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "specificepithet:atrox genus:Crotalus county:&#34;Tom Green&#34; stateprovince:&#34;Texas&#34; basisofrecord:PreservedSpecimen" ; Times: 2
+	Query: "genus:Ophisaurus hastissue:1" ; Times: 1
+	Query: "specificepithet:miliarius genus:sistrurus stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "genus:Crotalus molossus stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "specificepithet:atrox genus:Crotalus county:&#34;Ward&#34; stateprovince:&#34;Texas&#34; basisofrecord:PreservedSpecimen" ; Times: 2
+	Query: "specificepithet:atrox genus:Crotalus county:&#34;Reagan&#34; stateprovince:&#34;Texas&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "specificepithet:atrox genus:Crotalus county:&#34;Sutton&#34; stateprovince:&#34;Texas&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Tantilla atriceps" ; Times: 4
+	Query: "genus:Sistrurus stateprovince:&#34;texas&#34;" ; Times: 2
+	Query: "texas tortoise" ; Times: 1
+	Query: "genus:eumeces stateprovince:&#34;Arkansas&#34;" ; Times: 1
+	Query: "crotalus pricei" ; Times: 3
+	Query: "Drymarchon corais OR (melanurus) NOT (couperi) NOT (USA)" ; Times: 2
+	Query: "specificepithet:atrox genus:Crotalus county:&#34;Travis&#34; stateprovince:&#34;Texas&#34; basisofrecord:PreservedSpecimen" ; Times: 2
+	Query: "genus:Heterodon stateprovince:&#34;New Mexico&#34;" ; Times: 1
+	Query: "indigo snake" ; Times: 1
+	Query: "specificepithet:atrox genus:Crotalus county:&#34;Palo Pinto&#34; stateprovince:&#34;Texas&#34; institutioncode:ASNHC basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "specificepithet:cerastes genus:Crotalus hastissue:1" ; Times: 1
+	Query: "tailed frog" ; Times: 2
+	Query: "specificepithet:guttilatus stateprovince:&#34;texas&#34;" ; Times: 7
+	Query: "catalognumber:1700" ; Times: 1
+	Query: "specificepithet:atrox genus:Crotalus county:&#34;Val Verde&#34; stateprovince:&#34;Texas&#34; basisofrecord:PreservedSpecimen" ; Times: 2
+	Query: "specificepithet:contortrix genus:Agkistrodon recordedby:White" ; Times: 1
+	Query: "specificepithet:atrox genus:Crotalus county:&#34;Runnels&#34; stateprovince:&#34;Texas&#34; basisofrecord:PreservedSpecimen" ; Times: 2
+	Query: "specificepithet:atrox genus:Crotalus county:&#34;Palo Pinto&#34; stateprovince:&#34;Texas&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "specificepithet:atrox genus:Crotalus county:&#34;Presidio&#34; stateprovince:&#34;Texas&#34; basisofrecord:PreservedSpecimen" ; Times: 2
+	Query: "UTA 3984" ; Times: 1
+	Query: "genus:siren hastissue:1" ; Times: 6
+	Query: "13701" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 23 (out of 1227 download events in this period)
+Total number of records downloaded: 407
+Number of different countries: 4
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 19
+	Country: Brazil ; Times: 1
+	Country: Israel ; Times: 1
+	Country: Mexico ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-02-04 ; Times: 3
+	Date: 2019-02-05 ; Times: 3
+	Date: 2019-02-11 ; Times: 8
+	Date: 2019-02-13 ; Times: 2
+	Date: 2019-02-12 ; Times: 1
+	Date: 2019-02-06 ; Times: 2
+	Date: 2019-02-14 ; Times: 1
+	Date: 2019-02-17 ; Times: 1
+	Date: 2019-02-16 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "Agkistrodon conanti" ; Times: 1
+	Query: "xantusia vigilis" ; Times: 1
+	Query: "specificepithet:Aestivus genus:Opheodrys" ; Times: 1
+	Query: "specificepithet:marcianus genus:Thamnophis" ; Times: 1
+	Query: "genus:Ophisaurus hastissue:1" ; Times: 1
+	Query: "spotted salamander" ; Times: 1
+	Query: "genus:Sauromalus" ; Times: 11
+	Query: "Rhinophrynus dorsalis" ; Times: 1
+	Query: "Phrynosoma platyrhinos" ; Times: 1
+	Query: "specificepithet:nasicus genus:Heterodon" ; Times: 1
+	Query: "genus:Ambystoma specificepithet:texanum" ; Times: 1
+	Query: "dermophis mexicanus" ; Times: 1
+	Query: "Rhinophrynus dorsalis vntype:specimen country:&#34;mexico&#34;" ; Times: 1
+
+
+End of report.
