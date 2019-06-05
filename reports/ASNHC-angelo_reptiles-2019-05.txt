@@ -1,0 +1,166 @@
+Report for Institution Code ASNHC, Resource angelo_reptiles
+Usage stats for May 2019, generated on 2019/06/05
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 150
+Number of records retrieved in searches: 1968
+Number of different countries where searches have been originated: 5
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 109
+	Country: Unknown ; Times: 4
+	Country: Sweden ; Times: 27
+	Country: Germany ; Times: 2
+	Country: Mexico ; Times: 8
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-05-30 ; Times: 5
+	Date: 2019-05-31 ; Times: 4
+	Date: 2019-05-09 ; Times: 1
+	Date: 2019-05-08 ; Times: 17
+	Date: 2019-05-07 ; Times: 11
+	Date: 2019-05-06 ; Times: 10
+	Date: 2019-05-05 ; Times: 5
+	Date: 2019-05-04 ; Times: 1
+	Date: 2019-05-03 ; Times: 1
+	Date: 2019-05-25 ; Times: 1
+	Date: 2019-05-24 ; Times: 1
+	Date: 2019-05-27 ; Times: 1
+	Date: 2019-05-26 ; Times: 3
+	Date: 2019-05-21 ; Times: 6
+	Date: 2019-05-20 ; Times: 3
+	Date: 2019-05-23 ; Times: 6
+	Date: 2019-05-22 ; Times: 10
+	Date: 2019-05-29 ; Times: 3
+	Date: 2019-05-28 ; Times: 3
+	Date: 2019-05-18 ; Times: 4
+	Date: 2019-05-19 ; Times: 2
+	Date: 2019-05-10 ; Times: 22
+	Date: 2019-05-11 ; Times: 3
+	Date: 2019-05-12 ; Times: 1
+	Date: 2019-05-13 ; Times: 15
+	Date: 2019-05-14 ; Times: 3
+	Date: 2019-05-15 ; Times: 1
+	Date: 2019-05-16 ; Times: 3
+	Date: 2019-05-17 ; Times: 4
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:Zonata genus:Lampropeltis county:&#34;Santa Cruz&#34; stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "Texas brown snake" ; Times: 1
+	Query: "specificepithet:catenatus genus:Sistrurus county:&#34;Runnels&#34; stateprovince:&#34;Texas&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "specificepithet:valeriae genus:virginia stateprovince:&#34;texas&#34;" ; Times: 1
+	Query: "Eunectes murinus" ; Times: 1
+	Query: "specificepithet:bombifrons genus:Spea stateprovince:&#34;Texas&#34; basisofrecord:PreservedSpecimen hastissue:1" ; Times: 1
+	Query: "platyrhinos maricopa" ; Times: 2
+	Query: "specificepithet:septentrionalis genus:eumeces stateprovince:&#34;texas&#34; hastissue:1" ; Times: 1
+	Query: "genus:Micrurus county:&#34;Harris&#34; stateprovince:&#34;Texas&#34; basisofrecord:PreservedSpecimen" ; Times: 2
+	Query: "specificepithet:piscivorus genus:Agkistrodon stateprovince:&#34;Oklahoma&#34;" ; Times: 1
+	Query: "Bufo houstonensis" ; Times: 14
+	Query: "specificepithet:miliarius genus:Sistrurus county:&#34;Upshur&#34; stateprovince:&#34;Texas&#34; basisofrecord:PreservedSpecimen" ; Times: 2
+	Query: "vntype:specimen specificepithet:sphenocephala genus:Rana stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "specificepithet:bombifrons genus:spea hastissue:1" ; Times: 6
+	Query: "genus:lampropeltis alterna county:&#34;val verde&#34; stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "specificepithet:miliarius genus:Sistrurus county:&#34;Tom Green&#34; stateprovince:&#34;Texas&#34; basisofrecord:PreservedSpecimen" ; Times: 2
+	Query: "Gerrhonotus liocephalus" ; Times: 2
+	Query: "specificepithet:septentrionalis genus:eumeces hastissue:1" ; Times: 1
+	Query: "specificepithet:mississippi genus:Plethodon stateprovince:&#34;Alabama&#34; country:&#34;United States&#34;" ; Times: 2
+	Query: "stateprovince:&#34;Texas&#34; Crotalus horridus" ; Times: 3
+	Query: "specificepithet:miliarius genus:Sistrurus county:&#34;Harris&#34; stateprovince:&#34;Texas&#34; basisofrecord:PreservedSpecimen" ; Times: 2
+	Query: "cnemidophorus sackii" ; Times: 2
+	Query: "genus:Micrurus county:&#34;Terrell&#34; stateprovince:&#34;Texas&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "specificepithet:horridus genus:crotalus stateprovince:&#34;Texas&#34;" ; Times: 2
+	Query: "TX 415" ; Times: 1
+	Query: "specificepithet:bombifrons genus:spea stateprovince:&#34;new mexico&#34; hastissue:1" ; Times: 4
+	Query: "county:&#34;Jeff Davis&#34; stateprovince:&#34;Texas&#34; institutioncode:ASNHC" ; Times: 2
+	Query: "genus:Micrurus county:&#34;La Salle&#34; stateprovince:&#34;Texas&#34; basisofrecord:PreservedSpecimen" ; Times: 2
+	Query: "genus:Micrurus county:&#34;Llano&#34; stateprovince:&#34;Texas&#34; basisofrecord:PreservedSpecimen" ; Times: 2
+	Query: "genus:Micrurus county:&#34;Goliad&#34; stateprovince:&#34;Texas&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "specificepithet:fulvius genus:Micrurus stateprovince:&#34;Texas&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "family:Scincidae stateprovince:&#34;texas&#34; hastissue:1" ; Times: 1
+	Query: "ASU Sceloporus" ; Times: 1
+	Query: "specificepithet:miliarius genus:Sistrurus county:&#34;Wise&#34; stateprovince:&#34;Texas&#34; basisofrecord:PreservedSpecimen" ; Times: 2
+	Query: "county:&#34;Presidio&#34; stateprovince:&#34;Texas&#34; institutioncode:ASNHC" ; Times: 1
+	Query: "phyllodactylus hastissue:1" ; Times: 2
+	Query: "Massasauga" ; Times: 1
+	Query: "gbifdatasetid:72848c29-b2fd-4a99-9e99-82fe93eecc5b" ; Times: 1
+	Query: "specificepithet:bombifrons genus:Spea stateprovince:&#34;New Mexico&#34; basisofrecord:PreservedSpecimen hastissue:1" ; Times: 1
+	Query: "10408" ; Times: 1
+	Query: "Thamnophis proximus institutioncode:ASNHC" ; Times: 1
+	Query: "genus:spea stateprovince:&#34;arizona&#34; hastissue:1" ; Times: 1
+	Query: "genus:spea stateprovince:&#34;texas&#34; hastissue:1" ; Times: 2
+	Query: "specificepithet:mitchellii genus:Crotalus county:&#34;San Bernardino&#34; stateprovince:&#34;California&#34;" ; Times: 5
+	Query: "catalognumber:686 institutioncode:ASNHC" ; Times: 1
+	Query: "Timber rattlesnake" ; Times: 3
+	Query: "specificepithet:Catenatus genus:Sistrurus stateprovince:&#34;Texas&#34;" ; Times: 2
+	Query: "ASNHC 2133" ; Times: 2
+	Query: "genus:Micrurus county:&#34;Val Verde&#34; stateprovince:&#34;Texas&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "desert night lizard" ; Times: 1
+	Query: "specificepithet:miliarius genus:Sistrurus stateprovince:&#34;Texas&#34;" ; Times: 3
+	Query: "black spotted newt" ; Times: 1
+	Query: "specificepithet:septentrionalis genus:eumeces" ; Times: 1
+	Query: "crotalus pricei" ; Times: 4
+	Query: "Houston toad" ; Times: 1
+	Query: "specificepithet:septentrionalis stateprovince:&#34;texas&#34; hastissue:1" ; Times: 1
+	Query: "genus:Micrurus county:&#34;Brazos&#34; stateprovince:&#34;Texas&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "massasauga" ; Times: 2
+	Query: "genus:Micrurus county:&#34;Mason&#34; stateprovince:&#34;Texas&#34; basisofrecord:PreservedSpecimen" ; Times: 2
+	Query: "specificepithet:bombifrons genus:spea stateprovince:&#34;texas&#34; hastissue:1" ; Times: 2
+	Query: "gulf coast toad" ; Times: 3
+	Query: "specificepithet:septentrionalis family:Scincidae stateprovince:&#34;texas&#34; hastissue:1" ; Times: 1
+	Query: "Arroyo Toad" ; Times: 14
+	Query: "phyllodactylus nayarit" ; Times: 1
+	Query: "specificepithet:constrictor genus:Coluber country:&#34;Mexico&#34;" ; Times: 1
+	Query: "crotalus churchill county nevada" ; Times: 1
+	Query: "ASNHC 2136" ; Times: 2
+	Query: "eunectes murinus murinus" ; Times: 1
+	Query: "Ornate box turtle" ; Times: 1
+	Query: "genus:Micrurus county:&#34;Sutton&#34; stateprovince:&#34;Texas&#34; basisofrecord:PreservedSpecimen" ; Times: 2
+	Query: "Storeria dekayi stateprovince:&#34;Texas&#34;" ; Times: 6
+	Query: "genus:Micrurus county:&#34;Palo Pinto&#34; stateprovince:&#34;Texas&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "genus:Micrurus county:&#34;San Patricio&#34; stateprovince:&#34;Texas&#34; basisofrecord:PreservedSpecimen" ; Times: 2
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 18 (out of 940 download events in this period)
+Total number of records downloaded: 2620
+Number of different countries: 2
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 14
+	Country: Mexico ; Times: 4
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-05-24 ; Times: 2
+	Date: 2019-05-21 ; Times: 1
+	Date: 2019-05-03 ; Times: 1
+	Date: 2019-05-07 ; Times: 3
+	Date: 2019-05-09 ; Times: 2
+	Date: 2019-05-08 ; Times: 2
+	Date: 2019-05-10 ; Times: 1
+	Date: 2019-05-06 ; Times: 2
+	Date: 2019-05-12 ; Times: 1
+	Date: 2019-05-14 ; Times: 1
+	Date: 2019-05-15 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:bombifrons genus:Spea stateprovince:&#34;New Mexico&#34; basisofrecord:PreservedSpecimen hastissue:1" ; Times: 1
+	Query: "family:Phyllodactylidae" ; Times: 1
+	Query: "crotalus pricei" ; Times: 1
+	Query: "crotalus molossus" ; Times: 1
+	Query: "genus:Arizona" ; Times: 1
+	Query: "crotalus scutulatus" ; Times: 1
+	Query: "&#34;spea hammondii&#34;" ; Times: 1
+	Query: "crotalus atrox" ; Times: 1
+	Query: "phrynosoma cornutum" ; Times: 1
+	Query: "specificepithet:crepitans genus:Acris" ; Times: 2
+	Query: "sauromalus" ; Times: 1
+	Query: "specificepithet:bombifrons genus:Spea stateprovince:&#34;Texas&#34; basisofrecord:PreservedSpecimen hastissue:1" ; Times: 1
+	Query: "genus:Rhinocheilus" ; Times: 1
+	Query: "gambelia wislizenii" ; Times: 1
+	Query: "Bufo houstonensis" ; Times: 1
+	Query: "specificepithet:bombifrons genus:Spea stateprovince:&#34;New Mexico&#34;" ; Times: 1
+	Query: "Thamnophis proximus institutioncode:ASNHC" ; Times: 1
+
+
+End of report.
