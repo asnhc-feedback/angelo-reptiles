@@ -1,0 +1,194 @@
+Report for Institution Code ASNHC, Resource angelo_reptiles
+Usage stats for August 2019, generated on 2019/09/06
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 187
+Number of records retrieved in searches: 1258
+Number of different countries where searches have been originated: 5
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 175
+	Country: United Kingdom ; Times: 1
+	Country: Mexico ; Times: 4
+	Country: Canada ; Times: 3
+	Country: Unknown ; Times: 4
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-08-27 ; Times: 20
+	Date: 2019-08-28 ; Times: 8
+	Date: 2019-08-29 ; Times: 6
+	Date: 2019-08-01 ; Times: 1
+	Date: 2019-08-02 ; Times: 4
+	Date: 2019-08-04 ; Times: 1
+	Date: 2019-08-05 ; Times: 6
+	Date: 2019-08-06 ; Times: 4
+	Date: 2019-08-07 ; Times: 8
+	Date: 2019-08-08 ; Times: 31
+	Date: 2019-08-09 ; Times: 10
+	Date: 2019-08-25 ; Times: 1
+	Date: 2019-08-23 ; Times: 6
+	Date: 2019-08-20 ; Times: 6
+	Date: 2019-08-21 ; Times: 1
+	Date: 2019-08-17 ; Times: 2
+	Date: 2019-08-16 ; Times: 3
+	Date: 2019-08-15 ; Times: 8
+	Date: 2019-08-14 ; Times: 20
+	Date: 2019-08-13 ; Times: 2
+	Date: 2019-08-12 ; Times: 3
+	Date: 2019-08-11 ; Times: 3
+	Date: 2019-08-10 ; Times: 4
+	Date: 2019-08-31 ; Times: 4
+	Date: 2019-08-30 ; Times: 13
+	Date: 2019-08-19 ; Times: 1
+	Date: 2019-08-18 ; Times: 3
+	Date: 2019-08-26 ; Times: 8
+
+List of queries that retrieved data from the resource: 
+	Query: "genus:Diadophis institutioncode:ASNHC hastissue:1" ; Times: 1
+	Query: "specificepithet:cinerea genus:Hyla hastissue:1" ; Times: 1
+	Query: "coniophanes imperialis" ; Times: 1
+	Query: "order:squamata locality:isla cousteau" ; Times: 2
+	Query: "Tantilla atriceps" ; Times: 3
+	Query: "specificepithet:homolepidurus genus:Phyllodactylus institutioncode:ASNHC" ; Times: 6
+	Query: "specificepithet:rapicauda genus:Thecadactylus institutioncode:ASNHC" ; Times: 5
+	Query: "eurycea pterophila" ; Times: 1
+	Query: "Texas horned lizard" ; Times: 1
+	Query: "catalognumber:10731 institutioncode:ASNHC" ; Times: 6
+	Query: "Gyalopion canum" ; Times: 1
+	Query: "catalognumber:10780 institutioncode:ASNHC" ; Times: 3
+	Query: "Sceloporus asper" ; Times: 1
+	Query: "spot-tailed earless lizard" ; Times: 1
+	Query: "catalognumber:10641 institutioncode:ASNHC" ; Times: 4
+	Query: "vntype:specimen genus:arizona family:colubridae country:&#34;mexico&#34; year &gt;= 1965 year &lt;= 1980" ; Times: 1
+	Query: "Crotalus Hidalgo Mexico" ; Times: 1
+	Query: "catalognumber:5585 institutioncode:ASNHC" ; Times: 2
+	Query: "hemidactylus (jones county texas)" ; Times: 1
+	Query: "Smilisca baudinii" ; Times: 1
+	Query: "specificepithet:squirella genus:Hyla hastissue:1" ; Times: 1
+	Query: "catalognumber:9808 institutioncode:ASNHC" ; Times: 4
+	Query: "specificepithet:woodhousii genus:Bufo county:&#34;Brewster&#34; stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "catalognumber:5583 institutioncode:ASNHC" ; Times: 3
+	Query: "catalognumber:5581 institutioncode:ASNHC" ; Times: 4
+	Query: "catalognumber:11014 institutioncode:ASNHC" ; Times: 3
+	Query: "genus:ficimia" ; Times: 2
+	Query: "genus:Carphophis hastissue:1" ; Times: 4
+	Query: "texas horned lizard" ; Times: 1
+	Query: "hemidactylus turcicus texas" ; Times: 1
+	Query: "lampropeltis alterna" ; Times: 1
+	Query: "specificepithet:nasicus genus:heterodon stateprovince:&#34;Texas&#34;" ; Times: 8
+	Query: "specificepithet:ordinoides genus:thamnophis hastissue:1" ; Times: 2
+	Query: "specificepithet:alterna genus:Lampropeltis stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "genus:Diadophis stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "order:squamata locality:cerralvo" ; Times: 1
+	Query: "specificepithet:punctatus genus:Diadophis institutioncode:ASNHC" ; Times: 2
+	Query: "genus:Tantilla hastissue:1" ; Times: 1
+	Query: "mediterranean gecko" ; Times: 1
+	Query: "Norops barkeri" ; Times: 1
+	Query: "genus:Sistrurus stateprovince:&#34;Arizona&#34;" ; Times: 2
+	Query: "Massasauga" ; Times: 9
+	Query: "locality:isla cousteau" ; Times: 1
+	Query: "specificepithet:tuberculosus genus:Phyllodactylus institutioncode:ASNHC" ; Times: 6
+	Query: "Lampropeltis mexicana" ; Times: 1
+	Query: "specificepithet:punctatus genus:Diadophis institutioncode:ASNHC hastissue:1" ; Times: 1
+	Query: "catalognumber:11015 institutioncode:ASNHC" ; Times: 2
+	Query: "specificepithet:rapicauda genus:thecadactylus hastissue:1" ; Times: 3
+	Query: "catalognumber:5586 institutioncode:ASNHC" ; Times: 2
+	Query: "Sistrurus catenatus catenatus" ; Times: 5
+	Query: "Sistrurus catenatus" ; Times: 3
+	Query: "specificepithet:woodhousii genus:Bufo county:&#34;ward&#34; stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "genus:Uma scoparia specificepithet:scoparia" ; Times: 1
+	Query: "catalognumber:10345 institutioncode:ASNHC" ; Times: 1
+	Query: "catalognumber:10344 institutioncode:ASNHC" ; Times: 2
+	Query: "Eurycea nana" ; Times: 2
+	Query: "Drymarchon corais" ; Times: 3
+	Query: "catalognumber:5582 institutioncode:ASNHC" ; Times: 3
+	Query: "genus:thecadactylus hastissue:1" ; Times: 5
+	Query: "specificepithet:zonata genus:Lampropeltis county:&#34;Santa Cruz&#34; stateprovince:&#34;California&#34;" ; Times: 2
+	Query: "catalognumber:6995" ; Times: 1
+	Query: "Crotalus Pricei" ; Times: 2
+	Query: "Hemidactylus turcicus stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "catalognumber:5584 institutioncode:ASNHC" ; Times: 3
+	Query: "aneides hardii" ; Times: 6
+	Query: "catalognumber:10730 institutioncode:ASNHC" ; Times: 4
+	Query: "genus:Eurycea stateprovince:&#34;Missouri&#34;" ; Times: 1
+	Query: "hemidactylus turcicus live oak" ; Times: 1
+	Query: "specificepithet:chrysoscelis genus:Hyla hastissue:1" ; Times: 1
+	Query: "Notophthalmus meridionalis" ; Times: 1
+	Query: "Eleutherodactylus marnockii" ; Times: 2
+	Query: "specificepithet:lanei genus:Phyllodactylus institutioncode:ASNHC" ; Times: 6
+	Query: "vntype:specimen specificepithet:valeriae genus:Virginia hastissue:1" ; Times: 1
+	Query: "dunes sagebrush lizard" ; Times: 1
+	Query: "Lampropeltis alterna" ; Times: 15
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 38 (out of 1034 download events in this period)
+Total number of records downloaded: 1973
+Number of different countries: 5
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 12
+	Country: Brazil ; Times: 1
+	Country: Mexico ; Times: 21
+	Country: Canada ; Times: 1
+	Country: Unknown ; Times: 3
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-08-12 ; Times: 1
+	Date: 2019-08-09 ; Times: 4
+	Date: 2019-08-02 ; Times: 4
+	Date: 2019-08-01 ; Times: 9
+	Date: 2019-08-15 ; Times: 1
+	Date: 2019-08-13 ; Times: 1
+	Date: 2019-08-05 ; Times: 1
+	Date: 2019-08-28 ; Times: 3
+	Date: 2019-08-10 ; Times: 2
+	Date: 2019-08-26 ; Times: 1
+	Date: 2019-08-04 ; Times: 3
+	Date: 2019-08-31 ; Times: 4
+	Date: 2019-08-23 ; Times: 1
+	Date: 2019-08-20 ; Times: 1
+	Date: 2019-08-21 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:inornatus family:Teiidae stateprovince:&#34;New Mexico&#34;" ; Times: 1
+	Query: "genus:Phrynosoma country:&#34;MEXICO&#34;" ; Times: 1
+	Query: "crotalus molossus" ; Times: 1
+	Query: "viperidae" ; Times: 1
+	Query: "Sceloporus scalaris" ; Times: 1
+	Query: "Hemidactylus turcicus" ; Times: 1
+	Query: "Sceloporus asper" ; Times: 1
+	Query: "genus:Cryptobranchus" ; Times: 1
+	Query: "Sceloporus utiformis" ; Times: 1
+	Query: "Sceloporus poinsettii" ; Times: 1
+	Query: "genus:Carphophis hastissue:1" ; Times: 1
+	Query: "genus:Masticophis country:&#34;United States&#34;" ; Times: 1
+	Query: "genus:Pituophis stateprovince:&#34;colorado&#34;" ; Times: 1
+	Query: "country:&#34;Mexico&#34;" ; Times: 1
+	Query: "hemidactylus turcicus texas" ; Times: 1
+	Query: "specificepithet:punctatus genus:Diadophis institutioncode:ASNHC" ; Times: 1
+	Query: "Holbrookia elegans" ; Times: 1
+	Query: "Sceloporus horridus" ; Times: 1
+	Query: "genus:Sistrurus stateprovince:&#34;Arizona&#34;" ; Times: 1
+	Query: "Salvadora grahamiae" ; Times: 1
+	Query: "Lampropeltis mexicana" ; Times: 1
+	Query: "Phyllodactylus lanei" ; Times: 1
+	Query: "Potos" ; Times: 1
+	Query: "Sceloporus jarrovii" ; Times: 1
+	Query: "Crotalus atrox" ; Times: 2
+	Query: "genus:Pituophis stateprovince:&#34;new mexico&#34;" ; Times: 1
+	Query: "crotalus ruber" ; Times: 1
+	Query: "genus:Diadophis hastissue:1" ; Times: 1
+	Query: "Sceloporus clarkii" ; Times: 1
+	Query: "Sceloporus grammicus" ; Times: 1
+	Query: "specificepithet:cinerea genus:Hyla" ; Times: 1
+	Query: "genus:thamnophis stateprovince:&#34;tamaulipas&#34; country:&#34;mexico&#34;" ; Times: 1
+	Query: "Crotalus molossus" ; Times: 1
+	Query: "genus:Ambystoma hastissue:1" ; Times: 1
+	Query: "genus:Pituophis stateprovince:&#34;arizona&#34;" ; Times: 1
+	Query: "Rhinocheilus lecontei" ; Times: 1
+	Query: "genus:Diadophis stateprovince:&#34;Texas &#34;" ; Times: 1
+
+
+End of report.
