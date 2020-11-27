@@ -1,0 +1,212 @@
+Report for Institution Code ASNHC, Resource angelo_reptiles
+Usage stats for January 2020, generated on 2020/11/27
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 144
+Number of records retrieved in searches: 1668
+Number of different countries where searches have been originated: 7
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 1
+	Country: Honduras ; Times: 1
+	Country: Portugal ; Times: 1
+	Country: Mexico ; Times: 9
+	Country: United States ; Times: 121
+	Country: Ireland ; Times: 2
+	Country: Dominica ; Times: 9
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-01-29 ; Times: 12
+	Date: 2020-01-02 ; Times: 5
+	Date: 2020-01-08 ; Times: 1
+	Date: 2020-01-18 ; Times: 3
+	Date: 2020-01-19 ; Times: 3
+	Date: 2020-01-16 ; Times: 13
+	Date: 2020-01-04 ; Times: 2
+	Date: 2020-01-09 ; Times: 8
+	Date: 2020-01-17 ; Times: 4
+	Date: 2020-01-25 ; Times: 1
+	Date: 2020-01-24 ; Times: 4
+	Date: 2020-01-27 ; Times: 22
+	Date: 2020-01-26 ; Times: 4
+	Date: 2020-01-22 ; Times: 1
+	Date: 2020-01-11 ; Times: 8
+	Date: 2020-01-28 ; Times: 14
+	Date: 2020-01-31 ; Times: 6
+	Date: 2020-01-13 ; Times: 1
+	Date: 2020-01-23 ; Times: 31
+	Date: 2020-01-30 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "genus:Crotaphytus country:&#34;Mexico&#34;" ; Times: 1
+	Query: "genus:nerodia county:&#34;Burnet&#34; stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "specificepithet:tigrinum genus:Ambystoma hastissue:1" ; Times: 1
+	Query: "specificepithet:cognatus genus:Bufo" ; Times: 1
+	Query: "genus:micrurus county:&#34;llano&#34; stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "Sceloporus arenicolus" ; Times: 1
+	Query: "genus:lampropeltis county:&#34;Erath&#34; stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "specificepithet:arenicolor genus:Hyla" ; Times: 1
+	Query: "specificepithet:marnockii genus:Eleutherodactylus" ; Times: 1
+	Query: "specificepithet:hammondii genus:Spea" ; Times: 1
+	Query: "specificepithet:lacerata genus:holbrookia county:&#34;concho&#34;" ; Times: 1
+	Query: "catalognumber:11263" ; Times: 1
+	Query: "specificepithet:streckeri genus:Pseudacris" ; Times: 1
+	Query: "Sceloporus grammicus" ; Times: 1
+	Query: "genus:thecadactylus hastissue:1" ; Times: 2
+	Query: "specificepithet:montezumae genus:Rana" ; Times: 1
+	Query: "specificepithet:calligaster genus:lampropeltis stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "specificepithet:mazatlanensis genus:Bufo" ; Times: 1
+	Query: "specificepithet:lacerata genus:holbrookia county:&#34;RUNNELS&#34;" ; Times: 1
+	Query: "specificepithet:olivacea genus:Gastrophryne" ; Times: 1
+	Query: "genus:thamnophis county:&#34;lampasas&#34; stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "ASNHC 3449" ; Times: 1
+	Query: "specificepithet:dorsalis genus:Rhinophrynus" ; Times: 1
+	Query: "coniophanes imperialis texas" ; Times: 1
+	Query: "12356" ; Times: 1
+	Query: "specificepithet:lacerata genus:holbrookia county:&#34;san saba&#34;" ; Times: 1
+	Query: "specificepithet:couchii genus:Scaphiopus" ; Times: 1
+	Query: "specificepithet:lacerata genus:holbrookia county:&#34;val verde&#34;" ; Times: 1
+	Query: "specificepithet:lanei genus:Phyllodactylus institutioncode:ASNHC" ; Times: 6
+	Query: "specificepithet:lacerata genus:holbrookia county:&#34;IRION&#34;" ; Times: 1
+	Query: "specificepithet:cavifrons genus:Bufo" ; Times: 1
+	Query: "leptodactylus texas" ; Times: 1
+	Query: "genus:holbrookia county:&#34;atascosa&#34; stateprovince:&#34;texas&#34;" ; Times: 1
+	Query: "specificepithet:melanostictus genus:Bufo" ; Times: 1
+	Query: "specificepithet:speciosus genus:Bufo" ; Times: 1
+	Query: "13990" ; Times: 1
+	Query: "order:SQUAMATA county:&#34;FANNIN&#34; stateprovince:&#34;TEXAS&#34;" ; Times: 1
+	Query: "catalognumber:12682" ; Times: 1
+	Query: "Tantilla rubra" ; Times: 1
+	Query: "specificepithet:striatula county:&#34;comanche&#34;" ; Times: 2
+	Query: "specificepithet:mabouia genus:hemidactylus hastissue:1" ; Times: 2
+	Query: "genus:Thecadactylus hastissue:1" ; Times: 4
+	Query: "specificepithet:canaliferus genus:Bufo" ; Times: 1
+	Query: "Phyllodactylus homolepidurus" ; Times: 1
+	Query: "genus:crotalus county:&#34;llano&#34; stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "genus:eurycea stateprovince:&#34;texas&#34; AND (quadridigitata) basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "specificepithet:blairi genus:Rana" ; Times: 1
+	Query: "specificepithet:turcicus genus:hemidactylus county:&#34;concho&#34; stateprovince:&#34;texas&#34;" ; Times: 2
+	Query: "specificepithet:clarkii genus:Pseudacris" ; Times: 1
+	Query: "specificepithet:alvarius genus:Bufo" ; Times: 1
+	Query: "Rana catesbeiana san patricio county texas" ; Times: 2
+	Query: "specificepithet:punctatus genus:Bufo" ; Times: 1
+	Query: "class:AMPHIBIA county:&#34;FANNIN&#34; stateprovince:&#34;TEXAS&#34;" ; Times: 1
+	Query: "specificepithet:lacerata genus:holbrookia county:&#34;COKE&#34;" ; Times: 1
+	Query: "ficimia texas" ; Times: 2
+	Query: "specificepithet:homolepidurus genus:Phyllodactylus institutioncode:ASNHC" ; Times: 6
+	Query: "specificepithet:rapicauda genus:Thecadactylus institutioncode:ASNHC" ; Times: 5
+	Query: "Sceloporus goldmani" ; Times: 1
+	Query: "Sceloporus asper" ; Times: 1
+	Query: "specificepithet:lacerata genus:holbrookia county:&#34;TOM GREEN&#34;" ; Times: 1
+	Query: "specificepithet:multiplicata genus:Spea" ; Times: 1
+	Query: "genus:Phrynosoma county:&#34;llano&#34; stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "specificepithet:marmoreus genus:Bufo" ; Times: 1
+	Query: "specificepithet:striatula county:&#34;erath&#34;" ; Times: 2
+	Query: "specificepithet:miliarius genus:Sistrurus stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "genus:thamnophis county:&#34;Burnet&#34; stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "Bothriechis marchi" ; Times: 2
+	Query: "genus:phyllodactylus hastissue:1" ; Times: 1
+	Query: "boeleni" ; Times: 2
+	Query: "specificepithet:baudinii genus:Smilisca" ; Times: 1
+	Query: "specificepithet:melanonotus genus:Leptodactylus" ; Times: 1
+	Query: "specificepithet:tuberculosus genus:Phyllodactylus institutioncode:ASNHC" ; Times: 6
+	Query: "genus:Callisaurus county:&#34;Riverside&#34;" ; Times: 1
+	Query: "thamnophis cyrtopsis" ; Times: 5
+	Query: "Agalychnis dacnicolor" ; Times: 2
+	Query: "genus:tropidoclonion stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "genus:agkistrodon county:&#34;Burnet&#34; stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "Scarlet Kingsnake" ; Times: 3
+	Query: "specificepithet:couchii genus:Scaphiopus county:&#34;Cochise&#34; stateprovince:&#34;Arizona&#34; country:&#34;United States&#34;" ; Times: 1
+	Query: "specificepithet:hurterii genus:Scaphiopus" ; Times: 1
+	Query: "specificepithet:pustulosa genus:Rana" ; Times: 1
+	Query: "specificepithet:lacerata genus:holbrookia county:&#34;REAGAN&#34;" ; Times: 1
+	Query: "genus:Phrynosoma county:&#34;san saba&#34; stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "specificepithet:areolata genus:Rana" ; Times: 1
+	Query: "genus:elaphe county:&#34;Burnet&#34; stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "specificepithet:lacerata genus:holbrookia county:&#34;mcculloch&#34;" ; Times: 1
+	Query: "cryptobranchus Alabama" ; Times: 4
+	Query: "specificepithet:bocourti genus:Bufo" ; Times: 1
+	Query: "specificepithet:nebulifer genus:Bufo" ; Times: 1
+	Query: "catalognumber:12453" ; Times: 1
+	Query: "specificepithet:houstonensis genus:Bufo" ; Times: 1
+	Query: "specificepithet:valliceps genus:Bufo" ; Times: 1
+	Query: "Massasauga" ; Times: 1
+	Query: "specificepithet:molossus genus:crotalus stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "specificepithet:debilis genus:Bufo" ; Times: 1
+	Query: "genus:sistrurus stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "genus:sonora county:&#34;Burnet&#34; stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "specificepithet:lacerata genus:holbrookia county:&#34;schleicher&#34;" ; Times: 1
+	Query: "genus:heterodon stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "specificepithet:berlandieri genus:Rana" ; Times: 1
+	Query: "amphiuma texas" ; Times: 3
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 45 (out of 1584 download events in this period)
+Total number of records downloaded: 1447
+Number of different countries: 2
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 39
+	Country: Mexico ; Times: 6
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-01-02 ; Times: 1
+	Date: 2020-01-08 ; Times: 2
+	Date: 2020-01-07 ; Times: 3
+	Date: 2020-01-04 ; Times: 1
+	Date: 2020-01-15 ; Times: 1
+	Date: 2020-01-09 ; Times: 4
+	Date: 2020-01-22 ; Times: 1
+	Date: 2020-01-25 ; Times: 6
+	Date: 2020-01-24 ; Times: 6
+	Date: 2020-01-27 ; Times: 1
+	Date: 2020-01-31 ; Times: 10
+	Date: 2020-01-28 ; Times: 7
+	Date: 2020-01-30 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "ficimia texas" ; Times: 1
+	Query: "specificepithet:marcianus genus:Thamnophis" ; Times: 1
+	Query: "genus:Scaphiopus" ; Times: 1
+	Query: "Petrosaurus mearnsi" ; Times: 1
+	Query: "Hemidactylus mabouia" ; Times: 1
+	Query: "Sceloporus goldmani" ; Times: 1
+	Query: "Sceloporus asper" ; Times: 1
+	Query: "specificepithet:tigrinum genus:Ambystoma" ; Times: 1
+	Query: "Sceloporus utiformis" ; Times: 1
+	Query: "specificepithet:cornutum genus:Phrynosoma year &gt;= 1960 year &lt;= 2020" ; Times: 1
+	Query: "Uma notata" ; Times: 1
+	Query: "Iguana iguana" ; Times: 1
+	Query: "specificepithet:areolata family:ranidae" ; Times: 1
+	Query: "Thecadactylus rapicauda" ; Times: 1
+	Query: "stateprovince:&#34;Tabasco&#34; country:&#34;Mexico&#34;" ; Times: 1
+	Query: "Coleonyx variegatus" ; Times: 1
+	Query: "genus:cryptobranchus" ; Times: 1
+	Query: "Bothriechis marchi" ; Times: 1
+	Query: "Holbrookia elegans" ; Times: 1
+	Query: "specificepithet:streckeri genus:Pseudacris" ; Times: 1
+	Query: "class:Amphibia stateprovince:&#34;Arkansas&#34;" ; Times: 1
+	Query: "stateprovince:&#34;Veracruz&#34; country:&#34;México&#34;" ; Times: 1
+	Query: "Phyllodactylus homolepidurus" ; Times: 1
+	Query: "Phyllodactylus lanei" ; Times: 1
+	Query: "class:Reptilia stateprovince:&#34;Arkansas&#34;" ; Times: 1
+	Query: "Sceloporus grammicus" ; Times: 4
+	Query: "xantusia henshawi" ; Times: 2
+	Query: "genus:eurycea stateprovince:&#34;texas&#34; AND (quadridigitata) basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Phrynosoma coronatum" ; Times: 1
+	Query: "specificepithet:carolinensis genus:Anolis hastissue:1" ; Times: 1
+	Query: "genus:eurycea stateprovince:&#34;texas&#34; AND (NOT quadridigitata) basisofrecord:PreservedSpecimen" ; Times: 2
+	Query: "Ophisaurus attenuatus" ; Times: 1
+	Query: "coniophanes imperialis texas" ; Times: 1
+	Query: "Sceloporus gadoviae" ; Times: 1
+	Query: "class:Reptilia stateprovince:&#34;Louisiana&#34;" ; Times: 1
+	Query: "Sceloporus parvus" ; Times: 1
+	Query: "Sceloporus orcutti" ; Times: 1
+	Query: "Sceloporus uniformis" ; Times: 1
+	Query: "Sceloporus arenicolus" ; Times: 1
+	Query: "Basiliscus basiliscus" ; Times: 1
+
+
+End of report.
