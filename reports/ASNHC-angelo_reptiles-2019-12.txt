@@ -1,0 +1,113 @@
+Report for Institution Code ASNHC, Resource angelo_reptiles
+Usage stats for December 2019, generated on 2020/11/27
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 60
+Number of records retrieved in searches: 613
+Number of different countries where searches have been originated: 8
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 3
+	Country: Mexico ; Times: 3
+	Country: France ; Times: 2
+	Country: United States ; Times: 39
+	Country: Sweden ; Times: 3
+	Country: Germany ; Times: 7
+	Country: Belgium ; Times: 2
+	Country: Venezuela ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-12-25 ; Times: 7
+	Date: 2019-12-24 ; Times: 5
+	Date: 2019-12-21 ; Times: 1
+	Date: 2019-12-28 ; Times: 1
+	Date: 2019-12-12 ; Times: 2
+	Date: 2019-12-18 ; Times: 4
+	Date: 2019-12-19 ; Times: 1
+	Date: 2019-12-01 ; Times: 5
+	Date: 2019-12-09 ; Times: 3
+	Date: 2019-12-06 ; Times: 1
+	Date: 2019-12-07 ; Times: 3
+	Date: 2019-12-11 ; Times: 5
+	Date: 2019-12-05 ; Times: 2
+	Date: 2019-12-13 ; Times: 3
+	Date: 2019-12-03 ; Times: 9
+	Date: 2019-12-02 ; Times: 3
+	Date: 2019-12-16 ; Times: 3
+	Date: 2019-12-17 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "ctenosaura texas" ; Times: 2
+	Query: "Sapo" ; Times: 2
+	Query: "side blotched lizard" ; Times: 1
+	Query: "Tantilla+rubra" ; Times: 1
+	Query: "Eumeces dugesii" ; Times: 1
+	Query: "dunes sagebrush lizard" ; Times: 1
+	Query: "genus:Ambystoma stateprovince:&#34;Kansas&#34; year &gt;= 1960 year &lt;= 2019" ; Times: 1
+	Query: "specificepithet:lacerata genus:Holbrookia" ; Times: 2
+	Query: "11270." ; Times: 1
+	Query: "Coluber constrictor texas" ; Times: 1
+	Query: "Gerrhonotus liocephalus" ; Times: 2
+	Query: "catalognumber:1129" ; Times: 1
+	Query: "specificepithet:vigilis county:&#34;Riverside&#34;" ; Times: 1
+	Query: "crotalus lepidus" ; Times: 1
+	Query: "lampropeltis triangulum texas year &gt;= 1980 year &lt;= 2019" ; Times: 1
+	Query: "Phrynosoma cornutum mappable:1 year&gt;=1800 year&lt;=2013 month&gt;=1 month&lt;=1 day&gt;=1 day&lt;=1" ; Times: 2
+	Query: "holbrookia lacerata" ; Times: 1
+	Query: "lampropeltis zonata santa cruz" ; Times: 2
+	Query: "cnemidophorus lineatissimus" ; Times: 1
+	Query: "specificepithet:vigilis class:reptilia county:&#34;riverside&#34;" ; Times: 1
+	Query: "genus:carphophis stateprovince:&#34;oklahoma&#34; hastissue:1" ; Times: 1
+	Query: "coachwhip" ; Times: 2
+	Query: "great plains toad" ; Times: 1
+	Query: "dunes sagebrush" ; Times: 1
+	Query: "Kinosternon sonoriense" ; Times: 1
+	Query: "Crotalus molossus" ; Times: 2
+	Query: "Rana berlandieri la salle" ; Times: 4
+	Query: "genus:diadophis stateprovince:&#34;oklahoma&#34; hastissue:1" ; Times: 1
+	Query: "specificepithet:piscivorus genus:Agkistrodon stateprovince:&#34;Mississippi&#34; basisofrecord:PreservedSpecimen" ; Times: 3
+	Query: "Lampropeltis zonata" ; Times: 1
+	Query: "13110" ; Times: 1
+	Query: "Massasauga" ; Times: 10
+	Query: "Notophthalmus meridionalis texas" ; Times: 2
+	Query: "Hemidactylus turcicus mappable:1 year&gt;=1800 year&lt;=2013 month&gt;=1 month&lt;=1 day&gt;=1 day&lt;=1" ; Times: 4
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 18 (out of 596 download events in this period)
+Total number of records downloaded: 1087
+Number of different countries: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 14
+	Country: Belgium ; Times: 2
+	Country: Australia ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-12-19 ; Times: 2
+	Date: 2019-12-05 ; Times: 10
+	Date: 2019-12-12 ; Times: 1
+	Date: 2019-12-16 ; Times: 3
+	Date: 2019-12-24 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:debilis class:Amphibia" ; Times: 1
+	Query: "Gerrhonotus liocephalus" ; Times: 1
+	Query: "specificepithet:carolinensis genus:Anolis hastissue:1" ; Times: 1
+	Query: "specificepithet:marcianus genus:Thamnophis" ; Times: 1
+	Query: "class:Reptilia stateprovince:&#34;Louisiana&#34;" ; Times: 1
+	Query: "specificepithet:cornutum genus:Phrynosoma" ; Times: 1
+	Query: "class:Reptilia stateprovince:&#34;Arkansas&#34;" ; Times: 1
+	Query: "genus:Rhinocheilus" ; Times: 1
+	Query: "holbrookia lacerata" ; Times: 1
+	Query: "specificepithet:areolata genus:Rana class:Amphibia" ; Times: 1
+	Query: "cane toad" ; Times: 2
+	Query: "specificepithet:streckeri genus:Pseudacris class:Amphibia" ; Times: 1
+	Query: "crotalus cerastes" ; Times: 2
+	Query: "class:Amphibia stateprovince:&#34;Louisiana&#34;" ; Times: 1
+	Query: "class:amphibia stateprovince:&#34;Arkansas&#34;" ; Times: 1
+	Query: "Varanus exanthematicus" ; Times: 1
+
+
+End of report.
