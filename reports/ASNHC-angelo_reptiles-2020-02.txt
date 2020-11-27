@@ -1,0 +1,163 @@
+Report for Institution Code ASNHC, Resource angelo_reptiles
+Usage stats for February 2020, generated on 2020/11/27
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 96
+Number of records retrieved in searches: 1363
+Number of different countries where searches have been originated: 5
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 86
+	Country: Brazil ; Times: 3
+	Country: Dominica ; Times: 1
+	Country: Ireland ; Times: 1
+	Country: Mexico ; Times: 5
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-02-02 ; Times: 5
+	Date: 2020-02-03 ; Times: 2
+	Date: 2020-02-26 ; Times: 2
+	Date: 2020-02-01 ; Times: 2
+	Date: 2020-02-20 ; Times: 14
+	Date: 2020-02-07 ; Times: 4
+	Date: 2020-02-04 ; Times: 7
+	Date: 2020-02-05 ; Times: 5
+	Date: 2020-02-08 ; Times: 5
+	Date: 2020-02-09 ; Times: 3
+	Date: 2020-02-29 ; Times: 1
+	Date: 2020-02-11 ; Times: 7
+	Date: 2020-02-10 ; Times: 4
+	Date: 2020-02-13 ; Times: 3
+	Date: 2020-02-12 ; Times: 6
+	Date: 2020-02-15 ; Times: 6
+	Date: 2020-02-14 ; Times: 1
+	Date: 2020-02-16 ; Times: 1
+	Date: 2020-02-19 ; Times: 8
+	Date: 2020-02-18 ; Times: 2
+	Date: 2020-02-24 ; Times: 3
+	Date: 2020-02-27 ; Times: 5
+
+List of queries that retrieved data from the resource: 
+	Query: "gyalopion canum" ; Times: 5
+	Query: "specificepithet:homolepidurus genus:Phyllodactylus institutioncode:ASNHC" ; Times: 1
+	Query: "crotalus molossus" ; Times: 1
+	Query: "specificepithet:rapicauda genus:Thecadactylus institutioncode:ASNHC" ; Times: 1
+	Query: "hyla chrysoscelis texas" ; Times: 1
+	Query: "county:&#34;gaines&#34; stateprovince:&#34;texas&#34;" ; Times: 2
+	Query: "Uta nolascensis" ; Times: 1
+	Query: "eunectes murinus" ; Times: 3
+	Query: "Sceloporus asper" ; Times: 1
+	Query: "specificepithet:rapicauda genus:thecadactylus hastissue:1" ; Times: 1
+	Query: "Rana berlandieri texas mcmullen" ; Times: 2
+	Query: "California kingsnake" ; Times: 2
+	Query: "Rana berlandieri texas La Salle" ; Times: 1
+	Query: "genus:siren stateprovince:&#34;texas&#34; hastissue:1" ; Times: 1
+	Query: "Uta palmeri" ; Times: 1
+	Query: "Necturus Texas" ; Times: 4
+	Query: "Dunes Sagebrush Lizard" ; Times: 1
+	Query: "box turtle" ; Times: 2
+	Query: "genus:Rana county:&#34;Kleberg&#34; stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "class:Reptilia county:&#34;Callahan&#34; stateprovince:&#34;Texas&#34;" ; Times: 2
+	Query: "Rhinocheilus lecontei hidalgo" ; Times: 1
+	Query: "specificepithet:compactilis genus:Bufo stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "vntype:specimen genus:Siren stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "catalognumber:7433 institutioncode:ASNHC" ; Times: 1
+	Query: "california kingsnake" ; Times: 3
+	Query: "genus:Eurycea institutioncode:ASNHC" ; Times: 2
+	Query: "specificepithet:woodhousii genus:Bufo stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "Sceloporus undulatus texas hidalgo" ; Times: 2
+	Query: "Acris Minton" ; Times: 3
+	Query: "class:Amphibia county:&#34;Callahan&#34; stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "catalognumber:1625" ; Times: 1
+	Query: "specificepithet:tuberculosus genus:Phyllodactylus institutioncode:ASNHC" ; Times: 1
+	Query: "genus:Eurycea stateprovince:&#34;Texas&#34; institutioncode:ASNHC" ; Times: 2
+	Query: "Pseudacris clarkii texas cameron" ; Times: 1
+	Query: "specificepithet:liocephalus genus:gerrhonotus" ; Times: 1
+	Query: "Sonora UTA" ; Times: 1
+	Query: "genus:siren stateprovince:&#34;texas&#34;" ; Times: 1
+	Query: "Rana berlandieri texas la salle" ; Times: 1
+	Query: "crotalus pricei" ; Times: 6
+	Query: "timber rattlesnake" ; Times: 2
+	Query: "crawfish frog" ; Times: 1
+	Query: "catalognumber:12020" ; Times: 1
+	Query: "genus:nerodia county:&#34;burnet&#34; stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "sistrurus texas" ; Times: 1
+	Query: "lampropeltis texas nueces" ; Times: 1
+	Query: "Crotalus molossus" ; Times: 2
+	Query: "Hyla chrysoscelis texas" ; Times: 1
+	Query: "Red spotted toad" ; Times: 5
+	Query: "Rana berlandieri La Salle" ; Times: 1
+	Query: "holbrookia lacerata" ; Times: 7
+	Query: "catalognumber:4916" ; Times: 1
+	Query: "horned lizard" ; Times: 1
+	Query: "thamnophis ordinoides hastissue:1" ; Times: 1
+	Query: "red diamond rattlesnake" ; Times: 1
+	Query: "agalychnis dacnicolor" ; Times: 2
+	Query: "boeleni" ; Times: 1
+	Query: "specificepithet:lanei genus:Phyllodactylus institutioncode:ASNHC" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 33 (out of 1023 download events in this period)
+Total number of records downloaded: 1399
+Number of different countries: 5
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 17
+	Country: Brazil ; Times: 1
+	Country: Mexico ; Times: 13
+	Country: Canada ; Times: 1
+	Country: Belgium ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-02-11 ; Times: 3
+	Date: 2020-02-05 ; Times: 7
+	Date: 2020-02-24 ; Times: 2
+	Date: 2020-02-10 ; Times: 2
+	Date: 2020-02-13 ; Times: 1
+	Date: 2020-02-27 ; Times: 1
+	Date: 2020-02-06 ; Times: 1
+	Date: 2020-02-14 ; Times: 3
+	Date: 2020-02-04 ; Times: 2
+	Date: 2020-02-23 ; Times: 1
+	Date: 2020-02-19 ; Times: 2
+	Date: 2020-02-18 ; Times: 1
+	Date: 2020-02-28 ; Times: 3
+	Date: 2020-02-29 ; Times: 1
+	Date: 2020-02-21 ; Times: 3
+
+List of queries that retrieved data from the resource: 
+	Query: "Xantusia vigilis" ; Times: 1
+	Query: "Xantusia henshawi" ; Times: 1
+	Query: "specificepithet:woodhousii genus:Bufo stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "Uta nolascensis" ; Times: 1
+	Query: "class:Reptilia county:&#34;San Diego&#34; stateprovince:&#34;california&#34;" ; Times: 1
+	Query: "Smilisca baudinii" ; Times: 2
+	Query: "specificepithet:viridis genus:Crotalus" ; Times: 1
+	Query: "class:Reptilia stateprovince:&#34;Tamaulipas&#34; country:&#34;Mexico&#34;" ; Times: 1
+	Query: "Uta palmeri" ; Times: 1
+	Query: "eunectes murinus" ; Times: 1
+	Query: "specificepithet:compactilis genus:Bufo stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "country:&#34;Mexico&#34;" ; Times: 1
+	Query: "class:Amphibia stateprovince:&#34;Tamaulipas&#34; country:&#34;Mexico&#34;" ; Times: 1
+	Query: "class:Amphibia country:&#34;Panama&#34;" ; Times: 1
+	Query: "specificepithet:streckeri genus:Pseudacris" ; Times: 1
+	Query: "louisiana" ; Times: 1
+	Query: "specificepithet:dekayi genus:Storeria year &gt;= 1970 year &lt;= 2020" ; Times: 1
+	Query: "class:Amphibia country:&#34;México&#34;" ; Times: 2
+	Query: "pseudacris streckeri" ; Times: 1
+	Query: "Anguidae" ; Times: 1
+	Query: "class:reptilia county:&#34;Riverside&#34; stateprovince:&#34;California&#34;" ; Times: 2
+	Query: "class:reptilia county:&#34;San Diego&#34; stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "Agalychnis dacnicolor" ; Times: 1
+	Query: "specificepithet:dekayi genus:Storeria country:&#34;United States&#34; year &gt;= 1970 year &lt;= 2020" ; Times: 1
+	Query: "Rana catesbeiana" ; Times: 1
+	Query: "specificepithet:lecontei genus:Rhinocheilus" ; Times: 1
+	Query: "Uta squamata" ; Times: 1
+	Query: "Uma scoparia" ; Times: 1
+	Query: "class:Reptilia county:&#34;Riverside&#34; stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "Varanus exanthematicus" ; Times: 1
+
+
+End of report.
