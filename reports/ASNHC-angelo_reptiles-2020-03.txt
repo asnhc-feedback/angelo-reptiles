@@ -1,0 +1,177 @@
+Report for Institution Code ASNHC, Resource angelo_reptiles
+Usage stats for March 2020, generated on 2020/11/27
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 71
+Number of records retrieved in searches: 525
+Number of different countries where searches have been originated: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 68
+	Country: Brazil ; Times: 1
+	Country: Mexico ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-03-30 ; Times: 3
+	Date: 2020-03-31 ; Times: 3
+	Date: 2020-03-02 ; Times: 4
+	Date: 2020-03-18 ; Times: 5
+	Date: 2020-03-16 ; Times: 1
+	Date: 2020-03-09 ; Times: 1
+	Date: 2020-03-15 ; Times: 4
+	Date: 2020-03-12 ; Times: 2
+	Date: 2020-03-13 ; Times: 4
+	Date: 2020-03-10 ; Times: 4
+	Date: 2020-03-17 ; Times: 2
+	Date: 2020-03-27 ; Times: 1
+	Date: 2020-03-26 ; Times: 2
+	Date: 2020-03-25 ; Times: 3
+	Date: 2020-03-24 ; Times: 12
+	Date: 2020-03-23 ; Times: 5
+	Date: 2020-03-21 ; Times: 1
+	Date: 2020-03-05 ; Times: 2
+	Date: 2020-03-04 ; Times: 9
+	Date: 2020-03-06 ; Times: 1
+	Date: 2020-03-01 ; Times: 1
+	Date: 2020-03-28 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:piscivorus genus:Agkistrodon stateprovince:&#34;Illinois&#34;" ; Times: 1
+	Query: "specificepithet:hurterii genus:scaphiopus stateprovince:&#34;oklahoma&#34;" ; Times: 1
+	Query: "genus:siren stateprovince:&#34;texAS&#34; year &gt;= 1960" ; Times: 1
+	Query: "catalognumber:13619" ; Times: 2
+	Query: "county:&#34;irion&#34; lampropeltis" ; Times: 2
+	Query: "specificepithet:platyrhinos county:&#34;riverside&#34;" ; Times: 2
+	Query: "Texas horned lizard" ; Times: 2
+	Query: "specificepithet:platyrhinos county:&#34;san bernardino&#34;" ; Times: 1
+	Query: "black tailed rattlesnake" ; Times: 2
+	Query: "specificepithet:harteri" ; Times: 1
+	Query: "catalognumber:5085" ; Times: 1
+	Query: "class:Amphibia locality:Cuatro cienegas stateprovince:&#34;Coahuila&#34; country:&#34;Mexico&#34;" ; Times: 1
+	Query: "class:Amphibia stateprovince:&#34;Colima&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "specificepithet:odoratus institutioncode:ASNHC" ; Times: 1
+	Query: "catalognumber:7319" ; Times: 1
+	Query: "Ctenosaura defensor" ; Times: 1
+	Query: "(11044)" ; Times: 1
+	Query: "13619" ; Times: 2
+	Query: "genus:heterodon stateprovince:&#34;texas&#34;" ; Times: 1
+	Query: "specificepithet:bairdi genus:Elaphe" ; Times: 1
+	Query: "nerodia harteri" ; Times: 1
+	Query: "specificepithet:olivacea genus:gastrophryne county:&#34;choctaw&#34; stateprovince:&#34;oklahoma&#34;" ; Times: 1
+	Query: "arroyo toad" ; Times: 1
+	Query: "12212" ; Times: 1
+	Query: "Sistrurus catenatus texas" ; Times: 2
+	Query: "class:reptilia county:&#34;Bowie&#34; stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "marmoreus" ; Times: 1
+	Query: "asnhc 11467" ; Times: 1
+	Query: "genus:Chrysemys family:Emydidae stateprovince:&#34;Texas&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "genus:phyllodactylus stateprovince:&#34;california&#34; continent:North America institutioncode:ASNHC" ; Times: 1
+	Query: "Crotalus horridus texas" ; Times: 2
+	Query: "genus:Diadophis country:&#34;Mexico&#34;" ; Times: 1
+	Query: "specificepithet:texana genus:pseudemys county:&#34;Coryell&#34; stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "specificepithet:glutinosus genus:Plethodon stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "texas horned lizard" ; Times: 1
+	Query: "specificepithet:alterna genus:Lampropeltis" ; Times: 1
+	Query: "specificepithet:coronatum county:&#34;san diego&#34;" ; Times: 1
+	Query: "Pseudemys texana" ; Times: 3
+	Query: "specificepithet:piscivorus genus:Agkistrodon stateprovince:&#34;Arkansas&#34;" ; Times: 2
+	Query: "county:&#34;schleicher&#34; Lampropeltis" ; Times: 4
+	Query: "genus:thecadactylus hastissue:1" ; Times: 1
+	Query: "lamb county texas" ; Times: 1
+	Query: "Sistrurus miliarius texas" ; Times: 3
+	Query: "Crotalus molossus texas" ; Times: 2
+	Query: "specificepithet:hurterii genus:Scaphiopus stateprovince:&#34;oklahoma&#34;" ; Times: 1
+	Query: "Scarlet Kingsnake" ; Times: 1
+	Query: "genus:Storeria county:&#34;Cass&#34; stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "13715" ; Times: 2
+	Query: "nerodia taxispilota vntype:specimen country:&#34;United States&#34; hastissue:1" ; Times: 1
+	Query: "Phrynosoma coronatum hastissue:1" ; Times: 2
+	Query: "county:&#34;schleicher&#34;" ; Times: 1
+	Query: "county:&#34;Live Oak&#34; stateprovince:&#34;Texas&#34;" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 49 (out of 853 download events in this period)
+Total number of records downloaded: 2996
+Number of different countries: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 46
+	Country: Spain ; Times: 1
+	Country: Mexico ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-03-05 ; Times: 4
+	Date: 2020-03-12 ; Times: 1
+	Date: 2020-03-20 ; Times: 3
+	Date: 2020-03-17 ; Times: 2
+	Date: 2020-03-30 ; Times: 3
+	Date: 2020-03-26 ; Times: 2
+	Date: 2020-03-25 ; Times: 2
+	Date: 2020-03-24 ; Times: 1
+	Date: 2020-03-23 ; Times: 2
+	Date: 2020-03-10 ; Times: 2
+	Date: 2020-03-02 ; Times: 6
+	Date: 2020-03-19 ; Times: 2
+	Date: 2020-03-16 ; Times: 2
+	Date: 2020-03-09 ; Times: 2
+	Date: 2020-03-04 ; Times: 4
+	Date: 2020-03-06 ; Times: 1
+	Date: 2020-03-01 ; Times: 1
+	Date: 2020-03-13 ; Times: 7
+	Date: 2020-03-29 ; Times: 1
+	Date: 2020-03-28 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "pseudotriton" ; Times: 1
+	Query: "specificepithet:aestivus genus:Opheodrys" ; Times: 1
+	Query: "specificepithet:horridus genus:Crotalus" ; Times: 1
+	Query: "specificepithet:zonata genus:Lampropeltis" ; Times: 1
+	Query: "Hemidactylus turcicus" ; Times: 1
+	Query: "specificepithet:flavescens genus:Kinosternon" ; Times: 1
+	Query: "specificepithet:albagula genus:Plethodon" ; Times: 1
+	Query: "specificepithet:atrox genus:Crotalus" ; Times: 1
+	Query: "Sistrurus" ; Times: 1
+	Query: "class:Amphibia stateprovince:&#34;Colima&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "genus:charina" ; Times: 1
+	Query: "specificepithet:alterna genus:Lampropeltis" ; Times: 1
+	Query: "specificepithet:guttata genus:Elaphe" ; Times: 1
+	Query: "specificepithet:palustris family:Ranidae" ; Times: 1
+	Query: "specificepithet:cornutum genus:Phrynosoma" ; Times: 1
+	Query: "genus:Masticophis stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "specificepithet:bairdi genus:Elaphe" ; Times: 1
+	Query: "texas horned lizard" ; Times: 1
+	Query: "genus:Drymarchon" ; Times: 2
+	Query: "specificepithet:speciosus family:Bufonidae" ; Times: 1
+	Query: "specificepithet:getulus genus:Lampropeltis" ; Times: 1
+	Query: "specificepithet:getula genus:Lampropeltis" ; Times: 1
+	Query: "genus:Sistrurus" ; Times: 1
+	Query: "genus:phyllodactylus stateprovince:&#34;california&#34; continent:North America institutioncode:ASNHC" ; Times: 1
+	Query: "specificepithet:triangulum genus:Lampropeltis" ; Times: 1
+	Query: "specificepithet:emoryi" ; Times: 1
+	Query: "Nerodia taxispilota" ; Times: 1
+	Query: "specificepithet:glutinosus genus:Plethodon stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "genus:Hypsiglena" ; Times: 1
+	Query: "specificepithet:elegans genus:Arizona" ; Times: 1
+	Query: "specificepithet:lucifuga genus:Eurycea" ; Times: 1
+	Query: "specificepithet:olivacea genus:Gastrophryne" ; Times: 1
+	Query: "pseudotriton ruber" ; Times: 1
+	Query: "Pseudemys texana" ; Times: 1
+	Query: "genus:Cemophora" ; Times: 1
+	Query: "specificepithet:bombifrons genus:Spea" ; Times: 1
+	Query: "specificepithet:calligaster genus:Lampropeltis" ; Times: 1
+	Query: "newt" ; Times: 1
+	Query: "class:reptilia stateprovince:&#34;Colima&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "genus:Gopherus" ; Times: 1
+	Query: "genus:Amphiuma" ; Times: 1
+	Query: "specificepithet:harteri" ; Times: 1
+	Query: "specificepithet:clarkii genus:Pseudacris" ; Times: 1
+	Query: "genus:Sonora" ; Times: 1
+	Query: "specificepithet:punctatus genus:Bufo" ; Times: 1
+	Query: "genus:Farancia" ; Times: 1
+	Query: "Phrynosoma coronatum hastissue:1" ; Times: 1
+	Query: "specificepithet:intermedia genus:Siren" ; Times: 1
+
+
+End of report.
