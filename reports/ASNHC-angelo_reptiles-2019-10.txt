@@ -1,0 +1,165 @@
+Report for Institution Code ASNHC, Resource angelo_reptiles
+Usage stats for October 2019, generated on 2019/11/10
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 96
+Number of records retrieved in searches: 2052
+Number of different countries where searches have been originated: 6
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 2
+	Country: Canada ; Times: 5
+	Country: Mexico ; Times: 5
+	Country: Unknown ; Times: 2
+	Country: United States ; Times: 81
+	Country: Paraguay ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-10-09 ; Times: 1
+	Date: 2019-10-08 ; Times: 4
+	Date: 2019-10-21 ; Times: 6
+	Date: 2019-10-20 ; Times: 3
+	Date: 2019-10-27 ; Times: 3
+	Date: 2019-10-25 ; Times: 1
+	Date: 2019-10-24 ; Times: 3
+	Date: 2019-10-01 ; Times: 3
+	Date: 2019-10-03 ; Times: 1
+	Date: 2019-10-02 ; Times: 2
+	Date: 2019-10-05 ; Times: 1
+	Date: 2019-10-04 ; Times: 2
+	Date: 2019-10-07 ; Times: 6
+	Date: 2019-10-06 ; Times: 2
+	Date: 2019-10-23 ; Times: 1
+	Date: 2019-10-22 ; Times: 11
+	Date: 2019-10-29 ; Times: 3
+	Date: 2019-10-18 ; Times: 3
+	Date: 2019-10-19 ; Times: 2
+	Date: 2019-10-16 ; Times: 1
+	Date: 2019-10-10 ; Times: 3
+	Date: 2019-10-11 ; Times: 1
+	Date: 2019-10-30 ; Times: 13
+	Date: 2019-10-17 ; Times: 4
+	Date: 2019-10-14 ; Times: 1
+	Date: 2019-10-15 ; Times: 12
+	Date: 2019-10-28 ; Times: 3
+
+List of queries that retrieved data from the resource: 
+	Query: "genus:urosaurus country:&#34;mexico&#34; hastissue:1" ; Times: 1
+	Query: "northern leopard frog" ; Times: 13
+	Query: "sistrurus arizona" ; Times: 1
+	Query: "catalognumber:12077" ; Times: 1
+	Query: "sceloporus dugesii colima" ; Times: 1
+	Query: "specificepithet:texanum genus:Ambystoma hastissue:1" ; Times: 1
+	Query: "Sistrurus catenatus 2000" ; Times: 1
+	Query: "12619" ; Times: 2
+	Query: "timber rattlesnake" ; Times: 1
+	Query: "specificepithet:compactilis country:&#34;Mexico&#34;" ; Times: 1
+	Query: "Timber Rattlesnake" ; Times: 1
+	Query: "specificepithet:ornatus genus:Urosaurus stateprovince:&#34;New Mexico&#34; hastissue:1" ; Times: 3
+	Query: "Eastern coral snake" ; Times: 2
+	Query: "vntype:specimen genus:Sceloporus stateprovince:&#34;Louisiana&#34; hastissue:1" ; Times: 1
+	Query: "specificepithet:amoenus genus:carphophis hastissue:1" ; Times: 1
+	Query: "sceloporus magister sinaloa" ; Times: 1
+	Query: "coleonyx mexico" ; Times: 1
+	Query: "bufo compactilis state of mexico" ; Times: 1
+	Query: "Tantilla rubra" ; Times: 1
+	Query: "nerodia harteri" ; Times: 6
+	Query: "genus:Eleutherodactylus specificepithet:marnockii" ; Times: 1
+	Query: "specificepithet:compactilis family:Bufonidae" ; Times: 1
+	Query: "specificepithet:Nasicus genus:Heterodon stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "Haldea striatula" ; Times: 1
+	Query: "specificepithet:sirtalis genus:thamnophis class:Reptilia stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "sonora episcopa" ; Times: 1
+	Query: "Massasauga" ; Times: 1
+	Query: "rana colima" ; Times: 3
+	Query: "specificepithet:ornatus genus:urosaurus country:&#34;mexico&#34; hastissue:1" ; Times: 1
+	Query: "sceloporus clarkii sinaloa" ; Times: 4
+	Query: "Sistrurus catenatus 1995" ; Times: 1
+	Query: "western fence lizard" ; Times: 1
+	Query: "coachwhip" ; Times: 1
+	Query: "class:Reptilia county:&#34;Wise&#34; stateprovince:&#34;Texas&#34;" ; Times: 3
+	Query: "Storeria dekayi Missouri" ; Times: 2
+	Query: "Sistrurus catenatus 2016" ; Times: 1
+	Query: "specificepithet:woodhousii county:&#34;Brewster&#34; stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "Grotto Salamander" ; Times: 2
+	Query: "streckeri Pseudacris" ; Times: 2
+	Query: "Agalychnis dacnicolor" ; Times: 2
+	Query: "specificepithet:ornatus genus:urosaurus hastissue:1" ; Times: 3
+	Query: "Gyalopion canum" ; Times: 2
+	Query: "specificepithet:ornatus genus:Urosaurus country:&#34;Mexico&#34; hastissue:1" ; Times: 1
+	Query: "crotalus pricei" ; Times: 1
+	Query: "catalognumber:2482" ; Times: 2
+	Query: "genus:necturus stateprovince:&#34;Florida&#34; year &gt;= 1990" ; Times: 1
+	Query: "catalognumber:1459" ; Times: 1
+	Query: "holbrookia lacerata" ; Times: 2
+	Query: "Notophthalmus meridionalis" ; Times: 2
+	Query: "Storeria dekayi hastissue:1" ; Times: 1
+	Query: "catalognumber:3618 institutioncode:ASNHC" ; Times: 1
+	Query: "10109" ; Times: 1
+	Query: "genus:Uta country:&#34;Mexico&#34; hastissue:1" ; Times: 3
+	Query: "specificepithet:ornatus genus:Urosaurus hastissue:1" ; Times: 1
+	Query: "ASNHC 7433" ; Times: 1
+	Query: "agalychnis dacnicolor sinaloa" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 36 (out of 1308 download events in this period)
+Total number of records downloaded: 5473
+Number of different countries: 6
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 2
+	Country: United States ; Times: 20
+	Country: Canada ; Times: 1
+	Country: Mexico ; Times: 2
+	Country: Unknown ; Times: 10
+	Country: United Kingdom ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-10-09 ; Times: 1
+	Date: 2019-10-22 ; Times: 1
+	Date: 2019-10-21 ; Times: 1
+	Date: 2019-10-19 ; Times: 1
+	Date: 2019-10-27 ; Times: 1
+	Date: 2019-10-26 ; Times: 1
+	Date: 2019-10-25 ; Times: 1
+	Date: 2019-10-16 ; Times: 4
+	Date: 2019-10-03 ; Times: 1
+	Date: 2019-10-28 ; Times: 3
+	Date: 2019-10-30 ; Times: 10
+	Date: 2019-10-17 ; Times: 2
+	Date: 2019-10-15 ; Times: 3
+	Date: 2019-10-23 ; Times: 1
+	Date: 2019-10-10 ; Times: 3
+	Date: 2019-10-31 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "ophisaurus attenuatus" ; Times: 1
+	Query: "Bufonidae vntype:specimen hastissue:1" ; Times: 3
+	Query: "northern leopard frog" ; Times: 2
+	Query: "Hemidactylus mabouia" ; Times: 1
+	Query: "vntype:specimen specificepithet:marmoratus genus:Cnemidophorus" ; Times: 1
+	Query: "specificepithet:occidentalis genus:Sceloporus stateprovince:&#34;California&#34; basisofrecord:PreservedSpecimen hastissue:1" ; Times: 1
+	Query: "sceloporus clarkii" ; Times: 4
+	Query: "genus:anaxyrus stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "vntype:specimen genus:Sceloporus stateprovince:&#34;Louisiana&#34; hastissue:1" ; Times: 1
+	Query: "sceloporus Clarkii" ; Times: 1
+	Query: "reptilia stateprovince:&#34;Oregon&#34;" ; Times: 1
+	Query: "reptilia stateprovince:&#34;arizona&#34; distance(location,geopoint(33.9811704087733,-114.3090985705079))&lt;100000" ; Times: 1
+	Query: "specificepithet:compactilis family:Bufonidae" ; Times: 1
+	Query: "chuckwalla" ; Times: 2
+	Query: "genus:Lampropeltis stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "vntype:specimen specificepithet:gularis genus:Aspidoscelis" ; Times: 1
+	Query: "genus:Anolis hastissue:1" ; Times: 1
+	Query: "Sceloporus clarkii" ; Times: 2
+	Query: "Agalychnis dacnicolor" ; Times: 1
+	Query: "Gyalopion canum" ; Times: 1
+	Query: "SCELOPORUS CLARKII" ; Times: 3
+	Query: "vntype:specimen specificepithet:undulatus genus:Sceloporus hastissue:1" ; Times: 1
+	Query: "genus:Phyllomedusa" ; Times: 2
+	Query: "genus:bufo stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "Varanus exanthematicus" ; Times: 1
+
+
+End of report.
