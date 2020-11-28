@@ -1,0 +1,231 @@
+Report for Institution Code ASNHC, Resource angelo_reptiles
+Usage stats for August 2020, generated on 2020/11/28
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 115
+Number of records retrieved in searches: 1346
+Number of different countries where searches have been originated: 4
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 109
+	Country: Portugal ; Times: 2
+	Country: Ecuador ; Times: 1
+	Country: Mexico ; Times: 3
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-08-28 ; Times: 4
+	Date: 2020-08-29 ; Times: 4
+	Date: 2020-08-17 ; Times: 28
+	Date: 2020-08-16 ; Times: 2
+	Date: 2020-08-15 ; Times: 2
+	Date: 2020-08-14 ; Times: 5
+	Date: 2020-08-13 ; Times: 3
+	Date: 2020-08-12 ; Times: 2
+	Date: 2020-08-11 ; Times: 3
+	Date: 2020-08-10 ; Times: 2
+	Date: 2020-08-26 ; Times: 2
+	Date: 2020-08-19 ; Times: 3
+	Date: 2020-08-31 ; Times: 4
+	Date: 2020-08-20 ; Times: 2
+	Date: 2020-08-01 ; Times: 6
+	Date: 2020-08-02 ; Times: 2
+	Date: 2020-08-03 ; Times: 6
+	Date: 2020-08-04 ; Times: 3
+	Date: 2020-08-05 ; Times: 2
+	Date: 2020-08-06 ; Times: 2
+	Date: 2020-08-07 ; Times: 5
+	Date: 2020-08-08 ; Times: 4
+	Date: 2020-08-27 ; Times: 2
+	Date: 2020-08-24 ; Times: 1
+	Date: 2020-08-25 ; Times: 1
+	Date: 2020-08-22 ; Times: 5
+	Date: 2020-08-23 ; Times: 1
+	Date: 2020-08-09 ; Times: 6
+	Date: 2020-08-21 ; Times: 3
+
+List of queries that retrieved data from the resource: 
+	Query: "Texas specificepithet:bombifrons genus:Scaphiopus" ; Times: 1
+	Query: "specificepithet:pricei genus:Crotalus county:&#34;Cochise&#34; stateprovince:&#34;Arizona&#34;" ; Times: 1
+	Query: "10276 vntype:specimen" ; Times: 1
+	Query: "specificepithet:clarkii genus:sceloporus county:&#34;cochise&#34; stateprovince:&#34;arizona&#34; country:&#34;United States&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "specificepithet:triangulum genus:Lampropeltis stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "class:amphibia county:&#34;shelby&#34; stateprovince:&#34;texas&#34; country:&#34;united states&#34;" ; Times: 1
+	Query: "specificepithet:areolata family:Ranidae stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "specificepithet:valliceps family:Bufonidae county:&#34;Bexar&#34; stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "genus:Heterodon county:&#34;Hidalgo&#34; stateprovince:&#34;New Mexico&#34;" ; Times: 2
+	Query: "Texas specificepithet:catenatus genus:Sistrurus" ; Times: 1
+	Query: "Crotalus pricei" ; Times: 1
+	Query: "tantilla rubra" ; Times: 1
+	Query: "asnhc 1282" ; Times: 1
+	Query: "Texas genus:Opheodrys" ; Times: 1
+	Query: "catalognumber:6205" ; Times: 1
+	Query: "Texas specificepithet:nigriceps genus:Tantilla" ; Times: 1
+	Query: "specificepithet:lanei genus:Phyllodactylus institutioncode:ASNHC" ; Times: 1
+	Query: "genus:eurycea locality:fern bank" ; Times: 1
+	Query: "Texas specificepithet:muticus genus:Trionyx" ; Times: 1
+	Query: "Sceloporus cyanogenys" ; Times: 1
+	Query: "class:reptilia county:&#34;san augustine&#34; stateprovince:&#34;texas&#34; country:&#34;united states&#34;" ; Times: 1
+	Query: "class:reptilia county:&#34;sabine&#34; stateprovince:&#34;texas&#34; country:&#34;united states&#34;" ; Times: 1
+	Query: "Riverside County ruber" ; Times: 1
+	Query: "mappable:1 scientificname:Trionyx sinensis" ; Times: 1
+	Query: "uta nolascensis" ; Times: 1
+	Query: "hemidactylus turcicus texas" ; Times: 1
+	Query: "Texas specificepithet:calligaster genus:Lampropeltis" ; Times: 1
+	Query: "family:Bufonidae county:&#34;Anderson&#34; stateprovince:&#34;Texas&#34;" ; Times: 2
+	Query: "gbifdatasetid:72848c29-b2fd-4a99-9e99-82fe93eecc5b" ; Times: 1
+	Query: "specificepithet:blairi family:Ranidae county:&#34;Lubbock&#34; stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "gopher tortoise" ; Times: 1
+	Query: "coachwhip" ; Times: 1
+	Query: "genus:scaphiopus hastissue:1" ; Times: 3
+	Query: "specificepithet:speciosus family:Bufonidae county:&#34;Cameron&#34; stateprovince:&#34;Texas&#34;" ; Times: 2
+	Query: "asnhc 6421" ; Times: 2
+	Query: "asnhc 6422" ; Times: 2
+	Query: "class:amphibia locality:pecos river" ; Times: 1
+	Query: "Texas specificepithet:chrysoscelis genus:Hyla" ; Times: 1
+	Query: "genus:Eurycea stateprovince:&#34;Missouri&#34;" ; Times: 1
+	Query: "specificepithet:bombifrons order:Anura county:&#34;Lubbock&#34; stateprovince:&#34;Texas&#34;" ; Times: 2
+	Query: "tennessee cave salamander" ; Times: 1
+	Query: "specificepithet:homolepidurus genus:Phyllodactylus institutioncode:ASNHC" ; Times: 1
+	Query: "specificepithet:rapicauda genus:Thecadactylus institutioncode:ASNHC" ; Times: 1
+	Query: "bufo marinus texas" ; Times: 1
+	Query: "Texas genus:Leptotyphlops" ; Times: 1
+	Query: "dunes sagebrush lizard" ; Times: 1
+	Query: "catalognumber:13268 institutioncode:ASNHC" ; Times: 1
+	Query: "specificepithet:arenicolus genus:sceloporus year &gt;= 1995 year &lt;= 2020" ; Times: 1
+	Query: "specificepithet:punctatus family:Bufonidae county:&#34;Val Verde&#34; stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "hemidactylus mabouia texas" ; Times: 1
+	Query: "Texas specificepithet:palustris genus:Rana" ; Times: 1
+	Query: "genus:Sistrurus county:&#34;cochise&#34; stateprovince:&#34;Arizona&#34;" ; Times: 2
+	Query: "ASNHC 1282" ; Times: 1
+	Query: "ASNHC 6421" ; Times: 1
+	Query: "ASNHC 6422" ; Times: 1
+	Query: "Smilisca texas" ; Times: 2
+	Query: "Texas specificepithet:cinerea genus:Hyla" ; Times: 1
+	Query: "specificepithet:bombifrons order:Anura county:&#34;Hockley&#34; stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "Texas specificepithet:obsoleta genus:Elaphe" ; Times: 1
+	Query: "Texas specificepithet:obsoletus genus:Eumeces" ; Times: 1
+	Query: "specificepithet:valliceps family:Bufonidae county:&#34;Dewitt&#34; stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "hellbender" ; Times: 2
+	Query: "class:Reptilia county:&#34;shelby&#34; stateprovince:&#34;texas&#34; country:&#34;United States&#34;" ; Times: 2
+	Query: "genus:Rana specificepithet:montezumae" ; Times: 1
+	Query: "Anolis pentaprion" ; Times: 1
+	Query: "massasauga" ; Times: 1
+	Query: "specificepithet:tuberculosus genus:Phyllodactylus institutioncode:ASNHC" ; Times: 1
+	Query: "Pseudemys concinna Texas" ; Times: 1
+	Query: "Mountain garter snake" ; Times: 3
+	Query: "genus:cryptobranchus stateprovince:&#34;Alabama&#34;" ; Times: 1
+	Query: "specificepithet:bombifrons order:Anura county:&#34;Gaines&#34; stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "catalognumber:13426 institutioncode:ASNHC" ; Times: 1
+	Query: "class:reptilia county:&#34;harrison&#34; stateprovince:&#34;texas&#34; country:&#34;united states&#34;" ; Times: 1
+	Query: "specificepithet:valeriae genus:Virginia stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "specificepithet:woodhousei family:Bufonidae stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "Texas genus:Chelydra" ; Times: 1
+	Query: "specificepithet:woodhousii family:Bufonidae county:&#34;Gillespie&#34; stateprovince:&#34;Texas&#34;" ; Times: 2
+	Query: "Texas genus:Pseudemys" ; Times: 1
+	Query: "Anolis carolinensis specificepithet:carolinensis genus:Anolis country:&#34;United States&#34; hastissue:1" ; Times: 1
+	Query: "mappable:1 scientificname:Chrysemys scripta" ; Times: 1
+	Query: "specificepithet:browni genus:Phyllorhynchus" ; Times: 3
+	Query: "Coachwhip" ; Times: 2
+	Query: "Texas genus:Diadophis" ; Times: 1
+	Query: "Ficimia olivacea" ; Times: 1
+	Query: "Texas specificepithet:pseudogeographica genus:Graptemys" ; Times: 1
+	Query: "Texas specificepithet:clamitans genus:Rana" ; Times: 1
+	Query: "14370" ; Times: 1
+	Query: "class:Reptilia county:&#34;shelby&#34; stateprovince:&#34;texas&#34; country:&#34;united states&#34;" ; Times: 2
+	Query: "smilisca baudinii texas" ; Times: 1
+	Query: "specificepithet:bombifrons order:Anura county:&#34;Lynn&#34; stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "specificepithet:bombifrons order:Anura county:&#34;Terry&#34; stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "specificepithet:flavescens genus:Kinosternon county:&#34;Bexar&#34;" ; Times: 1
+	Query: "specificepithet:viridis genus:crotalus stateprovince:&#34;Utah&#34;" ; Times: 1
+	Query: "specificepithet:carolinensis genus:Anolis country:&#34;United States&#34; hastissue:1" ; Times: 1
+	Query: "american toad" ; Times: 2
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 59 (out of 756 download events in this period)
+Total number of records downloaded: 17868
+Number of different countries: 2
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 58
+	Country: Mexico ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-08-19 ; Times: 1
+	Date: 2020-08-10 ; Times: 1
+	Date: 2020-08-02 ; Times: 1
+	Date: 2020-08-17 ; Times: 29
+	Date: 2020-08-01 ; Times: 1
+	Date: 2020-08-15 ; Times: 2
+	Date: 2020-08-14 ; Times: 2
+	Date: 2020-08-04 ; Times: 2
+	Date: 2020-08-05 ; Times: 2
+	Date: 2020-08-06 ; Times: 5
+	Date: 2020-08-29 ; Times: 2
+	Date: 2020-08-27 ; Times: 3
+	Date: 2020-08-13 ; Times: 1
+	Date: 2020-08-31 ; Times: 3
+	Date: 2020-08-23 ; Times: 1
+	Date: 2020-08-09 ; Times: 1
+	Date: 2020-08-21 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "ophisaurus attenuatus" ; Times: 1
+	Query: "Texas specificepithet:bombifrons genus:Scaphiopus" ; Times: 1
+	Query: "coniophanes imperialis" ; Times: 1
+	Query: "Texas genus:Heterodon" ; Times: 1
+	Query: "Texas genus:Hypsiglena" ; Times: 1
+	Query: "Texas genus:Masticophis" ; Times: 1
+	Query: "Texas genus:Leptotyphlops" ; Times: 1
+	Query: "Texas specificepithet:flavescens genus:Kinosternon" ; Times: 1
+	Query: "class:reptilia locality:pecos river" ; Times: 1
+	Query: "Texas genus:Chelydra" ; Times: 1
+	Query: "specificepithet:clarkii genus:sceloporus county:&#34;cochise&#34; stateprovince:&#34;arizona&#34; country:&#34;United States&#34; basisofrecord:PreservedSpecimen" ; Times: 2
+	Query: "Texas genus:Pseudemys" ; Times: 1
+	Query: "hypsiglena torquata" ; Times: 1
+	Query: "Texas specificepithet:cinerea genus:Hyla" ; Times: 1
+	Query: "Texas specificepithet:palustris genus:Rana" ; Times: 1
+	Query: "specificepithet:triangulum genus:Lampropeltis stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "Texas specificepithet:rhombifer genus:Nerodia" ; Times: 1
+	Query: "Texas genus:Arizona" ; Times: 1
+	Query: "vntype:specimen specificepithet:stansburiana genus:Uta" ; Times: 1
+	Query: "lampropeltis triangulum" ; Times: 1
+	Query: "cemophora coccinea" ; Times: 1
+	Query: "Texas specificepithet:calligaster genus:Lampropeltis" ; Times: 1
+	Query: "Texas genus:Diadophis" ; Times: 1
+	Query: "order:Testudines" ; Times: 2
+	Query: "Sceloporus graciosus" ; Times: 1
+	Query: "specificepithet:graciosus genus:Sceloporus stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "Texas specificepithet:catenatus genus:Sistrurus" ; Times: 1
+	Query: "gbifdatasetid:72848c29-b2fd-4a99-9e99-82fe93eecc5b" ; Times: 1
+	Query: "Anolis pentaprion" ; Times: 1
+	Query: "Texas specificepithet:muticus genus:Trionyx" ; Times: 1
+	Query: "tantilla rubra" ; Times: 1
+	Query: "Texas specificepithet:obsoleta genus:Elaphe" ; Times: 1
+	Query: "Ficimia olivacea" ; Times: 1
+	Query: "Texas specificepithet:pseudogeographica genus:Graptemys" ; Times: 1
+	Query: "Texas specificepithet:erythrogaster genus:Nerodia" ; Times: 1
+	Query: "Texas specificepithet:proximus genus:Thamnophis" ; Times: 1
+	Query: "Texas genus:Sonora" ; Times: 1
+	Query: "heterodon platyrhinos" ; Times: 1
+	Query: "genus:scaphiopus hastissue:1" ; Times: 1
+	Query: "smilisca baudinii texas" ; Times: 1
+	Query: "stateprovince:&#34;North Carolina&#34; (salamander)" ; Times: 1
+	Query: "Texas specificepithet:obsoletus genus:Eumeces" ; Times: 1
+	Query: "stateprovince:&#34;Oregon&#34; year &gt;= 1990 year &lt;= 2020" ; Times: 1
+	Query: "Texas specificepithet:spiniferus genus:Trionyx" ; Times: 1
+	Query: "Texas specificepithet:chrysoscelis genus:Hyla" ; Times: 1
+	Query: "Sternotherus odoratus" ; Times: 2
+	Query: "Texas genus:Opheodrys" ; Times: 1
+	Query: "class:amphibia locality:pecos river" ; Times: 1
+	Query: "specificepithet:graciosus genus:Sceloporus" ; Times: 1
+	Query: "Texas specificepithet:bombifrons genus:Spea" ; Times: 1
+	Query: "Texas specificepithet:nigriceps genus:Tantilla" ; Times: 1
+	Query: "Texas specificepithet:clamitans genus:Rana" ; Times: 1
+	Query: "snapping turtle" ; Times: 1
+	Query: "Texas specificepithet:marcianus genus:Thamnophis" ; Times: 1
+	Query: "crotalus horridus" ; Times: 2
+
+
+End of report.
