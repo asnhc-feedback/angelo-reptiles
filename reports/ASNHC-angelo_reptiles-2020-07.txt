@@ -1,0 +1,185 @@
+Report for Institution Code ASNHC, Resource angelo_reptiles
+Usage stats for July 2020, generated on 2020/11/28
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 117
+Number of records retrieved in searches: 1013
+Number of different countries where searches have been originated: 8
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 1
+	Country: Canada ; Times: 1
+	Country: Australia ; Times: 2
+	Country: Mexico ; Times: 4
+	Country: United States ; Times: 102
+	Country: Germany ; Times: 1
+	Country: Peru ; Times: 2
+	Country: Ecuador ; Times: 4
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-07-09 ; Times: 1
+	Date: 2020-07-08 ; Times: 1
+	Date: 2020-07-21 ; Times: 3
+	Date: 2020-07-27 ; Times: 1
+	Date: 2020-07-25 ; Times: 4
+	Date: 2020-07-22 ; Times: 16
+	Date: 2020-07-01 ; Times: 4
+	Date: 2020-07-03 ; Times: 2
+	Date: 2020-07-02 ; Times: 8
+	Date: 2020-07-05 ; Times: 2
+	Date: 2020-07-07 ; Times: 4
+	Date: 2020-07-23 ; Times: 4
+	Date: 2020-07-29 ; Times: 16
+	Date: 2020-07-18 ; Times: 1
+	Date: 2020-07-19 ; Times: 2
+	Date: 2020-07-30 ; Times: 28
+	Date: 2020-07-11 ; Times: 1
+	Date: 2020-07-16 ; Times: 5
+	Date: 2020-07-31 ; Times: 4
+	Date: 2020-07-14 ; Times: 4
+	Date: 2020-07-17 ; Times: 1
+	Date: 2020-07-15 ; Times: 3
+	Date: 2020-07-28 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "northern leopard frog" ; Times: 1
+	Query: "crotalus lepidus lepidus" ; Times: 2
+	Query: "crotalus molossus" ; Times: 1
+	Query: "11825" ; Times: 1
+	Query: "Crotalus lepidus" ; Times: 2
+	Query: "Eurycea pterophila" ; Times: 2
+	Query: "rana berlandieri la salle" ; Times: 1
+	Query: "Eunectes murinus murinus" ; Times: 1
+	Query: "catalognumber:7478" ; Times: 1
+	Query: "Anolis carolinensis texas" ; Times: 1
+	Query: "Lampropeltis alterna" ; Times: 3
+	Query: "Eurycea spelaea" ; Times: 2
+	Query: "genus:Ophisaurus stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "Eurycea lucifuga" ; Times: 3
+	Query: "ASNHC 12735" ; Times: 2
+	Query: "Plethodon mississippi" ; Times: 2
+	Query: "Eurycea longicauda" ; Times: 3
+	Query: "Crotalus pricei" ; Times: 1
+	Query: "Smilisca baudinii" ; Times: 3
+	Query: "specificepithet:meridionalis family:Salamandridae stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "genus:Necturus stateprovince:&#34;Florida&#34;" ; Times: 1
+	Query: "genus:Crotaphytus stateprovince:&#34;colorado&#34;" ; Times: 1
+	Query: "ASNHC 14682" ; Times: 2
+	Query: "specificepithet:mazatlanensis family:bufonidae" ; Times: 1
+	Query: "specificepithet:cavifrons family:bufonidae" ; Times: 1
+	Query: "specificepithet:pterophila genus:Eurycea county:&#34;Hays&#34;" ; Times: 1
+	Query: "specificepithet:punctatus genus:bufo stateprovince:&#34;texas&#34;" ; Times: 1
+	Query: "catalognumber:2201 year &gt;= 1932" ; Times: 1
+	Query: "Atalanta" ; Times: 1
+	Query: "(crotalus pricei)" ; Times: 1
+	Query: "red spotted toad" ; Times: 1
+	Query: "specificepithet:marmoreus family:bufonidae" ; Times: 1
+	Query: "lampropeltis alterna" ; Times: 1
+	Query: "Eurycea guttolineata" ; Times: 1
+	Query: "Chrysemys scripta mappable:1" ; Times: 1
+	Query: "Eurycea quadridigitata" ; Times: 1
+	Query: "Eurycea cirrigera" ; Times: 3
+	Query: "family:Bufonidae county:&#34;Anderson&#34; stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "specificepithet:constrictor genus:coluber hastissue:1" ; Times: 1
+	Query: "specificepithet:nana genus:Eurycea county:&#34;Hays&#34; stateprovince:&#34;Texas&#34;" ; Times: 2
+	Query: "specificepithet:horridus genus:Crotalus hastissue:1" ; Times: 1
+	Query: "genus:Necturus stateprovince:&#34;Florida&#34; year &gt;= 2000" ; Times: 1
+	Query: "genus:Necturus stateprovince:&#34;Florida&#34; year &gt;= 1990" ; Times: 1
+	Query: "order:Gymnophiona hastissue:1" ; Times: 1
+	Query: "Desmognathus conanti" ; Times: 2
+	Query: "Plethodon jordani" ; Times: 1
+	Query: "Desmognathus quadramaculatus" ; Times: 3
+	Query: "Pseudemys texana" ; Times: 2
+	Query: "genus:salvadora hastissue:1" ; Times: 2
+	Query: "Eurycea nana" ; Times: 2
+	Query: "Pseudotriton ruber" ; Times: 2
+	Query: "specificepithet:nana genus:Eurycea county:&#34;Hays&#34;" ; Times: 2
+	Query: "Aneides hardii" ; Times: 7
+	Query: "Desmognathus monticola" ; Times: 1
+	Query: "Plethodon albagula" ; Times: 1
+	Query: "genus:Cryptobranchus stateprovince:&#34;Alabama&#34;" ; Times: 1
+	Query: "crotalus pricei" ; Times: 2
+	Query: "Plethodon ventralis" ; Times: 1
+	Query: "13459" ; Times: 1
+	Query: "genus:Sonora county:&#34;Comanche&#34; stateprovince:&#34;Texas&#34;" ; Times: 2
+	Query: "Eurycea neotenes" ; Times: 1
+	Query: "genus:Sonora county:&#34;Comanche&#34; stateprovince:&#34;Texas&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "specificepithet:zonata genus:Lampropeltis stateprovince:&#34;California&#34; year &gt;= 1961 year &lt;= 1970" ; Times: 1
+	Query: "specificepithet:pterophila county:&#34;Hays&#34;" ; Times: 2
+	Query: "ophisaurus texas" ; Times: 1
+	Query: "specificepithet:melanonotus genus:Leptodactylus hastissue:1" ; Times: 1
+	Query: "genus:Xantusia county:&#34;Nye&#34; stateprovince:&#34;Nevada&#34;" ; Times: 1
+	Query: "specificepithet:cyrtopsis genus:Thamnophis stateprovince:&#34;Arizona&#34;" ; Times: 1
+	Query: "specificepithet:nana genus:Eurycea" ; Times: 9
+	Query: "crotalus lepidus arizona" ; Times: 1
+	Query: "western toad" ; Times: 1
+	Query: "Massasauga" ; Times: 2
+	Query: "Salvadora grahamiae texas victoria" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 34 (out of 940 download events in this period)
+Total number of records downloaded: 4015
+Number of different countries: 5
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 22
+	Country: Brazil ; Times: 1
+	Country: Guatemala ; Times: 1
+	Country: Australia ; Times: 4
+	Country: Mexico ; Times: 6
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-07-09 ; Times: 1
+	Date: 2020-07-08 ; Times: 1
+	Date: 2020-07-20 ; Times: 1
+	Date: 2020-07-27 ; Times: 1
+	Date: 2020-07-25 ; Times: 2
+	Date: 2020-07-22 ; Times: 1
+	Date: 2020-07-13 ; Times: 4
+	Date: 2020-07-10 ; Times: 1
+	Date: 2020-07-30 ; Times: 1
+	Date: 2020-07-04 ; Times: 3
+	Date: 2020-07-14 ; Times: 2
+	Date: 2020-07-06 ; Times: 1
+	Date: 2020-07-31 ; Times: 9
+	Date: 2020-07-07 ; Times: 2
+	Date: 2020-07-15 ; Times: 1
+	Date: 2020-07-03 ; Times: 3
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:cavifrons family:bufonidae" ; Times: 1
+	Query: "viperidae" ; Times: 1
+	Query: "specificepithet:douglassii genus:phrynosoma" ; Times: 1
+	Query: "vntype:specimen genus:Sceloporus stateprovince:&#34;Oklahoma&#34;" ; Times: 1
+	Query: "Smilisca baudinii" ; Times: 1
+	Query: "elapidae" ; Times: 1
+	Query: "Thecadactylus rapicauda" ; Times: 1
+	Query: "specificepithet:mazatlanensis family:bufonidae" ; Times: 1
+	Query: "spea multiplicata" ; Times: 1
+	Query: "specificepithet:marmoreus family:bufonidae" ; Times: 1
+	Query: "class:Amphibia country:&#34;Panamá&#34;" ; Times: 4
+	Query: "sonora semiannulata texas" ; Times: 1
+	Query: "specificepithet:melanonotus genus:Leptodactylus" ; Times: 1
+	Query: "class:Amphibia country:&#34;Panama&#34;" ; Times: 1
+	Query: "specificepithet:canaliferus family:bufonidae" ; Times: 1
+	Query: "locality:Sipsey county:&#34;Tuscaloosa&#34; stateprovince:&#34;Alabama&#34;" ; Times: 1
+	Query: "specificepithet:bocourti family:bufonidae" ; Times: 1
+	Query: "specificepithet:occidentalis genus:Sceloporus stateprovince:&#34;California&#34; year &gt;= 1951 year &lt;= 1980" ; Times: 1
+	Query: "Colubridae" ; Times: 1
+	Query: "order:Squamata stateprovince:&#34;New Mexico&#34;" ; Times: 1
+	Query: "specificepithet:valliceps family:bufonidae" ; Times: 1
+	Query: "specificepithet:alvarius family:bufonidae" ; Times: 1
+	Query: "Viperidae" ; Times: 1
+	Query: "specificepithet:nebulifer family:bufonidae" ; Times: 1
+	Query: "Storeria dekayi" ; Times: 1
+	Query: "specificepithet:melanonotus genus:Leptodactylus hastissue:1" ; Times: 1
+	Query: "class:Amphibia country:&#34;Guatemala&#34;" ; Times: 1
+	Query: "Pseudemys texana" ; Times: 1
+	Query: "genus:Trachemys" ; Times: 1
+	Query: "Chelydra serpentina" ; Times: 1
+	Query: "coluber constrictor" ; Times: 1
+
+
+End of report.
