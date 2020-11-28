@@ -1,0 +1,72 @@
+Report for Institution Code ASNHC, Resource angelo_reptiles
+Usage stats for June 2020, generated on 2020/11/27
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 42
+Number of records retrieved in searches: 248
+Number of different countries where searches have been originated: 4
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 38
+	Country: Unknown ; Times: 2
+	Country: Mexico ; Times: 1
+	Country: Singapore ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-06-08 ; Times: 4
+	Date: 2020-06-09 ; Times: 2
+	Date: 2020-06-11 ; Times: 6
+	Date: 2020-06-04 ; Times: 10
+	Date: 2020-06-05 ; Times: 6
+	Date: 2020-06-02 ; Times: 1
+	Date: 2020-06-03 ; Times: 3
+	Date: 2020-06-10 ; Times: 9
+	Date: 2020-06-01 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Lampropeltis alterna" ; Times: 1
+	Query: "institutioncode:asnhc catalognumber:13037" ; Times: 1
+	Query: "catalognumber:12345 institutioncode:ASNHC" ; Times: 3
+	Query: "crotalus pricei" ; Times: 3
+	Query: "gbifdatasetid:72848c29-b2fd-4a99-9e99-82fe93eecc5b" ; Times: 1
+	Query: "Carphophis Texas" ; Times: 6
+	Query: "class:Reptilia stateprovince:&#34;Panama&#34; country:&#34;Panama&#34;" ; Times: 1
+	Query: "box turtle" ; Times: 1
+	Query: "tantilla rubra" ; Times: 1
+	Query: "amphiuma tridactylum" ; Times: 6
+	Query: "specificepithet:flagellum genus:Masticophis hastissue:1" ; Times: 1
+	Query: "lampropeltis alterna" ; Times: 1
+	Query: "pit viper" ; Times: 1
+	Query: "catalognumber: 3742" ; Times: 1
+	Query: "catalognumber:13037 institutioncode:ASNHC" ; Times: 1
+	Query: "hastissue:1 bothriechis" ; Times: 1
+	Query: "Crotalus pricei" ; Times: 11
+	Query: "tantilla atriceps" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 10 (out of 474 download events in this period)
+Total number of records downloaded: 14981
+Number of different countries: 1
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 10
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-06-01 ; Times: 5
+	Date: 2020-06-05 ; Times: 3
+	Date: 2020-06-09 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "catalognumber:12345 institutioncode:ASNHC" ; Times: 1
+	Query: "box turtle" ; Times: 2
+	Query: "specificepithet:truei genus:Ascaphus" ; Times: 1
+	Query: "institutioncode:ASNHC" ; Times: 1
+	Query: "Ambystoma maculatum" ; Times: 2
+	Query: "genus:scaphiopus stateprovince:&#34;oklahoma&#34;" ; Times: 1
+	Query: "bullfrog" ; Times: 1
+	Query: "tiger salamander" ; Times: 1
+
+
+End of report.
